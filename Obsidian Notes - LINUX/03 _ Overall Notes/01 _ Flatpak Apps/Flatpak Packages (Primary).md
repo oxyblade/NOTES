@@ -95,6 +95,7 @@ ___
 LibreOffice Impress, Document Viewer, Calculator, Calendar
 ```
 flatpak install flathub net.codeindustry.MasterPDFEditor -y
+flatpak install flathub org.gnome.Papers
 flatpak install flathub com.toolstack.Folio -y
 flatpak install flathub org.gnome.World.Iotas -y
 flatpak install flathub io.github.amit9838.mousam -y
