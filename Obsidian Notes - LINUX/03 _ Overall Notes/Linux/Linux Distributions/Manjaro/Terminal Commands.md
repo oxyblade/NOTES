@@ -6,8 +6,8 @@ sudo pacman -S 		-- Install packages
 sudo pacman -R 		-- Remove packages
 sudo pacman -Rs 		-- Remove packages, unrequired dependencies
 sudo pacman -Rsn 	-- Remove packages, unrequired dependencies, configs
-sudo pacman -Sc		-- Remove packages that are no longer installed from the cache
 
+sudo pacman -Sc		-- Remove packages that are no longer installed from the cache
 sudo pacman -Qdtq				-- Check unrequired dependencies
 sudo pacman -R $(pacman -Qdtq) 	-- Remove unrequired dependencies
 
