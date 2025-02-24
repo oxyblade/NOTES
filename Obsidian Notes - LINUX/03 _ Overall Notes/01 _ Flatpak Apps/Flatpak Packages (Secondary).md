@@ -45,6 +45,7 @@ flatpak install flathub io.gitlab.adhami3310.Converter -y
 
 ## Video
 ```
+flatpak install flathub io.github.celluloid_player.Celluloid -y
 flatpak install flathub io.github.seadve.Kooha -y
 flatpak install flathub io.github.yuki_iptv.yuki-iptv -y
 flatpak install flathub dev.fredol.open-tv -y

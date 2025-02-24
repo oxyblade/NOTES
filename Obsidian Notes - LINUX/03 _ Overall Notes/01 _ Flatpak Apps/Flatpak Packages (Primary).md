@@ -73,7 +73,6 @@ ___
 ## Video
 ```
 flatpak install flathub org.gnome.Showtime -y
-flatpak install flathub io.github.celluloid_player.Celluloid -y
 flatpak install flathub no.mifi.losslesscut -y
 flatpak install flathub org.shotcut.Shotcut -y
 flatpak install flathub org.kde.kdenlive -y
