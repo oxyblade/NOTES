@@ -72,7 +72,7 @@ ___
 
 --- For Compile From SOURCES ---
 ```
-sudo dnf install cmake gcc gcc-c++ make
+sudo dnf install cmake gcc-c++ gcc make
 ```
 
 --- PACKAGES - Misc (OPTIONAL) ---
