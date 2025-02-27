@@ -20,7 +20,7 @@ sudo dnf install nvidia-smi nvidia-xconfig egl-utils unrar p7zip composer libxcr
 --- PHP: Local Server ---
 ```
 sudo dnf install php
-sudo dnf install php-apache php-cgi php-gd php-embed php-imagick php-redis php-snmp
+sudo dnf install php-cgi php-gd php-imagick php-redis php-snmp
 php -v
 php -m
 ```
