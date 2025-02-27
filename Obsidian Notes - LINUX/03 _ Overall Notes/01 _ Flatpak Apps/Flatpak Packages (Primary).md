@@ -59,10 +59,10 @@ ___
 ## Images
 ```
 flatpak install flathub org.gimp.GIMP -y
+flatpak install flathub com.boxy_svg.BoxySVG -y
 flatpak install flathub org.nomacs.ImageLounge -y
 flatpak install flathub org.gnome.gThumb -y
 flatpak install flathub io.gitlab.adhami3310.Converter -y
-flatpak install flathub com.boxy_svg.BoxySVG -y
 flatpak install flathub org.kde.optiimage -y
 flatpak install flathub com.xnview.XnViewMP -y
 flatpak install flathub page.kramo.Sly -y
