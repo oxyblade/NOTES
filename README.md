@@ -10,12 +10,11 @@ ___
 ├── .gitignore
 ├── "Obsidian Notes - LINUX
 │   └── 03 _ Overall Notes
-│       ├── Linux
-│       │   └── Linux Distributions
-│       │       └── Manjaro
-│       │           └── System won\342\200\231t completely power off.md"
-│       └── Personal
-│           └── \320\233\320\265\320\272\320\260\321\200\321\201\321\202\320\262\320\260 (\320\233\320\265\321\207\320\265\320\275\320\270\320\265).md"
+│       └── OS
+│           └── Linux
+│               └── Linux Distributions
+│                   └── Manjaro
+│                       └── System won\342\200\231t completely power off.md"
 ├── Obsidian Notes - LINUX
 │   ├── 01 _ DESKTOP
 │   │   ├── 01 _ Fedora_GNOME (Desktop)
@@ -62,51 +61,56 @@ ___
 │   │   ├── Dev
 │   │   │   ├── Bash (Shell).md
 │   │   │   └── Git.md
-│   │   ├── Linux
-│   │   │   ├── Linux Distributions
-│   │   │   │   ├── Debian
-│   │   │   │   │   └── Notes.md
-│   │   │   │   ├── Fedora
-│   │   │   │   │   ├── Laptop suspend or hibernate after closing lid.md
-│   │   │   │   │   ├── Notes.md
-│   │   │   │   │   └── Terminal Commands.md
-│   │   │   │   ├── Manjaro
-│   │   │   │   │   ├── Optimus Manager. Switch Nvidia & Intel GPU.md
-│   │   │   │   │   └── Terminal Commands.md
-│   │   │   │   ├── Overall Terminal Commands.md
-│   │   │   │   └── Ubuntu
-│   │   │   │       └── Notes.md
-│   │   │   ├── Misc
-│   │   │   │   ├── AudioCard & Microphone Improvements.md
-│   │   │   │   ├── Environments.md
-│   │   │   │   ├── GRUB & GRUB Parameters.md
-│   │   │   │   ├── gtk (Legacy).md
-│   │   │   │   ├── Install multiple DE.md
-│   │   │   │   ├── Linux Virtual memory (Options).md
-│   │   │   │   ├── Nvidia - ERROR nvidia-drm Failed to grab modeset ownership.md
-│   │   │   │   ├── Nvidia - Fan Control.md
-│   │   │   │   ├── Nvidia - ForceCompositionPipeline.md
-│   │   │   │   ├── sssd failure (System Security Services Daemon).md
-│   │   │   │   ├── System Settings.md
-│   │   │   │   └── tracker_miner_fs.md
-│   │   │   └── Terminal
-│   │   │       ├── Apps.md
-│   │   │       ├── Files.md
-│   │   │       ├── Hardware.md
-│   │   │       ├── HDD, SSD, NVMe.md
-│   │   │       ├── Monitoring.md
-│   │   │       ├── Network.md
-│   │   │       ├── Packages.md
-│   │   │       └── Web.md
 │   │   ├── Network
 │   │   │   ├── DNS Servers.md
 │   │   │   └── IP & MAC Addresses (Personal).md
 │   │   ├── NPM Packages (Primary).md
+│   │   ├── OS
+│   │   │   ├── Linux
+│   │   │   │   ├── Linux Distributions
+│   │   │   │   │   ├── Debian
+│   │   │   │   │   │   └── Notes.md
+│   │   │   │   │   ├── Fedora
+│   │   │   │   │   │   ├── Laptop suspend or hibernate after closing lid.md
+│   │   │   │   │   │   ├── Notes.md
+│   │   │   │   │   │   └── Terminal Commands.md
+│   │   │   │   │   ├── Manjaro
+│   │   │   │   │   │   ├── Optimus Manager. Switch Nvidia & Intel GPU.md
+│   │   │   │   │   │   └── Terminal Commands.md
+│   │   │   │   │   ├── Overall Terminal Commands.md
+│   │   │   │   │   └── Ubuntu
+│   │   │   │   │       └── Notes.md
+│   │   │   │   ├── Misc
+│   │   │   │   │   ├── AudioCard & Microphone Improvements.md
+│   │   │   │   │   ├── Environments.md
+│   │   │   │   │   ├── GRUB & GRUB Parameters.md
+│   │   │   │   │   ├── gtk (Legacy).md
+│   │   │   │   │   ├── Install multiple DE.md
+│   │   │   │   │   ├── Linux Virtual memory (Options).md
+│   │   │   │   │   ├── Nvidia - ERROR nvidia-drm Failed to grab modeset ownership.md
+│   │   │   │   │   ├── Nvidia - Fan Control.md
+│   │   │   │   │   ├── Nvidia - ForceCompositionPipeline.md
+│   │   │   │   │   ├── sssd failure (System Security Services Daemon).md
+│   │   │   │   │   ├── System Settings.md
+│   │   │   │   │   └── tracker_miner_fs.md
+│   │   │   │   └── Terminal
+│   │   │   │       ├── Apps.md
+│   │   │   │       ├── Files.md
+│   │   │   │       ├── Hardware.md
+│   │   │   │       ├── HDD, SSD, NVMe.md
+│   │   │   │       ├── Monitoring.md
+│   │   │   │       ├── Network.md
+│   │   │   │       ├── Packages.md
+│   │   │   │       └── Web.md
+│   │   │   └── Windows
+│   │   │       └── Windows 11.md
 │   │   ├── Personal
+│   │   │   ├── Medicine.md
 │   │   │   └── Notes (Personal).md
 │   │   ├── Server - Composer.md
 │   │   ├── Server - NodeJS.md
 │   │   ├── Servers
+│   │   │   ├── MySQL.md
 │   │   │   └── PHP.md
 │   │   ├── Services
 │   │   │   ├── ByFly DNS.md
@@ -116,8 +120,6 @@ ___
 │   │   ├── Virtual Machine Manager.md
 │   │   ├── Web
 │   │   │   └── E-mail.md
-│   │   ├── Windows
-│   │   │   └── Windows 11.md
 │   │   └── Work
 │   │       └── Project Links.md
 │   └── Bookmarks (Websites)
@@ -179,5 +181,5 @@ ___
 │               └── Misc.md
 └── README.md
 
-53 directories, 119 files
+54 directories, 120 files
 ```

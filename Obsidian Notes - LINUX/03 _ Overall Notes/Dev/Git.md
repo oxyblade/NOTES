@@ -19,3 +19,13 @@ git commit -m "Removed folder from repository"
 git push origin master
 ```
 
+### fatal: cannot exec '/usr/bin/ksshaskpass': No such file or directory
+
+```
+sudo dnf install ksshaskpass
+```
+
+Alternative:
+```
+sudo dnf install /usr/bin/ksshaskpass
+```
