@@ -56,7 +56,7 @@ flatpak install flathub dev.zed.Zed -y
 ```
 
 ___
-## Images
+## Graphics
 ```
 flatpak install flathub org.gimp.GIMP -y
 flatpak install flathub com.boxy_svg.BoxySVG -y
