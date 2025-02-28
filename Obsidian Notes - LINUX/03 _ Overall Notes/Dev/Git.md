@@ -1,3 +1,10 @@
+### Git Configuration
+
+```
+git config --global user.name "oxyblade"
+git config --global user.email oxyblade@gmail.com
+```
+
 ### Resolve large files
 
 ```
