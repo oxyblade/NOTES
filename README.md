@@ -8,13 +8,6 @@ ___
 ```
 .
 ├── .gitignore
-├── "Obsidian Notes - LINUX
-│   └── 03 _ Overall Notes
-│       └── OS
-│           └── Linux
-│               └── Linux Distributions
-│                   └── Manjaro
-│                       └── System won\342\200\231t completely power off.md"
 ├── Obsidian Notes - LINUX
 │   ├── 01 _ DESKTOP
 │   │   ├── 01 _ Fedora_GNOME (Desktop)
@@ -76,6 +69,7 @@ ___
 │   │   │   │   │   │   └── Terminal Commands.md
 │   │   │   │   │   ├── Manjaro
 │   │   │   │   │   │   ├── Optimus Manager. Switch Nvidia & Intel GPU.md
+│   │   │   │   │   │   ├── System not completely power off.md
 │   │   │   │   │   │   └── Terminal Commands.md
 │   │   │   │   │   ├── Overall Terminal Commands.md
 │   │   │   │   │   └── Ubuntu
@@ -181,5 +175,5 @@ ___
 │               └── Misc.md
 └── README.md
 
-54 directories, 120 files
+48 directories, 120 files
 ```
