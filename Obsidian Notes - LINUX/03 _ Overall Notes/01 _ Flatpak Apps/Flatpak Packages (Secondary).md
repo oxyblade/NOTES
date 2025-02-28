@@ -26,7 +26,7 @@ flatpak install flathub org.kde.okteta -y
 flatpak install flathub org.kde.ghostwriter -y
 ```
 
-## Images
+## Graphics
 ```
 flatpak install flathub com.github.maoschanz.drawing -y
 flatpak install flathub org.darktable.Darktable -y
@@ -68,6 +68,7 @@ flatpak install flathub org.gnome.SoundRecorder -y
 ```
 flatpak install flathub org.libreoffice.LibreOffice -y
 flatpak install flathub com.wps.Office -y
+flatpak install flathub org.kde.calligra -y
 flatpak install flathub org.standardnotes.standardnotes -y
 flatpak install flathub net.jenyay.Outwiker -y
 flatpak install flathub io.appflowy.AppFlowy -y
