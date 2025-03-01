@@ -13,8 +13,8 @@ Terminal Size: 140 x 35
 [ GENERAL Options ]
 sudo nano /etc/default/grub
 
-GRUB_TIMEOUT=1 (OR 3)
-GRUB_CMDLINE_LINUX_DEFAULT="verbose"
+GRUB_TIMEOUT=3 (OR 1)
+GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3"
 sudo update-grub
 
 ## RAM, SSD, HDD OPTIMIZATION (OPTIONAL)

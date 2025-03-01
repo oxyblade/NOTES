@@ -7,8 +7,8 @@ Text Editor: Custom font: Monospace, 11
 [ GENERAL Options ]
 sudo nano /etc/default/grub
 
-GRUB_TIMEOUT=1 (OR 3)
-GRUB_CMDLINE_LINUX_DEFAULT="verbose loglevel=3"
+GRUB_TIMEOUT=3 (OR 1)
+GRUB_CMDLINE_LINUX_DEFAULT="rhgb loglevel=3"
 sudo grub2-mkconfig --output=/boot/grub2/grub.cfg
 
 ## RAM, SSD, HDD OPTIMIZATION (OPTIONAL)
