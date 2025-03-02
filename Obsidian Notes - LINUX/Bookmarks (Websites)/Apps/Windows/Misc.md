@@ -1,0 +1,9 @@
+https://massgrave.dev/hwid
+https://schneegans.de/windows/unattend-generator/
+https://www.win32subsystem.live/supermium/
+https://www.mypal-browser.org/
+https://www.sordum.org/
+https://ninite.com/
+https://download.virtualbox.org/virtualbox/
+https://windakeys.ru/
+https://w14.monkrus.ws/
