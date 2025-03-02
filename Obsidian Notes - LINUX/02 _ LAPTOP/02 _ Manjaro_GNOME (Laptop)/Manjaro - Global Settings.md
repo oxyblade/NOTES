@@ -15,8 +15,8 @@ Terminal: Change Shortcuts
 [ GENERAL Options ]
 sudo nano /etc/default/grub
 
-GRUB_TIMEOUT=1 (OR 3)
-GRUB_CMDLINE_LINUX="verbose"
+GRUB_TIMEOUT=3 (OR 1)
+GRUB_CMDLINE_LINUX="loglevel=3"
 sudo update-grub
 
 ## FS FLAGS (OPTIONAL)

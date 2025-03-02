@@ -8,7 +8,7 @@ Text Editor: Custom font: Monospace, 11
 sudo nano /etc/default/grub
 
 GRUB_TIMEOUT=0 (OR 3)
-GRUB_CMDLINE_LINUX="verbose loglevel=3"
+GRUB_CMDLINE_LINUX="loglevel=3"
 sudo grub2-mkconfig --output=/boot/grub2/grub.cfg
 
 ## FS FLAGS (OPTIONAL)
