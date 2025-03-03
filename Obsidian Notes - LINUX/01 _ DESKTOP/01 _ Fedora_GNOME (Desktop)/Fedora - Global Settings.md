@@ -1,5 +1,5 @@
 ## Overall Settings
-Terminal: Custom font, Window Size: (Monospace 11, 150 x 35) (10, 145 x 35)
+Terminal: Custom font, Window Size: (Monospace 11, 140 x 35) (10, 145 x 35)
 Terminal: Change Shortcuts
 Text Editor: Custom font: Monospace, 11
 
