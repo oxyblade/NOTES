@@ -39,7 +39,6 @@ Firefox ESR, Tor Browser, VK Messenger
 ```
 flatpak install flathub org.signal.Signal -y
 flatpak install flathub com.viber.Viber -y
-flatpak install flathub com.skype.Client -y
 flatpak install flathub us.zoom.Zoom -y
 flatpak install flathub org.gajim.Gajim -y
 flatpak install flathub org.nickvision.tubeconverter -y
