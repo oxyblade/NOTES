@@ -107,7 +107,7 @@ alias qq-script-dns-ping='~/STORAGE_ASUS/01_Apps/Apps_Backup/01_LINUX/Overall_Fi
 alias qq-script-hostname='~/STORAGE_ASUS/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-hostname.sh'
 alias qq-script-npm-yarn-sudo='sudo ~/STORAGE_ASUS/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-npm-yarn-sudo.sh'
 alias qq-script-ports-local-sudo='sudo ~/STORAGE_ASUS/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-ports-local-sudo.sh'
-alias qq-script-resources='~/STORAGE_ASUS/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-resources.sh'
+alias qq-script-resources-laptop='~/STORAGE_ASUS/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-resources-laptop.sh'
 
 ## Extended Scripts
 alias qq-script-external-geekbench='sudo ~/STORAGE_ASUS/01_Apps/Apps_Portable/002/Geekbench/geekbench6'
