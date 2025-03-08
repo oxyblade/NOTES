@@ -114,7 +114,7 @@ alias qq-script-dns-ping='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/
 alias qq-script-hostname='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-hostname.sh'
 alias qq-script-npm-yarn-sudo='sudo /mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-npm-yarn-sudo.sh'
 alias qq-script-ports-local-sudo='sudo /mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-ports-local-sudo.sh'
-alias qq-script-resources='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-resources.sh'
+alias qq-script-resources-desktop='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-resources-desktop.sh'
 
 ## Extended Scripts
 alias qq-script-external-geekbench='sudo /mnt/HDD_1/01_Apps/Apps_Portable/002/Geekbench/geekbench6'
