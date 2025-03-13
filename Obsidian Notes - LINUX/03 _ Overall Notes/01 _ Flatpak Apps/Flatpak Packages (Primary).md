@@ -165,6 +165,7 @@ ___
 --- Environment (Variables) ---
 GTK_THEME=Adwaita-dark
 GTK_THEME=Adw-dark
+GTK_THEME=Breeze-Dark
 
 --- Flatpak commands ---
 flatpak run org.gajim.Gajim
