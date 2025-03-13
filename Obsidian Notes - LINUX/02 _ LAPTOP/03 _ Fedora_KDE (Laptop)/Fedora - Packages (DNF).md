@@ -6,7 +6,7 @@ GUI Packages:
 sudo dnf install gnome-logs gnome-disk-utility baobab gnome-weather gnome-themes-extra gnome-firmware gparted brasero
 
 Utils Packages:
-sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop igt-gpu-tools sslscan dnsmap dnsenum sysstat
+sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop igt-gpu-tools sslscan dnsmap dnsenum sysstat htop
 
 Misc Packages:
 sudo dnf install unrar p7zip composer libxcrypt-compat libnsl meson
