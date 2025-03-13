@@ -167,6 +167,11 @@ GTK_THEME=Adwaita-dark
 GTK_THEME=Adw-dark
 GTK_THEME=Breeze-Dark
 
+--- KDE Plasma (Dark Theme) ---
+/usr/share/themes (copy Adwaita-dark & Breeze-Dark) -> /home/andrew/.themes
+Filesystem Permissions: ~/.themes
+Environment: GTK_THEME=Adwaita-dark
+
 --- Flatpak commands ---
 flatpak run org.gajim.Gajim
 flatpak uninstall --delete-data com.google.Chrome -y
