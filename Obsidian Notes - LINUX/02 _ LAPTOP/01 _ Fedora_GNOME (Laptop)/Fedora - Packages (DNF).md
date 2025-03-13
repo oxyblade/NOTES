@@ -11,6 +11,10 @@ sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nloa
 Misc Packages:
 sudo dnf install unrar p7zip composer libxcrypt-compat gtk2 libnsl meson
 
+CD / DVD / Blu-ray Burning Applications:
+k3b — CD/DVD/Blu-ray burning application (sudo chmod 4755 /usr/bin/wodim)
+xfburn — CD burning tool
+
 --- PHP: Local Server ---
 sudo dnf install php
 sudo dnf install php-apache php-cgi php-gd php-embed php-imagick php-redis php-snmp

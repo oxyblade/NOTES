@@ -11,6 +11,10 @@ sudo pacman -S base-devel inxi fastfetch fastfetch neofetch duf lnav lshw speedt
 Misc Packages:
 sudo pacman -S unrar p7zip composer libxcrypt-compat gtk2 libnsl meson
 
+CD / DVD / Blu-ray Burning Applications:
+k3b — CD/DVD/Blu-ray burning application (sudo chmod 4755 /usr/bin/wodim)
+xfburn — CD burning tool
+
 --- PHP: Local Server ---
 sudo pacman -S php
 sudo pacman -S php-apache php-cgi php-gd php-embed php-imagick php-redis php-snmp
