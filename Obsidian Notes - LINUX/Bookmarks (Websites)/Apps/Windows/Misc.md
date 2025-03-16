@@ -1,4 +1,5 @@
 https://massgrave.dev/hwid
+https://github.com/massgravel/Microsoft-Activation-Scripts
 https://schneegans.de/windows/unattend-generator/
 https://www.win32subsystem.live/supermium/
 https://www.mypal-browser.org/
