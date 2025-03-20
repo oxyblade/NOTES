@@ -26,8 +26,8 @@ flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub org.ksnip.ksnip -y
 flatpak install flathub app.drey.Dialect -y
 flatpak install flathub fr.romainvigier.MetadataCleaner -y
-flatpak install flathub com.kjxbyz.PicGuard -y
 flatpak install flathub com.github.huluti.Curtail -y
+flatpak install flathub com.kjxbyz.PicGuard -y
 flatpak install flathub org.onlyoffice.desktopeditors -y
 flatpak install flathub io.missioncenter.MissionCenter -y
 flatpak install flathub net.nokyan.Resources -y
