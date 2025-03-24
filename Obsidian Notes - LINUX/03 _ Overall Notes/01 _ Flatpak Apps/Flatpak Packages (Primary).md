@@ -1,10 +1,10 @@
 ## GNOME Dash
 Terminal, Nautilus, HiFile, Firefox, PhpStorm, Software, Rhythmbox
 ```
+flatpak install flathub md.obsidian.Obsidian -y
 flatpak install flathub com.brave.Browser -y
 flatpak install flathub com.google.Chrome -y
 flatpak install flathub org.filezillaproject.Filezilla -y
-flatpak install flathub md.obsidian.Obsidian -y
 ```
 
 ___
