@@ -40,6 +40,7 @@ flatpak install flathub net.fasterland.converseen -y
 flatpak install flathub com.bambulab.BambuStudio -y
 flatpak install flathub com.github.flxzt.rnote -y
 flatpak install flathub io.gitlab.adhami3310.Converter -y
+flatpak install flathub re.sonny.OhMySVG -y
 ```
 
 ## Video
@@ -76,6 +77,7 @@ flatpak install flathub io.appflowy.AppFlowy -y
 flatpak install flathub io.github.diegopvlk.Dosage -y
 flatpak install flathub org.gaphor.Gaphor -y
 flatpak install flathub org.nickvision.money -y
+flatpak install flathub io.github.mrvladus.List -y
 ```
 
 ## Tools & Utilities
@@ -97,6 +99,9 @@ flatpak install flathub com.borgbase.Vorta -y
 flatpak install flathub org.gnome.World.Secrets -y
 flatpak install flathub xyz.tytanium.DoorKnocker -y
 flatpak install flathub org.gnome.gitlab.cheywood.Buffer -y
+flatpak install flathub io.github.josephmawa.Bella -y
+flatpak install flathub org.kryogenix.Pick -y
+flatpak install flathub org.kde.kcolorchooser -y
 ```
 
 ## Networking
