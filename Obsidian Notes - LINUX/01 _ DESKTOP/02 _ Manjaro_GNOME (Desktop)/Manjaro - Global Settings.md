@@ -38,7 +38,7 @@ compress=zstd:1,defaults,noatime,discard=async
 
 BTRFS (HDD):
 compress=zstd:1,defaults,noatime
-compress=zstd:1,x-gvfs-show,defaults,noatime,noauto [ USB ]
+compress=zstd:1,x-gvfs-show,defaults,noatime [ USB ]
 
 EXT4 (HDD & SSD):
 defaults,noatime
