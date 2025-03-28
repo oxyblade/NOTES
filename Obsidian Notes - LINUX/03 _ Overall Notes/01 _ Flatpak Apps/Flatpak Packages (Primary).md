@@ -16,6 +16,7 @@ flatpak install flathub org.telegram.desktop -y
 flatpak install flathub io.github.mimbrero.WhatsAppDesktop -y
 flatpak install flathub com.sindresorhus.Caprine -y
 flatpak install flathub org.kde.krita -y
+flatpak install flathub org.gimp.GIMP -y
 flatpak install flathub org.inkscape.Inkscape -y
 flatpak install flathub com.github.PintaProject.Pinta -y
 flatpak install flathub org.kde.kid3 -y
@@ -25,7 +26,6 @@ flatpak install flathub com.transmissionbt.Transmission -y
 flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub org.ksnip.ksnip -y
 flatpak install flathub app.drey.Dialect -y
-flatpak install flathub fr.romainvigier.MetadataCleaner -y
 flatpak install flathub com.kjxbyz.PicGuard -y
 flatpak install flathub com.github.huluti.Curtail -y
 flatpak install flathub org.onlyoffice.desktopeditors -y
@@ -59,7 +59,6 @@ flatpak install flathub dev.zed.Zed -y
 ___
 ## Graphics
 ```
-flatpak install flathub org.gimp.GIMP -y
 flatpak install flathub com.boxy_svg.BoxySVG -y
 flatpak install flathub org.nomacs.ImageLounge -y
 flatpak install flathub org.gnome.gThumb -y
@@ -123,6 +122,7 @@ flatpak install flathub io.github.ronniedroid.concessio -y
 flatpak install flathub com.github.tenderowl.frog -y
 flatpak install flathub page.codeberg.JakobDev.jdReplace -y
 flatpak install flathub io.github.diegoivan.pdf_metadata_editor -y
+flatpak install flathub fr.romainvigier.MetadataCleaner -y
 flatpak install flathub io.github.nate_xyz.Paleta -y
 flatpak install flathub org.gnome.design.Palette -y
 flatpak install flathub com.felipekinoshita.Wildcard -y
