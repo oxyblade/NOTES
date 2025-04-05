@@ -1,5 +1,5 @@
 ## GNOME Dash
-Terminal, Nautilus, HiFile, Firefox, PhpStorm, Software, Rhythmbox
+Terminal, Nautilus, HiFile, Double Commander, Firefox, PhpStorm, Software, Rhythmbox
 ```
 flatpak install flathub md.obsidian.Obsidian -y
 flatpak install flathub com.brave.Browser -y
@@ -9,9 +9,8 @@ flatpak install flathub org.filezillaproject.Filezilla -y
 
 ___
 ## Activities Overview
-Sublime Text, LibreOffice Writer, LibreOffice Calc, Double Commander, Virtual Machine Manager, Disk Usage Analyzer, Disks, Logs, System Monitor
+Virtual Machine Manager
 ```
-flatpak install flathub com.visualstudio.code -y
 flatpak install flathub org.telegram.desktop -y
 flatpak install flathub io.github.mimbrero.WhatsAppDesktop -y
 flatpak install flathub com.sindresorhus.Caprine -y
@@ -19,18 +18,16 @@ flatpak install flathub org.kde.krita -y
 flatpak install flathub org.gimp.GIMP -y
 flatpak install flathub org.inkscape.Inkscape -y
 flatpak install flathub com.github.PintaProject.Pinta -y
-flatpak install flathub org.kde.kid3 -y
-flatpak install flathub org.soundconverter.SoundConverter -y
-flatpak install flathub io.github.giantpinkrobots.varia -y
-flatpak install flathub com.transmissionbt.Transmission -y
-flatpak install flathub com.dec05eba.gpu_screen_recorder -y
-flatpak install flathub org.ksnip.ksnip -y
-flatpak install flathub app.drey.Dialect -y
 flatpak install flathub com.xnview.XnViewMP -y
 flatpak install flathub com.github.huluti.Curtail -y
-flatpak install flathub org.onlyoffice.desktopeditors -y
-flatpak install flathub io.missioncenter.MissionCenter -y
+flatpak install flathub io.github.giantpinkrobots.varia -y
+flatpak install flathub com.transmissionbt.Transmission -y
+flatpak install flathub org.kde.kid3 -y
+flatpak install flathub org.soundconverter.SoundConverter -y
+flatpak install flathub com.obsproject.Studio -y
+flatpak install flathub app.drey.Dialect -y
 flatpak install flathub net.nokyan.Resources -y
+flatpak install flathub io.missioncenter.MissionCenter -y
 ```
 
 ___
@@ -52,8 +49,9 @@ flatpak install flathub com.protonvpn.www -y
 
 ___
 ## Dev
-JetBrains Apps, Text Editor
+Sublime Text, JetBrains Apps, Text Editor
 ```
+flatpak install flathub com.visualstudio.code -y
 flatpak install flathub dev.zed.Zed -y
 ```
 
@@ -71,20 +69,14 @@ flatpak install flathub com.kjxbyz.PicGuard -y
 ```
 
 ___
-## Video
+## Video, Audio
 ```
 flatpak install flathub org.gnome.Showtime -y
 flatpak install flathub no.mifi.losslesscut -y
 flatpak install flathub org.shotcut.Shotcut -y
 flatpak install flathub org.kde.kdenlive -y
 flatpak install flathub org.openshot.OpenShot -y
-flatpak install flathub com.obsproject.Studio -y
 flatpak install flathub io.github.yuki_iptv.yuki-iptv -y
-```
-
-___
-## Audio
-```
 flatpak install flathub org.mixxx.Mixxx -y
 flatpak install flathub org.nickvision.tagger -y
 flatpak install flathub de.haeckerfelix.Shortwave -y
@@ -92,8 +84,10 @@ flatpak install flathub de.haeckerfelix.Shortwave -y
 
 ___
 ## Office
-LibreOffice Impress, Document Viewer, Calculator, Calendar
+LibreOffice
+
 ```
+flatpak install flathub org.onlyoffice.desktopeditors -y
 flatpak install flathub net.codeindustry.MasterPDFEditor -y
 flatpak install flathub org.gnome.Papers -y
 flatpak install flathub com.toolstack.Folio -y
@@ -109,8 +103,10 @@ flatpak install flathub io.github.flattool.Warehouse -y
 flatpak install flathub page.tesk.Refine -y
 flatpak install flathub org.keepassxc.KeePassXC -y
 flatpak install flathub io.github.flattool.Ignition -y
+flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub com.github.vkohaupt.vokoscreenNG -y
 flatpak install flathub org.flameshot.Flameshot -y
+flatpak install flathub org.ksnip.ksnip -y
 flatpak install flathub com.uploadedlobster.peek -y
 flatpak install flathub com.github.finefindus.eyedropper -y
 flatpak install flathub org.gnome.design.Emblem -y
@@ -137,13 +133,9 @@ flatpak install flathub uk.org.greenend.chiark.sgtatham.putty -y
 ```
 
 ___
-## Misc
-Weather, Camera, Contacts, Clocks, Image Viewer
-
-___
 ## Fedora
 
-Tweaks, NVIDIA X Server Settings, Firewall, GParted, Firmware, Passwords and Keys, Extensions, Fedora Media Writer, balenaEtcher, dconf Editor, Boxes, Brasero, Connections, File Roller, nvtop
+Monitoring apps, Tweaks, NVIDIA X Server Settings, Firewall, Firmware, GParted, Passwords and Keys, Extensions, Fedora Media Writer, balenaEtcher, dconf Editor, Boxes, Connections, File Roller, nvtop ...
 
 ___
 ## Games
@@ -158,6 +150,7 @@ ___
 --- Filesystem Permissions ---
 /mnt/HDD_1
 /mnt/HDD_2
+
 /run/media/andrew
 ~/Downloads
 ~/Pictures
