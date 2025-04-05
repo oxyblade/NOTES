@@ -19,6 +19,9 @@ b4:2e:99:a4:da:db
 e0:3f:49:c2:eb:ca
 192.168.100.3
 
+**Smart TV Vonter X4**
+f0:25:b7:48:e5:32 (WLAN)
+
 ___
 
 **TECNO Pova 4 Pro**
