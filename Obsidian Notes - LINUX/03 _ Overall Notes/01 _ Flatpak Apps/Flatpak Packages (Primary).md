@@ -35,7 +35,7 @@ flatpak install flathub net.nokyan.Resources -y
 
 ___
 ## Web
-Firefox ESR, Tor Browser, VK Messenger
+Brave Beta, Tor Browser, VK Messenger
 ```
 flatpak install flathub com.opera.Opera -y
 flatpak install flathub com.google.ChromeDev -y
