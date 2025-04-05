@@ -26,7 +26,7 @@ flatpak install flathub com.transmissionbt.Transmission -y
 flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub org.ksnip.ksnip -y
 flatpak install flathub app.drey.Dialect -y
-flatpak install flathub com.kjxbyz.PicGuard -y
+flatpak install flathub com.xnview.XnViewMP -y
 flatpak install flathub com.github.huluti.Curtail -y
 flatpak install flathub org.onlyoffice.desktopeditors -y
 flatpak install flathub io.missioncenter.MissionCenter -y
@@ -65,9 +65,9 @@ flatpak install flathub org.nomacs.ImageLounge -y
 flatpak install flathub org.gnome.gThumb -y
 flatpak install flathub io.gitlab.adhami3310.Converter -y
 flatpak install flathub org.kde.optiimage -y
-flatpak install flathub com.xnview.XnViewMP -y
 flatpak install flathub page.kramo.Sly -y
 flatpak install flathub io.gitlab.theevilskeleton.Upscaler -y
+flatpak install flathub com.kjxbyz.PicGuard -y
 ```
 
 ___
