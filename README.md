@@ -73,6 +73,7 @@ ___
 │   │   │   │   │   │   ├── System not completely power off.md
 │   │   │   │   │   │   └── Terminal Commands.md
 │   │   │   │   │   ├── Overall Terminal Commands.md
+│   │   │   │   │   ├── Packages (Favorites).md
 │   │   │   │   │   └── Ubuntu
 │   │   │   │   │       └── Notes.md
 │   │   │   │   ├── Misc
@@ -117,7 +118,7 @@ ___
 │   │   │   └── E-mail.md
 │   │   └── Work
 │   │       └── Project Links.md
-│   └── Bookmarks (Websites)
+│   └── BOOKMARKS (Websites)
 │       ├── Apps
 │       │   └── Windows
 │       │       ├── App Store.md
@@ -129,63 +130,69 @@ ___
 │       │           ├── Bootable USB.md
 │       │           ├── Misc.md
 │       │           └── Monitoring & Info.md
-│       └── Dev
-│           ├── Back-end
-│           │   ├── Databases.md
-│           │   ├── Docs
-│           │   │   ├── Databases.md
-│           │   │   ├── PHP
-│           │   │   │   ├── Docs.md
-│           │   │   │   └── Functions.md
-│           │   │   ├── Python.md
-│           │   │   └── Servers.md
-│           │   └── Servers.md
-│           ├── Docs & Articles.md
-│           ├── Frameworks
-│           │   ├── Docs.md
-│           │   ├── HTML & CSS.md
-│           │   ├── Java Script.md
-│           │   ├── Misc.md
-│           │   ├── PHP.md
-│           │   └── Python.md
-│           ├── Front-end
-│           │   ├── Docs
-│           │   │   ├── Bundlers.md
-│           │   │   ├── Compilers.md
-│           │   │   ├── CSS.md
-│           │   │   ├── Frameworks.md
-│           │   │   ├── Handbooks.md
-│           │   │   ├── Misc.md
-│           │   │   └── Preprocessors.md
-│           │   ├── Services.md
-│           │   └── Stuff
-│           │       ├── HTML Templates.md
-│           │       └── Misc.md
-│           ├── Misc.md
-│           ├── Servers
-│           │   └── Mics
-│           │       ├── AWS.md
-│           │       └── Oracle Cloud.md
-│           ├── Services
-│           │   ├── Code Editors
-│           │   │   ├── Code Compressor.md
-│           │   │   ├── Code Editor.md
-│           │   │   ├── Code Formattiing.md
-│           │   │   ├── Code View.md
-│           │   │   ├── Misc.md
-│           │   │   └── Regular Expressions.md
-│           │   └── Dev Tools
-│           │       ├── 301 Redirect, htaccess.md
-│           │       ├── CSS.md
-│           │       ├── Favicon.md
-│           │       ├── Images, SVG.md
-│           │       ├── Misc.md
-│           │       ├── Tables.md
-│           │       └── Tools.md
-│           └── Stuff
-│               ├── Live Chat, Messenger, Calls.md
+│       ├── Dev
+│       │   ├── Back-end
+│       │   │   ├── Databases.md
+│       │   │   ├── Docs
+│       │   │   │   ├── Databases.md
+│       │   │   │   ├── PHP
+│       │   │   │   │   ├── Docs.md
+│       │   │   │   │   └── Functions.md
+│       │   │   │   ├── Python.md
+│       │   │   │   └── Servers.md
+│       │   │   └── Servers.md
+│       │   ├── Docs & Articles.md
+│       │   ├── Frameworks
+│       │   │   ├── Docs.md
+│       │   │   ├── HTML & CSS.md
+│       │   │   ├── Java Script.md
+│       │   │   ├── Misc.md
+│       │   │   ├── PHP.md
+│       │   │   └── Python.md
+│       │   ├── Front-end
+│       │   │   ├── Docs
+│       │   │   │   ├── Bundlers.md
+│       │   │   │   ├── Compilers.md
+│       │   │   │   ├── CSS.md
+│       │   │   │   ├── Frameworks.md
+│       │   │   │   ├── Handbooks.md
+│       │   │   │   ├── Misc.md
+│       │   │   │   └── Preprocessors.md
+│       │   │   ├── Services.md
+│       │   │   └── Stuff
+│       │   │       ├── HTML Templates.md
+│       │   │       └── Misc.md
+│       │   ├── Misc.md
+│       │   ├── Servers
+│       │   │   └── Mics
+│       │   │       ├── AWS.md
+│       │   │       └── Oracle Cloud.md
+│       │   ├── Services
+│       │   │   ├── Code Editors
+│       │   │   │   ├── Code Compressor.md
+│       │   │   │   ├── Code Editor.md
+│       │   │   │   ├── Code Formattiing.md
+│       │   │   │   ├── Code View.md
+│       │   │   │   ├── Misc.md
+│       │   │   │   └── Regular Expressions.md
+│       │   │   └── Dev Tools
+│       │   │       ├── 301 Redirect, htaccess.md
+│       │   │       ├── CSS.md
+│       │   │       ├── Favicon.md
+│       │   │       ├── Images, SVG.md
+│       │   │       ├── Misc.md
+│       │   │       ├── Tables.md
+│       │   │       └── Tools.md
+│       │   └── Stuff
+│       │       ├── Live Chat, Messenger, Calls.md
+│       │       └── Misc.md
+│       ├── Video
+│       │   └── Misc.md
+│       └── Web
+│           ├── Cloud Drives.md
+│           └── Services
 │               └── Misc.md
 └── README.md
 
-51 directories, 129 files
+54 directories, 133 files
 ```
