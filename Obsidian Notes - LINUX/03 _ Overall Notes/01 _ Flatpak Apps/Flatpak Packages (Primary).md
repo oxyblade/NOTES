@@ -125,6 +125,7 @@ flatpak install flathub org.gnome.design.Palette -y
 flatpak install flathub com.felipekinoshita.Wildcard -y
 flatpak install flathub io.github.idevecore.Valuta -y
 flatpak install flathub com.github.ADBeveridge.Raider -y
+flatpak install flathub com.belmoussaoui.Decoder -y
 flatpak install flathub io.github.bytezz.IPLookup -y
 flatpak install flathub org.nmap.Zenmap -y
 flatpak install flathub io.github.lo2dev.Echo -y
