@@ -55,6 +55,8 @@ sudo nano /etc/libvirt/qemu.conf
 Uncomment user / group to work as root:
 user = "root"
 group = "root"
+~~swtpm_user = "root"~~
+~~swtpm_group = "root"~~
 security_driver = "none"
 sudo nano /etc/libvirt/network.conf --> firewall_backend = "iptables" (Manjaro Linux)
 
