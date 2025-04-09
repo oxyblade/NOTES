@@ -98,8 +98,15 @@ HandleLidSwitch=ignore to do nothing
 HandleLidSwitch=poweroff to shutdown computer when lid is closed
 HandleLidSwitch=hibernate to hibernate computer when lid is closed
 
-___
+## GNOME Settings (dconf-editor)
 
+Terminal:  
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-ac-timeout - '0'  
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-ac-type - 'nothing'  
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-battery-timeout - '0'  
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-battery-type - 'nothing'
+
+___
 ## MISC
 
 --- Nautilus DEFAULT file manager ---

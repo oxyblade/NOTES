@@ -117,8 +117,15 @@ options nvidia_drm modeset=1
 cat /usr/lib/modprobe.d/nvidia-utils.conf
 blacklist nouveau
 
-___
+## GNOME Settings (dconf-editor)
 
+Terminal:  
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-ac-timeout - '0'  
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-ac-type - 'nothing'  
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-battery-timeout - '0'  
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-battery-type - 'nothing'
+
+___
 ## MISC
 --- GNOME Themes ---
 /usr/share/themes --> ~/.themes

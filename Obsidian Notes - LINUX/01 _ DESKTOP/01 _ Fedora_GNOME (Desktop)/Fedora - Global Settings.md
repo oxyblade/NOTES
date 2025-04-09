@@ -83,7 +83,14 @@ sudo systemctl mask nvidia-powerd.service
 systemctl list-unit-files --state=masked
 ```
 
-## Additional settings
+## GNOME Settings (dconf-editor)
+Terminal:
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-ac-timeout - '0'
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-ac-type - 'nothing'
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-battery-timeout - '0'
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-battery-type - 'nothing'
+
+## Additional settings (OPTIONAL)
 
 sudo nano /etc/environment
 ####### Totem Video Player Error: failed to initialize opengl with gtk

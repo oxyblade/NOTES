@@ -107,8 +107,15 @@ systemctl list-unit-files --state=masked
 sudo snap set system refresh.timer=sat1,11:00			- Once in month
 sudo snap set system refresh.timer=mon-sun,11:00		- Every day
 
-___
+## GNOME Settings (dconf-editor)
 
+Terminal:  
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-ac-timeout - '0'  
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-ac-type - 'nothing'  
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-battery-timeout - '0'  
+dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-battery-type - 'nothing'
+
+___
 ## dconf-editor - GNOME settings
 dconf-editor /org/gnome/shell/extensions/dash-to-dock/click-action 	- 'minimize'
 dconf-editor /org/gnome/mutter/center-new-windows 					- 'True'
@@ -126,7 +133,6 @@ dconf-editor /org/gnome/shell/extensions/dash-to-dock/show-mounts - False
 ####### dconf-editor /org/gnome/shell/extensions/dash-to-dock/unity-backlit-items - True
 
 ___
-
 ## MISC
 --- Nautilus DEFAULT file manager ---
 To set Nautilus file manager as the DEFAULT file manager type:
