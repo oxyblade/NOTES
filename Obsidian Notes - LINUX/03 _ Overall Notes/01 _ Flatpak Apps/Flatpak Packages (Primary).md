@@ -72,6 +72,7 @@ ___
 ## Video, Audio
 ```
 flatpak install flathub org.gnome.Showtime -y
+flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer -y
 flatpak install flathub no.mifi.losslesscut -y
 flatpak install flathub org.shotcut.Shotcut -y
 flatpak install flathub org.kde.kdenlive -y
