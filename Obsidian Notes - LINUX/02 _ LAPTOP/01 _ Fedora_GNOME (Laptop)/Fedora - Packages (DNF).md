@@ -6,7 +6,7 @@ GUI Packages:
 sudo dnf install gnome-tweaks gnome-themes-extra gnome-extensions-app file-roller gnome-firmware firewall-config seahorse dconf-editor gparted brasero
 
 Utils Packages:
-sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop igt-gpu-tools sslscan dnsmap dnsenum sysstat htop
+sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop igt-gpu-tools sslscan dnsmap dnsenum sysstat htop atop btop
 
 Misc Packages:
 sudo dnf install unrar p7zip composer libxcrypt-compat gtk2 libnsl meson

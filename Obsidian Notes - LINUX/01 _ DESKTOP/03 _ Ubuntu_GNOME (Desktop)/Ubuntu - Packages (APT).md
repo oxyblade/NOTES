@@ -6,7 +6,7 @@ GUI Packages:
 sudo apt-get install gnome-tweaks synaptic gnome-extensions-app gnome-firmware firewall-config dconf-editor gparted
 
 Utils Packages:
-sudo apt-get install nvme-cli smartmontools flatpak inxi fastfetch neofetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv mtr pwgen nmon bmon nmap iperf whowatch iftop lm-sensors git htop curl traceroute whois net-tools sslscan dnsmap dnsenum gdu nvtop
+sudo apt-get install nvme-cli smartmontools flatpak inxi fastfetch neofetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv mtr pwgen nmon bmon nmap iperf whowatch iftop lm-sensors git htop curl traceroute whois net-tools sslscan dnsmap dnsenum gdu nvtop atop btop
 
 Misc Packages:
 sudo apt-get install nvidia-smi nvidia-xconfig rar unrar p7zip composer gcc make cmake autoconf meson

@@ -6,7 +6,7 @@ GUI Packages:
 sudo pacman -S dconf-editor gparted
 
 Utils Packages:
-sudo pacman -S base-devel fastfetch neofetch duf lnav lshw speedtest-cli nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop net-tools mtr sslscan gdu nvtop
+sudo pacman -S base-devel fastfetch neofetch duf lnav lshw speedtest-cli nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop net-tools mtr sslscan gdu nvtop htop atop btop
 
 Misc Packages:
 sudo pacman -S nvme-cli smartmontools nvidia-smi nvidia-xconfig manjaro-log-helper lsof sbctl unrar p7zip composer libxcrypt-compat libnsl autoconf meson
