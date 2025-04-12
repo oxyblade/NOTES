@@ -26,8 +26,6 @@ flatpak install flathub org.kde.kid3 -y
 flatpak install flathub org.soundconverter.SoundConverter -y
 flatpak install flathub com.obsproject.Studio -y
 flatpak install flathub app.drey.Dialect -y
-flatpak install flathub net.nokyan.Resources -y
-flatpak install flathub io.missioncenter.MissionCenter -y
 ```
 
 ___
@@ -102,8 +100,10 @@ ___
 flatpak install flathub com.github.tchx84.Flatseal -y
 flatpak install flathub io.github.flattool.Warehouse -y
 flatpak install flathub page.tesk.Refine -y
-flatpak install flathub org.keepassxc.KeePassXC -y
 flatpak install flathub io.github.flattool.Ignition -y
+flatpak install flathub net.nokyan.Resources -y
+flatpak install flathub io.missioncenter.MissionCenter -y
+flatpak install flathub org.keepassxc.KeePassXC -y
 flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub com.github.vkohaupt.vokoscreenNG -y
 flatpak install flathub org.flameshot.Flameshot -y
