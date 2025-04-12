@@ -14,7 +14,7 @@ sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nloa
 
 Misc Packages:
 ```
-sudo dnf install nvidia-smi nvidia-xconfig egl-utils unrar p7zip composer libxcrypt-compat gtk2 libnsl autoconf meson
+sudo dnf install nvidia-smi composer libxcrypt-compat gtk2 libnsl autoconf meson [nvidia-xconfig egl-utils unrar p7zip]
 ```
 
 --- PHP: Local Server ---
@@ -86,10 +86,10 @@ mailutils
 nvidia-settings
 
 --- NVMe S.M.A.R.T. ---
-sudo dnf install nvme-cli nvme-cli
+sudo dnf install nvme-cli
 sudo nvme list
-sudo nvme smart-log /dev/nvme0n1
-sudo smartctl -iA /dev/nvme0n1
+sudo nvme smart-log /dev/nvme0
+sudo smartctl -iA /dev/nvme0
 
 
 ____
