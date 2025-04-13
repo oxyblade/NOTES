@@ -3,13 +3,19 @@
 --- Primary SYSTEM Packages (DNF) ---
 
 GUI Packages:
+```
 sudo dnf install gnome-logs gnome-disk-utility baobab gnome-weather gnome-themes-extra gnome-firmware gparted brasero
+```
 
 Utils Packages:
+```
 sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop igt-gpu-tools sslscan dnsmap dnsenum sysstat htop atop btop
+```
 
 Misc Packages:
-sudo dnf install unrar p7zip composer libxcrypt-compat libnsl meson
+```
+sudo dnf install composer libxcrypt-compat libnsl meson [unrar p7zip]
+```
 
 CD / DVD / Blu-ray Burning Applications:
 k3b — CD/DVD/Blu-ray burning application (sudo chmod 4755 /usr/bin/wodim)
@@ -70,10 +76,10 @@ mailutils
 nvidia-settings
 
 --- NVMe S.M.A.R.T. ---
-sudo dnf install nvme-cli nvme-cli
-sudo nvme list
-sudo nvme smart-log /dev/nvme0n1
-sudo smartctl -iA /dev/nvme0n1
+sudo dnf install nvme-cli  
+sudo nvme list  
+sudo nvme smart-log /dev/nvme0  
+sudo smartctl -iA /dev/nvme0
 
 ___
 

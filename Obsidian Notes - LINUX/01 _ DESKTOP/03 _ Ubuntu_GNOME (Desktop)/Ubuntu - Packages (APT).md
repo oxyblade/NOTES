@@ -3,13 +3,19 @@
 --- Primary SYSTEM Packages (APT) ---
 
 GUI Packages:
+```
 sudo apt-get install gnome-tweaks synaptic gnome-extensions-app gnome-firmware firewall-config dconf-editor gparted
+```
 
 Utils Packages:
+```
 sudo apt-get install nvme-cli smartmontools flatpak inxi fastfetch neofetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv mtr pwgen nmon bmon nmap iperf whowatch iftop lm-sensors git htop curl traceroute whois net-tools sslscan dnsmap dnsenum gdu nvtop atop btop
+```
 
 Misc Packages:
-sudo apt-get install nvidia-smi nvidia-xconfig rar unrar p7zip composer gcc make cmake autoconf meson
+```
+sudo apt-get install nvidia-smi nvidia-xconfig composer gcc make cmake autoconf meson [rar unrar p7zip]
+```
 
 --- PHP: Local Server ---
 sudo apt-get install php
@@ -92,10 +98,10 @@ sudo apt-get install gsmartcontrol hddtemp chrome-gnome-shell
 sudo apt-get install libqt5pas-dev (For QT Double Commander)
 
 --- NVMe S.M.A.R.T. ---
-sudo apt-get install nvme-cli
-sudo nvme list
-sudo nvme smart-log /dev/nvme0n1
-sudo smartctl -iA /dev/nvme0n1
+sudo apt-get install nvme-cli  
+sudo nvme list  
+sudo nvme smart-log /dev/nvme0  
+sudo smartctl -iA /dev/nvme0
 
 --- Remote access to Android ---
 Share Files between Linux and Android by Wireless

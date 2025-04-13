@@ -3,13 +3,19 @@
 --- Primary SYSTEM Packages (Pacman) ---
 
 GUI Packages:
+```
 sudo pacman -S dconf-editor gparted
+```
 
 Utils Packages:
+```
 sudo pacman -S base-devel fastfetch neofetch duf lnav lshw speedtest-cli nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop net-tools mtr sslscan gdu nvtop htop atop btop
+```
 
 Misc Packages:
-sudo pacman -S nvme-cli smartmontools nvidia-smi nvidia-xconfig manjaro-log-helper lsof sbctl unrar p7zip composer libxcrypt-compat libnsl autoconf meson
+```
+sudo pacman -S nvme-cli smartmontools nvidia-smi nvidia-xconfig manjaro-log-helper lsof sbctl composer libxcrypt-compat libnsl autoconf meson [unrar p7zip]
+```
 
 --- PHP: Local Server ---
 sudo pacman -S php
@@ -82,10 +88,10 @@ mailutils
 nvidia-settings
 
 --- NVMe S.M.A.R.T. ---
-sudo pacman -S nvme-cli nvme-cli
-sudo nvme list
-sudo nvme smart-log /dev/nvme0n1
-sudo smartctl -iA /dev/nvme0n1
+sudo pacman -S nvme-cli  
+sudo nvme list  
+sudo nvme smart-log /dev/nvme0  
+sudo smartctl -iA /dev/nvme0
 
 ____
 

@@ -3,13 +3,19 @@
 --- Primary SYSTEM Packages (Pacman) ---
 
 GUI Packages:
+```
 sudo pacman -S dconf-editor gparted
+```
 
 Utils Packages:
+```
 sudo pacman -S base-devel inxi fastfetch fastfetch neofetch duf lnav lshw speedtest-cli nethogs nload iotop mc pv mtr pwgen nmon bmon nmap iperf whowatch iftop traceroute whois net-tools speedtest-cli smartmontools lsof sbctl manjaro-log-helper intel-gpu-tools sslscan sysstat htop atop btop
+```
 
 Misc Packages:
-sudo pacman -S unrar p7zip composer libxcrypt-compat gtk2 libnsl meson
+```
+sudo pacman -S composer libxcrypt-compat gtk2 libnsl meson [unrar p7zip]
+```
 
 CD / DVD / Blu-ray Burning Applications:
 k3b — CD/DVD/Blu-ray burning application (sudo chmod 4755 /usr/bin/wodim)
@@ -83,10 +89,10 @@ mailutils
 nvidia-settings
 
 --- NVMe S.M.A.R.T. ---
-sudo pacman -S nvme-cli nvme-cli
-sudo nvme list
-sudo nvme smart-log /dev/nvme0n1
-sudo smartctl -iA /dev/nvme0n1
+sudo pacman -S nvme-cli  
+sudo nvme list  
+sudo nvme smart-log /dev/nvme0  
+sudo smartctl -iA /dev/nvme0
 
 ___
 
