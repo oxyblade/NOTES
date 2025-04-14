@@ -103,6 +103,7 @@ flatpak install flathub io.github.josephmawa.Bella -y
 flatpak install flathub org.kryogenix.Pick -y
 flatpak install flathub org.kde.kcolorchooser -y
 flatpak install flathub net.codelogistics.webapps -y
+flatpak install flathub dev.serebit.Waycheck -y
 ```
 
 ## Networking
