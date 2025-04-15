@@ -75,6 +75,7 @@ flatpak install flathub no.mifi.losslesscut -y
 flatpak install flathub org.shotcut.Shotcut -y
 flatpak install flathub org.kde.kdenlive -y
 flatpak install flathub org.openshot.OpenShot -y
+flatpak install flathub dev.fredol.open-tv -y
 flatpak install flathub io.github.yuki_iptv.yuki-iptv -y
 flatpak install flathub org.mixxx.Mixxx -y
 flatpak install flathub org.nickvision.tagger -y
