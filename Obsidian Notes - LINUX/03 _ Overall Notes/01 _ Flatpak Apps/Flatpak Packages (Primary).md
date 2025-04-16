@@ -30,7 +30,7 @@ flatpak install flathub app.drey.Dialect -y
 
 ___
 ## Web
-Brave Beta, Tor Browser, VK Messenger
+Tor Browser, VK Messenger (Brave Beta)
 ```
 flatpak install flathub com.opera.Opera -y
 flatpak install flathub com.google.ChromeDev -y
