@@ -14,7 +14,7 @@ sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nloa
 
 Misc Packages:
 ```
-sudo dnf install nvidia-smi composer libxcrypt-compat gtk2 libnsl autoconf meson [nvidia-xconfig egl-utils unrar p7zip]
+sudo dnf install nvidia-smi composer libxcrypt-compat gtk2 libnsl autoconf meson
 ```
 
 --- PHP: Local Server ---
@@ -26,7 +26,7 @@ php -m
 ```
 
 --- OPTIONAL packages (DNF) ---
-apache mtr wireguard-tools adw-gtk3-theme cabextract xorg-x11-font-utils fontconfig
+nvidia-xconfig egl-utils unrar p7zip apache mtr wireguard-tools adw-gtk3-theme cabextract xorg-x11-font-utils fontconfig
 
 
 _____
