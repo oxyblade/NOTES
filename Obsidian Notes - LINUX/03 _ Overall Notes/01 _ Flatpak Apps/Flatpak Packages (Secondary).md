@@ -114,6 +114,7 @@ flatpak install flathub fr.sgued.ten_forward -y
 flatpak install flathub com.github.jkotra.eovpn -y
 flatpak install flathub org.remmina.Remmina -y
 flatpak install flathub io.frama.tractor.carburetor -y
+flatpak install flathub io.github.vmkspv.netsleuth -y
 ```
 
 ## System
