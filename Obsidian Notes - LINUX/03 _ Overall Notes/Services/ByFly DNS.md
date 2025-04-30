@@ -27,4 +27,8 @@ ___
 | 193.232.248.45      | 86.57.169.35       |
 | 193.232.249.44      | 86.57.169.26       |
 | 193.232.250.45      | 86.57.169.66       |
+___
+## Router (Промсвязь MT-PON-AT-4)
 
+Version Type: Default Version
+http://192.168.100.1/hidden_version_switch.gch (Reset Router)
