@@ -51,6 +51,7 @@ Sublime Text, JetBrains Apps, Text Editor
 ```
 flatpak install flathub com.visualstudio.code -y
 flatpak install flathub dev.zed.Zed -y
+flatpak install flathub me.iepure.devtoolbox -y
 ```
 
 ___
