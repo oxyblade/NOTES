@@ -52,6 +52,8 @@ Sublime Text, JetBrains Apps, Text Editor
 flatpak install flathub com.visualstudio.code -y
 flatpak install flathub dev.zed.Zed -y
 flatpak install flathub me.iepure.devtoolbox -y
+flatpak install flathub io.gitlab.liferooter.TextPieces -y
+flatpak install flathub net.werwolv.ImHex -y
 ```
 
 ___
@@ -105,6 +107,7 @@ flatpak install flathub page.tesk.Refine -y
 flatpak install flathub io.github.flattool.Ignition -y
 flatpak install flathub net.nokyan.Resources -y
 flatpak install flathub io.missioncenter.MissionCenter -y
+flatpak install flathub io.github.nokse22.inspector -y
 flatpak install flathub org.keepassxc.KeePassXC -y
 flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub com.github.vkohaupt.vokoscreenNG -y
