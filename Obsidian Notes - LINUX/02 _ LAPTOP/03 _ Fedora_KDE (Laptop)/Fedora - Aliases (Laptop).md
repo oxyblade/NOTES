@@ -88,7 +88,7 @@ alias qq-log-dnf-rpm='lnav /var/log/dnf.rpm.log'
 
 ## Network
 alias qq-network-ifconfig='watch ifconfig'
-alias qq-network-ip-interfaces='echo "PC network interfaces:" && echo "" && nmcli -p device show' # PC network interfaces
+alias qq-network-interfaces='echo "PC network interfaces:" && echo "" && nmcli -p device show' # PC network interfaces
 alias qq-network-ip-internal='ip addr | grep -i "inet " && echo "" && ifconfig -a | grep -i "inet " '
 alias qq-network-ip-external='curl https://ipinfo.io/ip && echo "" && echo ""' # wget -qO- ifconfig.co # ifconfig.me
 alias qq-network-netstat='watch netstat -antp && netstat -lpn'
