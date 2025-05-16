@@ -1,15 +1,17 @@
 ## GNOME Dash
-Terminal, Nautilus, HiFile, Double Commander, Firefox, PhpStorm, Software, Rhythmbox
+Terminal, Nautilus, HiFile, Firefox, PhpStorm, Software, Rhythmbox
+
 ```
-flatpak install flathub md.obsidian.Obsidian -y
 flatpak install flathub com.brave.Browser -y
 flatpak install flathub com.google.Chrome -y
 flatpak install flathub org.filezillaproject.Filezilla -y
+flatpak install flathub md.obsidian.Obsidian -y
 ```
 
 ___
 ## Activities Overview
-Virtual Machine Manager
+Double Commander, Virtual Machine Manager
+
 ```
 flatpak install flathub org.telegram.desktop -y
 flatpak install flathub io.github.mimbrero.WhatsAppDesktop -y
@@ -17,20 +19,22 @@ flatpak install flathub com.sindresorhus.Caprine -y
 flatpak install flathub org.kde.krita -y
 flatpak install flathub org.gimp.GIMP -y
 flatpak install flathub org.inkscape.Inkscape -y
-flatpak install flathub com.github.PintaProject.Pinta -y
 flatpak install flathub com.xnview.XnViewMP -y
-flatpak install flathub com.github.huluti.Curtail -y
+flatpak install flathub com.github.PintaProject.Pinta -y
 flatpak install flathub io.github.giantpinkrobots.varia -y
 flatpak install flathub com.transmissionbt.Transmission -y
 flatpak install flathub org.kde.kid3 -y
 flatpak install flathub org.soundconverter.SoundConverter -y
 flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub app.drey.Dialect -y
+flatpak install flathub net.nokyan.Resources -y
+flatpak install flathub io.missioncenter.MissionCenter -y
 ```
 
 ___
 ## Web
-Tor Browser, VK Messenger (Brave Beta)
+Tor Browser, VK Messenger
+
 ```
 flatpak install flathub com.opera.Opera -y
 flatpak install flathub com.google.ChromeDev -y
@@ -47,7 +51,8 @@ flatpak install flathub com.protonvpn.www -y
 
 ___
 ## Dev
-Sublime Text, JetBrains Apps, Text Editor
+Sublime Text, JetBrains Apps
+
 ```
 flatpak install flathub com.visualstudio.code -y
 flatpak install flathub dev.zed.Zed -y
@@ -59,12 +64,14 @@ flatpak install flathub net.werwolv.ImHex -y
 
 ___
 ## Graphics
+
 ```
 flatpak install flathub com.boxy_svg.BoxySVG -y
-flatpak install flathub org.nomacs.ImageLounge -y
 flatpak install flathub org.gnome.gThumb -y
-flatpak install flathub io.gitlab.adhami3310.Converter -y
+flatpak install flathub org.nomacs.ImageLounge -y
+flatpak install flathub com.github.huluti.Curtail -y
 flatpak install flathub org.kde.optiimage -y
+flatpak install flathub io.gitlab.adhami3310.Converter -y
 flatpak install flathub page.kramo.Sly -y
 flatpak install flathub com.kjxbyz.PicGuard -y
 flatpak install flathub io.gitlab.theevilskeleton.Upscaler -y
@@ -78,6 +85,7 @@ flatpak install flathub org.gnome.design.Palette -y
 
 ___
 ## Audio
+
 ```
 flatpak install flathub org.mixxx.Mixxx -y
 flatpak install flathub org.nickvision.tagger -y
@@ -86,6 +94,7 @@ flatpak install flathub de.haeckerfelix.Shortwave -y
 
 ___
 ## Video
+
 ```
 flatpak install flathub org.gnome.Showtime -y
 flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer -y
@@ -102,7 +111,7 @@ flatpak install flathub io.github.yuki_iptv.yuki-iptv -y
 
 ___
 ## Office
-LibreOffice
+LibreOffice Impress
 
 ```
 flatpak install flathub org.onlyoffice.desktopeditors -y
@@ -120,6 +129,7 @@ flatpak install flathub page.codeberg.JakobDev.jdReplace -y
 
 ___
 ## Tools
+
 ```
 flatpak install flathub org.keepassxc.KeePassXC -y
 flatpak install flathub dev.geopjr.Collision -y
@@ -133,18 +143,18 @@ flatpak install flathub com.github.ADBeveridge.Raider -y
 
 ___
 ## System
+
 ```
 flatpak install flathub com.github.tchx84.Flatseal -y
 flatpak install flathub io.github.flattool.Warehouse -y
 flatpak install flathub page.tesk.Refine -y
-flatpak install flathub net.nokyan.Resources -y
-flatpak install flathub io.missioncenter.MissionCenter -y
 flatpak install flathub io.github.nokse22.inspector -y
 flatpak install flathub io.github.flattool.Ignition -y
 ```
 
 ___
 ## Network
+
 ```
 flatpak install flathub io.github.bytezz.IPLookup -y
 flatpak install flathub org.nmap.Zenmap -y
@@ -155,6 +165,7 @@ flatpak install flathub uk.org.greenend.chiark.sgtatham.putty -y
 
 ___
 ## Info
+
 ```
 flatpak install flathub io.github.amit9838.mousam -y
 flatpak install flathub io.github.idevecore.Valuta -y
@@ -163,10 +174,11 @@ flatpak install flathub io.github.idevecore.Valuta -y
 ___
 ## Fedora
 
-Monitoring apps, Tweaks, NVIDIA X Server Settings, Firewall, Firmware, GParted, Passwords and Keys, Extensions, Fedora Media Writer, balenaEtcher, dconf Editor, Boxes, Connections, File Roller, nvtop ...
+NVIDIA X Server Settings, Firewall, Firmware, GParted, Tweaks, Passwords and Keys, Extensions, dconf Editor, Fedora Media Writer, balenaEtcher, Boxes, Connections, File Roller, Calculator ...
 
 ___
 ## Games
+
 ```
 flatpak install flathub net.zdechov.app.x2048 -y
 flatpak install flathub io.github.nokse22.ultimate-tic-tac-toe -y
