@@ -16,6 +16,8 @@ flatpak install flathub im.dino.Dino -y
 flatpak install flathub io.github.giantpinkrobots.varia -y
 flatpak install flathub app.zen_browser.zen -y
 flatpak install flathub xyz.mx_moment.moment -y
+flatpak install flathub chat.simplex.simplex -y
+flatpak install flathub chat.revolt.RevoltDesktop -y
 ```
 
 ## Dev
