@@ -53,6 +53,7 @@ flatpak install flathub com.visualstudio.code -y
 flatpak install flathub dev.zed.Zed -y
 flatpak install flathub me.iepure.devtoolbox -y
 flatpak install flathub io.gitlab.liferooter.TextPieces -y
+flatpak install flathub com.felipekinoshita.Wildcard -y
 flatpak install flathub net.werwolv.ImHex -y
 ```
 
@@ -65,8 +66,14 @@ flatpak install flathub org.gnome.gThumb -y
 flatpak install flathub io.gitlab.adhami3310.Converter -y
 flatpak install flathub org.kde.optiimage -y
 flatpak install flathub page.kramo.Sly -y
-flatpak install flathub io.gitlab.theevilskeleton.Upscaler -y
 flatpak install flathub com.kjxbyz.PicGuard -y
+flatpak install flathub io.gitlab.theevilskeleton.Upscaler -y
+flatpak install flathub org.gnome.design.Emblem -y
+flatpak install flathub org.flameshot.Flameshot -y
+flatpak install flathub org.ksnip.ksnip -y
+flatpak install flathub com.github.finefindus.eyedropper -y
+flatpak install flathub io.github.nate_xyz.Paleta -y
+flatpak install flathub org.gnome.design.Palette -y
 ```
 
 ___
@@ -103,34 +110,25 @@ flatpak install flathub net.codeindustry.MasterPDFEditor -y
 flatpak install flathub org.gnome.Papers -y
 flatpak install flathub com.toolstack.Folio -y
 flatpak install flathub org.gnome.World.Iotas -y
-flatpak install flathub io.github.amit9838.mousam -y
+flatpak install flathub org.gnome.design.Lorem -y
+flatpak install flathub io.github.diegoivan.pdf_metadata_editor -y
+flatpak install flathub com.github.tenderowl.frog -y
+flatpak install flathub garden.jamie.Morphosis -y
+flatpak install flathub page.codeberg.JakobDev.jdReplace -y
+
 ```
 
 ___
-## Tools & Utilities
+## Tools
 ```
 flatpak install flathub org.keepassxc.KeePassXC -y
-flatpak install flathub org.flameshot.Flameshot -y
-flatpak install flathub org.ksnip.ksnip -y
-
-flatpak install flathub com.github.finefindus.eyedropper -y
-flatpak install flathub org.gnome.design.Emblem -y
-flatpak install flathub org.gnome.design.Lorem -y
-flatpak install flathub garden.jamie.Morphosis -y
 flatpak install flathub dev.geopjr.Collision -y
 flatpak install flathub io.github.zefr0x.hashes -y
-flatpak install flathub io.gitlab.elescoute.password -y
 flatpak install flathub io.github.ronniedroid.concessio -y
-flatpak install flathub com.github.tenderowl.frog -y
-flatpak install flathub page.codeberg.JakobDev.jdReplace -y
-flatpak install flathub io.github.diegoivan.pdf_metadata_editor -y
+flatpak install flathub io.gitlab.elescoute.password -y
 flatpak install flathub fr.romainvigier.MetadataCleaner -y
-flatpak install flathub io.github.nate_xyz.Paleta -y
-flatpak install flathub org.gnome.design.Palette -y
-flatpak install flathub com.felipekinoshita.Wildcard -y
-flatpak install flathub io.github.idevecore.Valuta -y
-flatpak install flathub com.github.ADBeveridge.Raider -y
 flatpak install flathub com.belmoussaoui.Decoder -y
+flatpak install flathub com.github.ADBeveridge.Raider -y
 ```
 
 ___
@@ -154,6 +152,14 @@ flatpak install flathub io.github.lo2dev.Echo -y
 flatpak install flathub xyz.ketok.Speedtest -y
 flatpak install flathub uk.org.greenend.chiark.sgtatham.putty -y
 ```
+
+___
+## Info
+```
+flatpak install flathub io.github.amit9838.mousam -y
+flatpak install flathub io.github.idevecore.Valuta -y
+```
+
 ___
 ## Fedora
 
