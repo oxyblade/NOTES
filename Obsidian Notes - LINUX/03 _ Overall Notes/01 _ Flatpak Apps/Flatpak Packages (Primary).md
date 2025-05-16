@@ -24,7 +24,7 @@ flatpak install flathub io.github.giantpinkrobots.varia -y
 flatpak install flathub com.transmissionbt.Transmission -y
 flatpak install flathub org.kde.kid3 -y
 flatpak install flathub org.soundconverter.SoundConverter -y
-flatpak install flathub com.obsproject.Studio -y
+flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub app.drey.Dialect -y
 ```
 
@@ -86,6 +86,9 @@ flatpak install flathub no.mifi.losslesscut -y
 flatpak install flathub org.shotcut.Shotcut -y
 flatpak install flathub org.kde.kdenlive -y
 flatpak install flathub org.openshot.OpenShot -y
+flatpak install flathub com.obsproject.Studio -y
+flatpak install flathub com.github.vkohaupt.vokoscreenNG -y
+flatpak install flathub com.uploadedlobster.peek -y
 flatpak install flathub dev.fredol.open-tv -y
 flatpak install flathub io.github.yuki_iptv.yuki-iptv -y
 ```
@@ -107,11 +110,9 @@ ___
 ## Tools & Utilities
 ```
 flatpak install flathub org.keepassxc.KeePassXC -y
-flatpak install flathub com.dec05eba.gpu_screen_recorder -y
-flatpak install flathub com.github.vkohaupt.vokoscreenNG -y
 flatpak install flathub org.flameshot.Flameshot -y
 flatpak install flathub org.ksnip.ksnip -y
-flatpak install flathub com.uploadedlobster.peek -y
+
 flatpak install flathub com.github.finefindus.eyedropper -y
 flatpak install flathub org.gnome.design.Emblem -y
 flatpak install flathub org.gnome.design.Lorem -y
@@ -130,15 +131,9 @@ flatpak install flathub com.felipekinoshita.Wildcard -y
 flatpak install flathub io.github.idevecore.Valuta -y
 flatpak install flathub com.github.ADBeveridge.Raider -y
 flatpak install flathub com.belmoussaoui.Decoder -y
-flatpak install flathub io.github.bytezz.IPLookup -y
-flatpak install flathub org.nmap.Zenmap -y
-flatpak install flathub io.github.lo2dev.Echo -y
-flatpak install flathub xyz.ketok.Speedtest -y
-flatpak install flathub uk.org.greenend.chiark.sgtatham.putty -y
 ```
 
 ___
-
 ## System
 ```
 flatpak install flathub com.github.tchx84.Flatseal -y
@@ -150,6 +145,15 @@ flatpak install flathub io.github.nokse22.inspector -y
 flatpak install flathub io.github.flattool.Ignition -y
 ```
 
+___
+## Network
+```
+flatpak install flathub io.github.bytezz.IPLookup -y
+flatpak install flathub org.nmap.Zenmap -y
+flatpak install flathub io.github.lo2dev.Echo -y
+flatpak install flathub xyz.ketok.Speedtest -y
+flatpak install flathub uk.org.greenend.chiark.sgtatham.putty -y
+```
 ___
 ## Fedora
 
