@@ -70,7 +70,15 @@ flatpak install flathub com.kjxbyz.PicGuard -y
 ```
 
 ___
-## Video, Audio
+## Audio
+```
+flatpak install flathub org.mixxx.Mixxx -y
+flatpak install flathub org.nickvision.tagger -y
+flatpak install flathub de.haeckerfelix.Shortwave -y
+```
+
+___
+## Video
 ```
 flatpak install flathub org.gnome.Showtime -y
 flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer -y
@@ -80,9 +88,6 @@ flatpak install flathub org.kde.kdenlive -y
 flatpak install flathub org.openshot.OpenShot -y
 flatpak install flathub dev.fredol.open-tv -y
 flatpak install flathub io.github.yuki_iptv.yuki-iptv -y
-flatpak install flathub org.mixxx.Mixxx -y
-flatpak install flathub org.nickvision.tagger -y
-flatpak install flathub de.haeckerfelix.Shortwave -y
 ```
 
 ___
@@ -101,13 +106,6 @@ flatpak install flathub io.github.amit9838.mousam -y
 ___
 ## Tools & Utilities
 ```
-flatpak install flathub com.github.tchx84.Flatseal -y
-flatpak install flathub io.github.flattool.Warehouse -y
-flatpak install flathub page.tesk.Refine -y
-flatpak install flathub io.github.flattool.Ignition -y
-flatpak install flathub net.nokyan.Resources -y
-flatpak install flathub io.missioncenter.MissionCenter -y
-flatpak install flathub io.github.nokse22.inspector -y
 flatpak install flathub org.keepassxc.KeePassXC -y
 flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub com.github.vkohaupt.vokoscreenNG -y
@@ -137,6 +135,19 @@ flatpak install flathub org.nmap.Zenmap -y
 flatpak install flathub io.github.lo2dev.Echo -y
 flatpak install flathub xyz.ketok.Speedtest -y
 flatpak install flathub uk.org.greenend.chiark.sgtatham.putty -y
+```
+
+___
+
+## System
+```
+flatpak install flathub com.github.tchx84.Flatseal -y
+flatpak install flathub io.github.flattool.Warehouse -y
+flatpak install flathub page.tesk.Refine -y
+flatpak install flathub net.nokyan.Resources -y
+flatpak install flathub io.missioncenter.MissionCenter -y
+flatpak install flathub io.github.nokse22.inspector -y
+flatpak install flathub io.github.flattool.Ignition -y
 ```
 
 ___
