@@ -18,6 +18,7 @@ flatpak install flathub app.zen_browser.zen -y
 flatpak install flathub xyz.mx_moment.moment -y
 flatpak install flathub chat.simplex.simplex -y
 flatpak install flathub chat.revolt.RevoltDesktop -y
+flatpak install flathub org.gnunet.Messenger -y
 ```
 
 ## Dev
