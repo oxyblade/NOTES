@@ -44,6 +44,7 @@ flatpak install flathub com.bambulab.BambuStudio -y
 flatpak install flathub com.github.flxzt.rnote -y
 flatpak install flathub io.gitlab.adhami3310.Converter -y
 flatpak install flathub re.sonny.OhMySVG -y
+flatpak install flathub io.photoflare.photoflare -y
 ```
 
 ## Video
