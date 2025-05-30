@@ -1,6 +1,7 @@
 ```shell
 ## System
-alias qq-update-full='sudo dnf upgrade --refresh && sudo dnf autoremove && sudo dnf clean all && flatpak update && flatpak uninstall --unused'
+alias qq-update-full='sudo dnf upgrade --refresh && flatpak update && flatpak uninstall --unused'
+alias qq-dnf-clean='sudo dnf autoremove && sudo dnf clean all'
 alias qq-dnf-makecache='sudo dnf makecache'
 alias qq-dnf-upgrade-refresh='sudo dnf upgrade --refresh'
 alias qq-dnf-install='sudo dnf install'

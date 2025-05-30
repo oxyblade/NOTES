@@ -1,11 +1,11 @@
 ```shell
 ## System
 alias qq-update-repos='sudo apt-get update'
-alias qq-update-deb='sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get clean'
-alias qq-update-full='sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get clean && flatpak update && flatpak uninstall --unused && sudo snap refresh'
+alias qq-update-deb='sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade'
+alias qq-update-full='sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && flatpak update && flatpak uninstall --unused && sudo snap refresh'
 alias qq-upgrade='sudo apt-get upgrade'
 alias qq-dist-upgrade='sudo apt-get dist-upgrade'
-alias qq-autoremove-clean='sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get clean'
+alias qq-apt-clean='sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get clean'
 alias qq-apt-info='apt-cache show'
 alias qq-apt-search='apt-cache search'
 alias qq-grub-config='nano -v /etc/default/grub'
