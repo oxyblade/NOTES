@@ -28,11 +28,12 @@ sysctl -p (Read values from file)
 
 ## FS FLAGS (OPTIONAL)
 BTRFS (NVME & SSD):
-compress=zstd:1,defaults,noatime,discard=async
+subvol=root,compress=zstd:1
+OPTIONAL: defaults,noatime,discard=async
 
 BTRFS (HDD):
-compress=zstd:1,defaults,noatime
-compress=zstd:1,x-gvfs-show,defaults,noatime [ USB ]
+nosuid,nodev,nofail,x-gvfs-show,compress=zstd:1 [ + USB ]
+OPTIONAL: defaults,noatime
 
 EXT4 (HDD & SSD):
 defaults,noatime
