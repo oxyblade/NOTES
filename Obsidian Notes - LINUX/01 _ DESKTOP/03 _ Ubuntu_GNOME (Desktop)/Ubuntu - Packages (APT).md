@@ -9,7 +9,7 @@ sudo apt-get install gnome-tweaks synaptic gnome-extensions-app gnome-firmware f
 
 Utils Packages:
 ```
-sudo apt-get install nvme-cli smartmontools flatpak inxi fastfetch neofetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv mtr pwgen nmon bmon nmap iperf whowatch iftop lm-sensors git htop curl traceroute whois net-tools sslscan dnsmap dnsenum gdu nvtop atop btop
+sudo apt-get install nvme-cli smartmontools flatpak inxi fastfetch neofetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv mtr pwgen nmon bmon nmap iperf whowatch iftop lm-sensors git htop curl traceroute whois net-tools sslscan dnsmap dnsenum gdu nvtop atop btop bat
 ```
 
 Misc Packages:

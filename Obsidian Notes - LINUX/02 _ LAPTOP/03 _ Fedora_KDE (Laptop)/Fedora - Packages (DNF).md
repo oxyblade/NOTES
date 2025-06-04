@@ -9,7 +9,7 @@ sudo dnf install gnome-logs gnome-disk-utility baobab gnome-weather gnome-themes
 
 Utils Packages:
 ```
-sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop igt-gpu-tools sslscan dnsmap dnsenum sysstat htop atop btop
+sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop igt-gpu-tools sslscan dnsmap dnsenum sysstat htop atop btop bat
 ```
 
 Misc Packages:
