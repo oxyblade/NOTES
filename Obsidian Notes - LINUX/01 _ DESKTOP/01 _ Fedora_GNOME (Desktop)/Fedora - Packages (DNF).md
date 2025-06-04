@@ -9,7 +9,7 @@ sudo dnf install gnome-tweaks gnome-themes-extra gnome-extensions-app file-rolle
 
 Utils Packages:
 ```
-sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop lsb_release yaru-theme bat
+sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop unrar lsb_release yaru-theme bat
 ```
 
 Misc Packages:
@@ -26,7 +26,7 @@ php -m
 ```
 
 --- OPTIONAL packages (DNF) ---
-nvidia-xconfig egl-utils unrar p7zip apache mtr wireguard-tools adw-gtk3-theme cabextract xorg-x11-font-utils fontconfig
+nvidia-xconfig egl-utils p7zip apache mtr wireguard-tools adw-gtk3-theme cabextract xorg-x11-font-utils fontconfig
 
 
 _____
