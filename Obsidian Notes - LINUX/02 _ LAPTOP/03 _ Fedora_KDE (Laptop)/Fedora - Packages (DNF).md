@@ -14,7 +14,7 @@ sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nloa
 
 Misc Packages:
 ```
-sudo dnf install composer libxcrypt-compat libnsl meson [unrar p7zip]
+sudo dnf install composer libxcrypt-compat libnsl meson unrar p7zip
 ```
 
 CD / DVD / Blu-ray Burning Applications:
