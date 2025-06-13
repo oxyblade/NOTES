@@ -8,6 +8,7 @@ lsusb Получение списка и определения USB-устрой
 sudo ethtool Работа с сетевыми устройствами
 
 cat /proc/cpuinfo | grep -i mhz
+cat /proc/asound/card*/codec* | grep Codec
 
 sudo apt-get install sysstat - System performance tools for Linux
 sudo apt-get install procinfo - Reporter for system information from /proc and /sys
