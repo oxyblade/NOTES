@@ -27,8 +27,6 @@ flatpak install flathub org.kde.kid3 -y
 flatpak install flathub org.soundconverter.SoundConverter -y
 flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub app.drey.Dialect -y
-flatpak install flathub net.nokyan.Resources -y
-flatpak install flathub io.missioncenter.MissionCenter -y
 ```
 
 ___
@@ -56,6 +54,9 @@ Sublime Text, JetBrains Apps
 ```
 flatpak install flathub com.visualstudio.code -y
 flatpak install flathub dev.zed.Zed -y
+flatpak install flathub org.kde.kate -y
+flatpak install flathub org.kde.kwrite -y
+flatpak install flathub io.github.cudatext.CudaText-Qt -y
 flatpak install flathub me.iepure.devtoolbox -y
 flatpak install flathub io.gitlab.liferooter.TextPieces -y
 flatpak install flathub com.felipekinoshita.Wildcard -y
@@ -150,8 +151,11 @@ flatpak install flathub io.github.flattool.Warehouse -y
 flatpak install flathub page.tesk.Refine -y
 flatpak install flathub io.github.nokse22.inspector -y
 flatpak install flathub io.github.flattool.Ignition -y
+flatpak install flathub net.nokyan.Resources -y
+flatpak install flathub io.missioncenter.MissionCenter -y
 ```
 
+System Monitor, Disk Usage Analyzer, Disks, Logs
 ___
 ## Network
 
