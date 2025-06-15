@@ -186,6 +186,8 @@ ___
 ```
 flatpak install flathub net.zdechov.app.x2048 -y
 flatpak install flathub io.github.nokse22.ultimate-tic-tac-toe -y
+flatpak install flathub org.kde.kmahjongg -y
+flatpak install flathub org.gnome.Mahjongg -y
 ```
 
 ___
