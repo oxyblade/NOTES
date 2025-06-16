@@ -77,6 +77,7 @@ flatpak install flathub page.kramo.Sly -y
 flatpak install flathub com.kjxbyz.PicGuard -y
 flatpak install flathub io.gitlab.theevilskeleton.Upscaler -y
 flatpak install flathub org.gnome.design.Emblem -y
+flatpak install flathub be.alexandervanhee.gradia -y
 flatpak install flathub org.flameshot.Flameshot -y
 flatpak install flathub org.ksnip.ksnip -y
 flatpak install flathub com.github.finefindus.eyedropper -y
