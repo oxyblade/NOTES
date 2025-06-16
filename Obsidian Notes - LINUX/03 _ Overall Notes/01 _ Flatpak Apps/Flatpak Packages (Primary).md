@@ -25,6 +25,7 @@ flatpak install flathub io.github.giantpinkrobots.varia -y
 flatpak install flathub com.transmissionbt.Transmission -y
 flatpak install flathub org.kde.kid3 -y
 flatpak install flathub org.soundconverter.SoundConverter -y
+flatpak install flathub be.alexandervanhee.gradia -y
 flatpak install flathub com.dec05eba.gpu_screen_recorder -y
 flatpak install flathub app.drey.Dialect -y
 ```
@@ -77,7 +78,6 @@ flatpak install flathub page.kramo.Sly -y
 flatpak install flathub com.kjxbyz.PicGuard -y
 flatpak install flathub io.gitlab.theevilskeleton.Upscaler -y
 flatpak install flathub org.gnome.design.Emblem -y
-flatpak install flathub be.alexandervanhee.gradia -y
 flatpak install flathub org.flameshot.Flameshot -y
 flatpak install flathub org.ksnip.ksnip -y
 flatpak install flathub com.github.finefindus.eyedropper -y
