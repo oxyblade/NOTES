@@ -81,6 +81,7 @@ flatpak install flathub be.alexandervanhee.gradia -y
 flatpak install flathub org.flameshot.Flameshot -y
 flatpak install flathub org.ksnip.ksnip -y
 flatpak install flathub com.github.finefindus.eyedropper -y
+flatpak install flathub com.jeffser.Pigment -y
 flatpak install flathub io.github.nate_xyz.Paleta -y
 flatpak install flathub org.gnome.design.Palette -y
 ```
