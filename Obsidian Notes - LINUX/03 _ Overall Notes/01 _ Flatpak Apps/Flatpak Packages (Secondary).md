@@ -23,9 +23,9 @@ flatpak install flathub org.gnunet.Messenger -y
 
 ## Dev
 ```
-flatpak install flathub io.github.cudatext.CudaText-Qt -y
 flatpak install flathub org.kde.okteta -y
 flatpak install flathub org.kde.ghostwriter -y
+flatpak install flathub org.gnome.Builder -y
 ```
 
 ## Graphics
