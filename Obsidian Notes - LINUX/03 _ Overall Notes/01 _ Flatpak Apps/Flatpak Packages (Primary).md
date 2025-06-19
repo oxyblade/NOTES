@@ -84,6 +84,7 @@ flatpak install flathub com.github.finefindus.eyedropper -y
 flatpak install flathub com.jeffser.Pigment -y
 flatpak install flathub io.github.nate_xyz.Paleta -y
 flatpak install flathub org.gnome.design.Palette -y
+flatpak install flathub io.gitlab.gregorni.Letterpress -y
 ```
 
 ___
