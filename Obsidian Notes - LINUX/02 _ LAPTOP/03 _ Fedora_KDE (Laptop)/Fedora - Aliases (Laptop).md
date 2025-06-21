@@ -57,6 +57,7 @@ alias qq-archive-external-lib-rar-add-all='~/STORAGE_ASUS/01_Apps/Apps_Portable/
 alias qq-archive-external-lib-rar-add-single='~/STORAGE_ASUS/01_Apps/Apps_Portable/rar/rar a -m5 Archive'
 alias qq-archive-external-lib-rar-test='~/STORAGE_ASUS/01_Apps/Apps_Portable/002/rar/rar t'
 alias qq-archive-external-lib-rar-extract-single='~/STORAGE_ASUS/01_Apps/Apps_Portable/002/rar/rar x'
+alias qq-optirun='__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia'
 
 ## Packages & Apps
 alias qq-flatpak-update='flatpak update && flatpak uninstall --unused'
