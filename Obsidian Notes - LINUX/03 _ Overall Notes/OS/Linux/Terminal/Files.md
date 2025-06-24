@@ -4,6 +4,7 @@ du -h | sort -h
 
 `sudo find /media/WD/ -type d -exec chmod 755 {} \;    => Change DIRECTORIES Permissions`
 `sudo find /media/WD/ -type f -exec chmod 644 {} \;    => Change FILES Permissions`
+`sudo find . -type d -exec chmod 755 {}; && find . -type f -exec chmod 644 {};`
 
 find -printf "%P\n" > listing.xlsx
 find . -type f \( -name "*.docx" -o -name "*.doc" -o -name "*.rtf" -o -name "*.odt" -o -name "*.pptx" -o -name "*.ppt" -o -name "*.xlsx" -o -name "*.xls" -o -name "*.txt" -o -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" \) -execdir soffice --headless --convert-to pdf "{}" \;
