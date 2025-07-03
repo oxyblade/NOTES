@@ -36,7 +36,7 @@ nosuid,nodev,nofail,x-gvfs-show,compress=zstd:1 [ + USB ]
 OPTIONAL: defaults,noatime
 
 EXT4 (HDD & SSD):
-defaults,noatime
+defaults,noatime,barrier=0
 
 ## SOUNDCARD - DISABLE SUSPEND / Powersave (OPTIONAL)
 --- Method 1 (MAIN) ---

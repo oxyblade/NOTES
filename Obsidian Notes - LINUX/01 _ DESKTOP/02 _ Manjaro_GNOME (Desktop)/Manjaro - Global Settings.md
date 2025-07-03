@@ -41,7 +41,7 @@ compress=zstd:1,defaults,noatime
 compress=zstd:1,x-gvfs-show,defaults,noatime [ USB ]
 
 EXT4 (HDD & SSD):
-defaults,noatime
+defaults,noatime,barrier=0
 
 ## SOUNDCARD - DISABLE SUSPEND / Powersave (OPTIONAL)
 --- Method 1 (MAIN) ---
