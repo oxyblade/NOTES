@@ -53,6 +53,7 @@ ___
 Sublime Text, JetBrains Apps
 
 ```
+flatpak install flathub io.dbeaver.DBeaverCommunity -y
 flatpak install flathub com.visualstudio.code -y
 flatpak install flathub dev.zed.Zed -y
 flatpak install flathub org.kde.kate -y
