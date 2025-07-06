@@ -121,9 +121,9 @@ alias qq-script-external-spectre-meltdown-checker='sudo ~/STORAGE_ASUS/01_Apps/A
 ## XAMPP Local Server
 alias xampp='sudo /opt/lampp/manager-linux-x64.run'
 alias xampp-status='xampp status apache && xampp status mysql' # Alternative: sudo /opt/lampp/lampp status apache
-alias xampp-start='xampp start apache && xampp start mysql'
-alias xampp-stop='xampp stop apache && xampp stop mysql'
-alias xampp-restart='xampp restart apache && xampp restart mysql'
+alias xampp-start='xampp start apache && xampp start mysql && xampp status apache && xampp status mysql'
+alias xampp-stop='xampp stop apache && xampp stop mysql && xampp status apache && xampp status mysql'
+alias xampp-restart='xampp restart apache && xampp restart mysql && xampp status apache && xampp status mysql'
 alias xampp-permissions-777='sudo chmod -R 777 ~/STORAGE_ASUS/01_Apps/Servers_Local/htdocs/'
 alias xampp-permissions-755='sudo chmod -R 755 ~/STORAGE_ASUS/01_Apps/Servers_Local/htdocs/'
 alias xampp-permissions-directories-755='sudo find ~/STORAGE_ASUS/01_Apps/Servers_Local/htdocs/ -type d -exec chmod 755 {} \;'
