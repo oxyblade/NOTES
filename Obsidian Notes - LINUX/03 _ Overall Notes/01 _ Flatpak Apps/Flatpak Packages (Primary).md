@@ -21,8 +21,8 @@ flatpak install flathub org.gimp.GIMP -y
 flatpak install flathub org.inkscape.Inkscape -y
 flatpak install flathub com.xnview.XnViewMP -y
 flatpak install flathub com.github.PintaProject.Pinta -y
-flatpak install flathub io.github.giantpinkrobots.varia -y
 flatpak install flathub com.transmissionbt.Transmission -y
+flatpak install flathub org.nickvision.tubeconverter -y
 flatpak install flathub org.kde.kid3 -y
 flatpak install flathub org.soundconverter.SoundConverter -y
 flatpak install flathub be.alexandervanhee.gradia -y
@@ -41,7 +41,7 @@ flatpak install flathub org.signal.Signal -y
 flatpak install flathub com.viber.Viber -y
 flatpak install flathub us.zoom.Zoom -y
 flatpak install flathub org.gajim.Gajim -y
-flatpak install flathub org.nickvision.tubeconverter -y
+flatpak install flathub io.github.giantpinkrobots.varia -y
 flatpak install flathub com.gopeed.Gopeed -y
 flatpak install flathub com.github.unrud.VideoDownloader -y
 flatpak install flathub io.github.mhogomchungu.media-downloader -y
