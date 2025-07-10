@@ -9,7 +9,7 @@ sudo dnf install gnome-tweaks gnome-themes-extra gnome-extensions-app file-rolle
 
 Utils Packages:
 ```
-sudo dnf install inxi fastfetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop lsb_release yaru-icon-theme bat
+sudo dnf install inxi fastfetch cpufetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop lsb_release yaru-icon-theme bat lsd
 ```
 
 Misc Packages:
