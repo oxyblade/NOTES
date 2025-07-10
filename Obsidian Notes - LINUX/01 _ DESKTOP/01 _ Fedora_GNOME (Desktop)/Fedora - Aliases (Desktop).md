@@ -78,6 +78,7 @@ alias qq-pkg-list-installed-2='dnf list --installed | grep -i'
 alias qq-pkg-repolist='dnf repolist'
 alias qq-pkg-history-list='dnf history list'
 alias qq-root-hifile='sudo /mnt/HDD_1/01_Apps/Apps_Portable/001/HiFile/HiFile.AppImage'
+alias qq-root-doublecommander='sudo /mnt/HDD_1/01_Apps/Apps_Portable/001/doublecmd/doublecmd'
 alias qq-root-sublime_text='sudo /mnt/HDD_1/01_Apps/Apps_Portable/001/sublime_text/sublime_text'
 
 ## System Logs

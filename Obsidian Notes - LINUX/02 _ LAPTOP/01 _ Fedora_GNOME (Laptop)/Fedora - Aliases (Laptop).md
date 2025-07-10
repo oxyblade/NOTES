@@ -74,6 +74,7 @@ alias qq-pkg-list-available='dnf list available'
 alias qq-pkg-repolist='dnf repolist'
 alias qq-pkg-history-list='dnf history list'
 alias qq-root-hifile='sudo ~/STORAGE_ASUS/01_Apps/Apps_Portable/001/HiFile/HiFile.AppImage'
+alias qq-root-doublecommander='sudo ~/STORAGE_ASUS/01_Apps/Apps_Portable/001/doublecmd/doublecmd'
 alias qq-root-sublime_text='sudo ~/STORAGE_ASUS/01_Apps/Apps_Portable/001/sublime_text/sublime_text'
 
 ## System Logs
