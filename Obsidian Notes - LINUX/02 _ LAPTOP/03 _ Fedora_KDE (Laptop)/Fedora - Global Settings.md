@@ -13,15 +13,22 @@ sudo grub2-mkconfig --output=/boot/grub2/grub.cfg
 
 ## FS FLAGS (OPTIONAL)
 
-BTRFS (NVME & SSD):
+**BTRFS (NVME & SSD):**
 compress=zstd:1,defaults,noatime,discard=async
 
-BTRFS (HDD):
+**BTRFS (HDD):**
 compress=zstd:1,defaults,noatime
 compress=zstd:1,x-gvfs-show,defaults,noatime [ USB ]
 
-EXT4 (HDD & SSD):
+**EXT4 (HDD & SSD):**
 defaults,noatime,barrier=0
+
+**FSTAB (/etc/fstab):**
+```
+LABEL=USB_HDD_1 /mnt/USB_HDD_1 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
+LABEL=USB_HDD_2 /mnt/USB_HDD_2 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
+LABEL=USB_HDD_3 /mnt/USB_HDD_3 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
+```
 
 ## LOGS OPTIMIZATION (OPTIONAL)
 

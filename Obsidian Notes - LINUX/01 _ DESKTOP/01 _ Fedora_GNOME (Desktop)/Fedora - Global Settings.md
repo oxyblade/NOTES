@@ -27,16 +27,25 @@ man sysctl.conf
 sysctl -p (Read values from file)
 
 ## FS FLAGS (OPTIONAL)
-BTRFS (NVME & SSD):
+**BTRFS (NVME & SSD):**
 subvol=root,compress=zstd:1
+subvol=home,compress=zstd:1
 OPTIONAL: defaults,noatime,discard=async
 
-BTRFS (HDD):
+**BTRFS (HDD):**
 nosuid,nodev,nofail,x-gvfs-show,compress=zstd:1 [ + USB ]
 OPTIONAL: defaults,noatime
 
-EXT4 (HDD & SSD):
+**EXT4 (HDD & SSD):**
 defaults,noatime,barrier=0
+
+**FSTAB (/etc/fstab):**
+```
+LABEL=HDD_1 /mnt/HDD_1 btrfs nosuid,nodev,nofail,x-gvfs-show,compress=zstd:1 0 0
+LABEL=USB_HDD_1 /mnt/USB_HDD_1 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
+LABEL=USB_HDD_2 /mnt/USB_HDD_2 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
+LABEL=USB_HDD_3 /mnt/USB_HDD_3 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
+```
 
 ## SOUNDCARD - DISABLE SUSPEND / Powersave (OPTIONAL)
 --- Method 1 (MAIN) ---
