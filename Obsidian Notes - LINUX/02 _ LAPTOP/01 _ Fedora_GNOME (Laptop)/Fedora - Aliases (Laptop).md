@@ -186,6 +186,10 @@ alias qq-git-oxyblade_github_io-status='cd ~/STORAGE_ASUS/03_JetBrainsProjects/o
 alias qq-git-oxyblade_github_io-add='cd ~/STORAGE_ASUS/03_JetBrainsProjects/oxyblade.github.io; git add .'
 alias qq-git-oxyblade_github_io-commit='cd ~/STORAGE_ASUSD/03_JetBrainsProjects/oxyblade.github.io; git commit -m commit'
 alias qq-git-oxyblade_github_io-push='cd ~/STORAGE_ASUS/03_JetBrainsProjects/oxyblade.github.io; git push --force https://oxyblade:TOKEN@github.com/oxyblade/oxyblade.github.io.git'
+
+## Work — Scripts
+alias qq-work-script-php-domains-ping='php ~/STORAGE_ASUS/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-ping/script-php-domains-ping.php'
+alias qq-work-script-php-domains-ssl='php ~/STORAGE_ASUS/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-ssl/script-php-domains-ssl.php'
 ```
 
 ___

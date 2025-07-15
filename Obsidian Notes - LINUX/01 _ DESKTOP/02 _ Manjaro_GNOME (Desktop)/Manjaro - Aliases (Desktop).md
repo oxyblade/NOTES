@@ -190,6 +190,10 @@ alias qq-git-oxyblade_github_io-status='cd /mnt/HDD_1/03_JetBrainsProjects/oxybl
 alias qq-git-oxyblade_github_io-add='cd /mnt/HDD_1/03_JetBrainsProjects/oxyblade.github.io; git add .'
 alias qq-git-oxyblade_github_io-commit='cd /mnt/HDD_1/03_JetBrainsProjects/oxyblade.github.io; git commit -m commit'
 alias qq-git-oxyblade_github_io-push='cd /mnt/HDD_1/03_JetBrainsProjects/oxyblade.github.io; git push --force https://oxyblade:TOKEN@github.com/oxyblade/oxyblade.github.io.git'
+
+## Work — Scripts
+alias qq-work-script-php-domains-ping='php /mnt/HDD_1/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-ping/script-php-domains-ping.php'
+alias qq-work-script-php-domains-ssl='php /mnt/HDD_1/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-ssl/script-php-domains-ssl.php'
 ```
 
 ___
