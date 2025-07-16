@@ -45,6 +45,7 @@ flatpak install flathub io.github.giantpinkrobots.varia -y
 flatpak install flathub com.gopeed.Gopeed -y
 flatpak install flathub com.github.unrud.VideoDownloader -y
 flatpak install flathub io.github.mhogomchungu.media-downloader -y
+flatpak install flathub de.haeckerfelix.Fragments -y
 flatpak install flathub com.protonvpn.www -y
 ```
 

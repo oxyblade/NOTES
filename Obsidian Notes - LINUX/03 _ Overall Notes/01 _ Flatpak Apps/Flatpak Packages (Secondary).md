@@ -11,7 +11,6 @@ flatpak install flathub io.github.mhogomchungu.media-downloader -y
 flatpak install flathub com.ugetdm.uGet -y
 flatpak install flathub com.github.gabutakut.gabutdm -y
 flatpak install flathub org.kde.kget -y
-flatpak install flathub de.haeckerfelix.Fragments -y
 flatpak install flathub im.dino.Dino -y
 flatpak install flathub io.github.giantpinkrobots.varia -y
 flatpak install flathub app.zen_browser.zen -y
