@@ -14,10 +14,10 @@ sudo dnf install inxi fastfetch cpufetch duf lnav lshw speedtest-cli whatweb net
 
 Misc Packages:
 ```
-sudo dnf install nvidia-smi composer libxcrypt-compat gtk2 libnsl autoconf meson unrar p7zip
+sudo dnf install nvidia-smi composer libxcrypt-compat gtk2 libnsl autoconf meson unrar p7zip python3-pip
 ```
 
---- PHP: Local Server ---
+PHP (Local Server):
 ```
 sudo dnf install php
 sudo dnf install php-cgi php-gd php-imagick php-redis php-snmp
@@ -25,12 +25,11 @@ php -v
 php -m
 ```
 
---- OPTIONAL packages (DNF) ---
+OPTIONAL packages (DNF):
 nvidia-xconfig egl-utils apache mtr wireguard-tools adw-gtk3-theme cabextract xorg-x11-font-utils fontconfig
 
 
 _____
-
 
 ## KVM VM
 ```
@@ -48,7 +47,7 @@ groups andrew
 systemctl status libvirtd.service
 ```
 
---- Permission denied: Open disk image from USB / External devices ---
+Permission denied: Open disk image from USB / External devices
 ```
 sudo nano /etc/libvirt/qemu.conf
 ```
@@ -72,10 +71,19 @@ sudo dnf install spice-vdagent (xf86-video-qxl)
 ___
 
 
---- For Compile From SOURCES ---
+For Compile From SOURCES:
 ```
 sudo dnf install cmake gcc-c++ gcc make
 ```
+
+___
+
+Python packages:
+
+pip install pdf-watermark
+python3 /home/andrew/.local/lib/python3.13/site-packages/pdf_watermark/watermark.py insert -o 0.1 -ha center -ts 100 . "Confidential"
+
+___
 
 --- PACKAGES - Misc (OPTIONAL) ---
 nvme-cli smartmontools lsof neofetch traceroute whois net-tools gpick gnome-system-tools bpytop btop
