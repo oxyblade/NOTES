@@ -133,6 +133,7 @@ flatpak install flathub com.syntevo.SmartGit -y
 flatpak install flathub org.gustavoperedo.FontDownloader -y
 flatpak install flathub com.leinardi.gst -y [ GtkStressTesting ]
 flatpak install flathub net.mkiol.Jupii -y [ Play media on UPnP/DLNA devices ]
+flatpak install flathub de.capypara.FieldMonitor -y
 ```
 
 __________________________________
