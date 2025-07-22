@@ -200,7 +200,9 @@ ___
 
 --- Filesystem Permissions ---
 /mnt/HDD_1
-/mnt/HDD_2
+/mnt/USB_HDD_1
+/mnt/USB_HDD_2
+/mnt/USB_HDD_3
 
 /run/media/andrew
 ~/Downloads
