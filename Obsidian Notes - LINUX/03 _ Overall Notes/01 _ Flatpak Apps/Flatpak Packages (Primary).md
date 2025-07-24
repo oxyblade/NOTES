@@ -93,6 +93,7 @@ ___
 ## Audio
 
 ```
+flatpak install flathub org.gnome.Decibels -y
 flatpak install flathub org.mixxx.Mixxx -y
 flatpak install flathub org.nickvision.tagger -y
 flatpak install flathub de.haeckerfelix.Shortwave -y
