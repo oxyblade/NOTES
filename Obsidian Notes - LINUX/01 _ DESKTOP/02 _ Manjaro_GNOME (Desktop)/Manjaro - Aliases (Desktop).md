@@ -196,7 +196,7 @@ alias qq-git-oxyblade_github_io-push='cd /mnt/HDD_1/03_JetBrainsProjects/oxyblad
 ## Work — Scripts
 alias qq-work-script-php-domains-ping='php /mnt/HDD_1/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-ping/script-php-domains-ping.php'
 alias qq-work-script-php-domains-ssl='php /mnt/HDD_1/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-ssl/script-php-domains-ssl.php'
-alias qq-work-script-php-domains-unavailable='php /mnt/HDD_1/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-ssl/script-php-domains-unavailable.php'
+alias qq-work-script-php-domains-unavailable='php /mnt/HDD_1/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-unavailable/script-php-domains-unavailable.php'
 ```
 
 ___

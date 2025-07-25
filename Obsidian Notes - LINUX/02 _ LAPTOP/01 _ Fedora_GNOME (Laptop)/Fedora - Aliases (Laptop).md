@@ -191,9 +191,9 @@ alias qq-git-oxyblade_github_io-commit='cd ~/STORAGE_ASUSD/03_JetBrainsProjects/
 alias qq-git-oxyblade_github_io-push='cd ~/STORAGE_ASUS/03_JetBrainsProjects/oxyblade.github.io; git push --force https://oxyblade:TOKEN@github.com/oxyblade/oxyblade.github.io.git'
 
 ## Work — Scripts
-alias qq-work-script-php-domains-ping='php /mnt/HDD_1/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-ping/script-php-domains-ping.php'
-alias qq-work-script-php-domains-ssl='php /mnt/HDD_1/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-ssl/script-php-domains-ssl.php'
-alias qq-work-script-php-domains-unavailable='php /mnt/HDD_1/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-ssl/script-php-domains-unavailable.php'
+alias qq-work-script-php-domains-ping='php ~/STORAGE_ASUS/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-ping/script-php-domains-ping.php'
+alias qq-work-script-php-domains-ssl='php ~/STORAGE_ASUS/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-ssl/script-php-domains-ssl.php'
+alias qq-work-script-php-domains-unavailable='php ~/STORAGE_ASUS/02_Docs/WORK/003_Stuff/Scripts/script-php-domains-unavailable/script-php-domains-unavailable.php'
 ```
 
 ___
