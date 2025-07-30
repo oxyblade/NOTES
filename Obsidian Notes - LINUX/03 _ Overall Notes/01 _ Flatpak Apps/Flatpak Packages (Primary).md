@@ -37,6 +37,7 @@ Tor Browser, VK Messenger
 ```
 flatpak install flathub com.opera.Opera -y
 flatpak install flathub com.google.ChromeDev -y
+flatpak install flathub org.gnome.Epiphany -y
 flatpak install flathub org.signal.Signal -y
 flatpak install flathub com.viber.Viber -y
 flatpak install flathub us.zoom.Zoom -y
@@ -46,6 +47,7 @@ flatpak install flathub com.gopeed.Gopeed -y
 flatpak install flathub com.github.unrud.VideoDownloader -y
 flatpak install flathub io.github.mhogomchungu.media-downloader -y
 flatpak install flathub de.haeckerfelix.Fragments -y
+flatpak install flathub com.pojtinger.felicitas.Multiplex -y
 flatpak install flathub com.protonvpn.www -y
 ```
 
@@ -172,6 +174,7 @@ flatpak install flathub org.nmap.Zenmap -y
 flatpak install flathub io.github.lo2dev.Echo -y
 flatpak install flathub xyz.ketok.Speedtest -y
 flatpak install flathub uk.org.greenend.chiark.sgtatham.putty -y
+flatpak install flathub io.github.vmkspv.netsleuth -y
 ```
 
 ___
@@ -180,6 +183,7 @@ ___
 ```
 flatpak install flathub io.github.amit9838.mousam -y
 flatpak install flathub io.github.idevecore.Valuta -y
+flatpak install flathub net.zdechov.app.vCardStudio -y
 ```
 
 ___
