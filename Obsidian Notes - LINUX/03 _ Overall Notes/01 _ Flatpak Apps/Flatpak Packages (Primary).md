@@ -37,7 +37,6 @@ Tor Browser, VK Messenger
 ```
 flatpak install flathub com.opera.Opera -y
 flatpak install flathub com.google.ChromeDev -y
-flatpak install flathub org.gnome.Epiphany -y
 flatpak install flathub org.signal.Signal -y
 flatpak install flathub com.viber.Viber -y
 flatpak install flathub us.zoom.Zoom -y
