@@ -61,6 +61,7 @@ flatpak install flathub dev.zed.Zed -y
 flatpak install flathub org.kde.kate -y
 flatpak install flathub org.kde.kwrite -y
 flatpak install flathub io.github.cudatext.CudaText-Qt -y
+flatpak install flathub org.geany.Geany -y
 flatpak install flathub io.gitlab.liferooter.TextPieces -y
 flatpak install flathub me.iepure.devtoolbox -y
 flatpak install flathub com.felipekinoshita.Wildcard -y
