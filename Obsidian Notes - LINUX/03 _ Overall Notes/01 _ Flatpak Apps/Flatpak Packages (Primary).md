@@ -132,6 +132,7 @@ flatpak install flathub io.github.diegoivan.pdf_metadata_editor -y
 flatpak install flathub com.github.tenderowl.frog -y
 flatpak install flathub garden.jamie.Morphosis -y
 flatpak install flathub page.codeberg.JakobDev.jdReplace -y
+flatpak install flathub net.zdechov.app.vCardStudio -y
 
 ```
 
@@ -182,7 +183,7 @@ ___
 ```
 flatpak install flathub io.github.amit9838.mousam -y
 flatpak install flathub io.github.idevecore.Valuta -y
-flatpak install flathub net.zdechov.app.vCardStudio -y
+flatpak install flathub page.codeberg.lo_vely.Nucleus -y
 ```
 
 ___
