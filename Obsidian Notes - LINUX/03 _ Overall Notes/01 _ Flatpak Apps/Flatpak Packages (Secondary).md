@@ -53,6 +53,8 @@ flatpak install flathub io.github.seadve.Kooha -y
 flatpak install flathub io.github.yuki_iptv.yuki-iptv -y
 flatpak install flathub dev.fredol.open-tv -y
 flatpak install flathub io.github.jliljebl.Flowblade -y
+flatpak install flathub fr.handbrake.ghb -y
+flatpak install flathub io.github.wartybix.Constrict -y
 ```
 
 ## Audio
