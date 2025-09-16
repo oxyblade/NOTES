@@ -108,6 +108,7 @@ alias qq-network-dns-debug='nslookup -debug'
 alias qq-network-ports-web-info-1='sudo nmap -sTU -O'
 alias qq-network-ports-web-info-2='sudo nmap -n -PN -sT -sU -p-'
 alias qq-network-nmap-scan-home='nmap -sP 192.168.100.1/24'
+alias qq-network-wifi-list='nmcli device wifi list'
 
 ## System Scripts
 alias qq-sensors-full='/mnt/HDD_1/01_Apps/Apps_Backup/01_LINUX/Overall_Files/Scripts/qq-script-sensors-desktop.sh'

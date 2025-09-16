@@ -107,6 +107,7 @@ alias qq-network-iftop='sudo iftop'
 alias qq-network-nmap-scan-domain-ip-dns-1='sudo nmap -sTU -O'
 alias qq-network-nmap-scan-domain-ip-dns-2='sudo nmap -n -PN -sT -sU -p-'
 alias qq-network-nmap-scan-home='nmap -sP 192.168.100.1/24'
+alias qq-network-wifi-list='nmcli device wifi list'
 ####### alias qq-network-pktstat='sudo pktstat -n -w 1'
 ####### alias qq-network-resolvectl-dns-local='resolvectl status'
 
