@@ -158,8 +158,8 @@ alias qq-vm-libvirtd-service-stop='sudo systemctl stop libvirtd.service'
 alias qq-vm-libvirtd-service-disable='sudo systemctl disable libvirtd.service'
 alias qq-vm-libvirtd-service-enable='sudo systemctl enable libvirtd.service'
 alias qq-vm-libvirtd-service-restart='sudo systemctl restart libvirtd.service'
-alias qq-libreoffice-convertALL-to-pdf='soffice --headless --convert-to pdf --outdir ./ *.docx *.doc *.rtf *.odt *.pptx *.ppt *.xlsx *.xls *.txt *.png *.jpg *.jpeg'
-alias qq-libreoffice-fs-structure-convertALL-to-pdf='find . -type f \( -name "*.docx" -o -name "*.doc" -o -name "*.rtf" -o -name "*.odt" -o -name "*.pptx" -o -name "*.ppt" -o -name "*.xlsx" -o -name "*.xls" -o -name "*.txt" -o -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" \) -execdir soffice --headless --convert-to pdf "{}" \;'
+alias qq-libreoffice-convertALL-to-pdf='soffice --headless --convert-to pdf --outdir ./ *.docx *.doc *.rtf *.odt *.pptx *.ppt *.xlsx *.xls *.txt *.png *.jpg *.jpeg *.djvu'
+alias qq-libreoffice-fs-structure-convertALL-to-pdf='find . -type f \( -name "*.docx" -o -name "*.doc" -o -name "*.rtf" -o -name "*.odt" -o -name "*.pptx" -o -name "*.ppt" -o -name "*.xlsx" -o -name "*.xls" -o -name "*.txt" -o -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" -o -name "*.djvu" \) -execdir soffice --headless --convert-to pdf "{}" \;'
 alias qq-libreoffice-convert-docx-to-pdf='soffice --headless --convert-to pdf --outdir ./ *.docx'
 alias qq-libreoffice-convert-doc-to-pdf='soffice --headless --convert-to pdf --outdir ./ *.doc'
 alias qq-libreoffice-convert-rtf-to-pdf='soffice --headless --convert-to pdf --outdir ./ *.rtf'
@@ -172,6 +172,7 @@ alias qq-libreoffice-convert-txt-to-pdf='soffice --headless --convert-to pdf --o
 alias qq-libreoffice-convert-png-to-pdf='soffice --headless --convert-to pdf --outdir ./ *.png'
 alias qq-libreoffice-convert-jpg-to-pdf='soffice --headless --convert-to pdf --outdir ./ *.jpg'
 alias qq-libreoffice-convert-jpeg-to-pdf='soffice --headless --convert-to pdf --outdir ./ *.jpeg'
+alias qq-libreoffice-convert-djvu-to-pdf='soffice --headless --convert-to pdf --outdir ./ *.djvu'
 alias qq-fs-structure-export-xlsx='find -printf "%P\n" > listing.xlsx'
 
 ## GIT - Global
