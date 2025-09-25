@@ -12,6 +12,7 @@ ___
 sudo nano /etc/dnf/dnf.conf
 [main]
 exclude=package1,package2,another-package*
+excludepkgs=openh264,mozilla-openh264
 exclude=openh264,mozilla-openh264
 
 ___
