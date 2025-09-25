@@ -33,5 +33,6 @@ nslookup Определить IP-адреса для доменного имен
 host Определить IP-адреса
 wget -E -H -k -K -p https://www.slashdot.org Тест Интернета (сети)
 netstat -an --inet | grep LISTEN | grep -v 127.0.0.1 (Check Opened Ports)
+curl --head cnn.com
 
 python3 -m http.server
