@@ -20,7 +20,6 @@ htop Процессы системы в реальном времени
 top или top -SH Процессы системы в реальном времени
 nmon Системный мониторинг
 xrestop Монитор потребления ресурсов X-сервера разными приложениями
-atop Мониторинг производительности
 dstat Мониторинг процессора, дисковой нагрузки, сетевой нагрузки, памяти и т.п.
 systemctl list-units -t service Запущенные сервисы (текущие)
 
@@ -44,3 +43,33 @@ sudo lshw -class network Определение Ethernet интерфейсов 
 sudo powertop Мониторинг потребления мощности (электрической мощности) разными процессами
 
 sudo smartctl -a /dev/sda S.M.A.R.T. дисков
+
+___
+
+### atop
+Мониторинг производительности
+
+```
+apt install atop
+systemctl enable atop && systemctl status atop
+```
+
+```
+sudo nano /etc/default/atop
+```
+
+LOGOPTS="-R"
+LOGINTERVAL=60
+LOGGENERATIONS=14
+LOGPATH=/var/log/atop
+
+```
+sudo systemctl restart atop && systemctl status atop
+```
+
+atopsar -r /var/log/atop/atop_20250824
+atopsar -r /var/log/atop/atop_20250824 -O (Report about top-3 processes consuming most CPU (processor) capacity)
+atopsar -r /var/log/atop/atop_20250824 -G (Report about top-3 processes consuming most RAM (memory))
+
+___
+
