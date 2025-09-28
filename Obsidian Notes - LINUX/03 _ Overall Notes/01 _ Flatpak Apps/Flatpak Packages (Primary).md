@@ -32,7 +32,7 @@ flatpak install flathub app.drey.Dialect -y
 
 ___
 ## Web
-Tor Browser, VK Messenger
+Tor Browser, VK Messenger, Windscribe VPN
 
 ```
 flatpak install flathub com.opera.Opera -y
@@ -49,6 +49,7 @@ flatpak install flathub io.github.mhogomchungu.media-downloader -y
 flatpak install flathub de.haeckerfelix.Fragments -y
 flatpak install flathub com.pojtinger.felicitas.Multiplex -y
 flatpak install flathub com.protonvpn.www -y
+flatpak install flathub me.proton.Mail -y
 ```
 
 ___
@@ -142,6 +143,7 @@ ___
 ## Tools
 
 ```
+flatpak install flathub me.proton.Pass -y
 flatpak install flathub org.keepassxc.KeePassXC -y
 flatpak install flathub dev.geopjr.Collision -y
 flatpak install flathub io.github.zefr0x.hashes -y
