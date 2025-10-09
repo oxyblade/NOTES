@@ -4,6 +4,7 @@ flatpak install flathub io.gitlab.librewolf-community -y
 flatpak install flathub org.freedownloadmanager.Manager -y (6.17.0.4792)
 flatpak install flathub network.loki.Session -y
 flatpak install flathub im.riot.Riot -y
+flatpak install io.github.mimbrero.WhatsAppDesktop -y
 flatpak install flathub com.ktechpit.whatsie
 flatpak install flathub im.pidgin.Pidgin -y
 flatpak install flathub com.getmailspring.Mailspring -y
