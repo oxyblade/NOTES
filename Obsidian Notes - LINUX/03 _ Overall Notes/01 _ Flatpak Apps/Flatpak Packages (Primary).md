@@ -14,7 +14,7 @@ Double Commander, Virtual Machine Manager
 
 ```
 flatpak install flathub org.telegram.desktop -y
-flatpak install flathub io.github.tobagin.karere -y
+flatpak install io.github.mimbrero.WhatsAppDesktop -y
 flatpak install flathub com.sindresorhus.Caprine -y
 flatpak install flathub org.kde.krita -y
 flatpak install flathub org.gimp.GIMP -y
