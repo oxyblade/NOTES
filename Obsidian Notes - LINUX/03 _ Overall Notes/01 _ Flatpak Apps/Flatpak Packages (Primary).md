@@ -153,6 +153,7 @@ flatpak install flathub fr.romainvigier.MetadataCleaner -y
 flatpak install flathub com.belmoussaoui.Decoder -y
 flatpak install flathub com.github.ADBeveridge.Raider -y
 flatpak install flathub io.github.fizzyizzy05.binary -y
+flatpak install flathub io.github.peazip.PeaZip -y
 ```
 
 ___
