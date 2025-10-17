@@ -108,6 +108,7 @@ ___
 
 ```
 flatpak install flathub org.gnome.Showtime -y
+flatpak install flathub org.kde.haruna -y
 flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer -y
 flatpak install flathub no.mifi.losslesscut -y
 flatpak install flathub org.shotcut.Shotcut -y
@@ -172,6 +173,7 @@ flatpak install flathub io.missioncenter.MissionCenter -y
 System Monitor, Disk Usage Analyzer, Disks, Logs
 ___
 ## Network
+Sniffnet
 
 ```
 flatpak install flathub io.github.bytezz.IPLookup -y
