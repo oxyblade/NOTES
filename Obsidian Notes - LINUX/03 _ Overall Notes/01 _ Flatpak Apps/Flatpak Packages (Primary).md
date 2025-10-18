@@ -168,7 +168,6 @@ flatpak install flathub io.github.nokse22.inspector -y
 flatpak install flathub io.github.flattool.Ignition -y
 flatpak install flathub net.nokyan.Resources -y
 flatpak install flathub io.missioncenter.MissionCenter -y
-flatpak install flathub io.github.ilya_zlobintsev.LACT -y
 ```
 
 System Monitor, Disk Usage Analyzer, Disks, Logs

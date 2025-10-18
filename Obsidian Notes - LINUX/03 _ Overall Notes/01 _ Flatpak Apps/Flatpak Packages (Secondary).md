@@ -126,6 +126,7 @@ flatpak install flathub io.github.vmkspv.netsleuth -y
 ```
 flatpak install flathub org.freedesktop.Bustle -y
 flatpak install flathub xyz.tytanium.DoorKnocker -y
+flatpak install flathub io.github.ilya_zlobintsev.LACT -y
 ```
 
 ## Misc
