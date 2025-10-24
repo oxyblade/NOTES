@@ -32,7 +32,7 @@ flatpak install flathub app.drey.Dialect -y
 
 ___
 ## Web
-Tor Browser, VK Messenger, Windscribe VPN
+Tor Browser, Windscribe VPN
 
 ```
 flatpak install flathub com.opera.Opera -y
@@ -42,6 +42,7 @@ flatpak install flathub org.signal.Signal -y
 flatpak install flathub com.viber.Viber -y
 flatpak install flathub us.zoom.Zoom -y
 flatpak install flathub org.gajim.Gajim -y
+flatpak install flathub com.VK.Messenger -y
 flatpak install flathub io.github.giantpinkrobots.varia -y
 flatpak install flathub com.gopeed.Gopeed -y
 flatpak install flathub com.github.unrud.VideoDownloader -y
