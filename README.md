@@ -83,11 +83,9 @@ ___
 │   │   │   │   │   ├── gtk (Legacy).md
 │   │   │   │   │   ├── Install multiple DE.md
 │   │   │   │   │   ├── Linux Virtual memory (Options).md
-│   │   │   │   │   ├── NVIDIA
-│   │   │   │   │   │   ├── Nvidia - Discrete GPU (Laptop).md
-│   │   │   │   │   │   ├── Nvidia - ERROR nvidia-drm Failed to grab modeset ownership.md
-│   │   │   │   │   │   ├── Nvidia - Fan Control.md
-│   │   │   │   │   │   └── Nvidia - ForceCompositionPipeline.md
+│   │   │   │   │   ├── Nvidia - ERROR nvidia-drm Failed to grab modeset ownership.md
+│   │   │   │   │   ├── Nvidia - Fan Control.md
+│   │   │   │   │   ├── Nvidia - ForceCompositionPipeline.md
 │   │   │   │   │   ├── sssd failure (System Security Services Daemon).md
 │   │   │   │   │   ├── System Settings.md
 │   │   │   │   │   └── tracker_miner_fs.md
@@ -113,15 +111,14 @@ ___
 │   │   ├── Services
 │   │   │   ├── ByFly DNS.md
 │   │   │   ├── Garant.md
-│   │   │   ├── Info.md
-│   │   │   └── IPTV.md
+│   │   │   └── Info.md
 │   │   ├── SSH (Main).md
 │   │   ├── Virtual Machine Manager.md
 │   │   ├── Web
 │   │   │   └── E-mail.md
 │   │   └── Work
 │   │       └── Project Links.md
-│   └── BOOKMARKS (Web Browser)
+│   └── BOOKMARKS (Websites)
 │       ├── Apps
 │       │   └── Windows
 │       │       ├── App Store.md
@@ -190,13 +187,12 @@ ___
 │       │       ├── Live Chat, Messenger, Calls.md
 │       │       └── Misc.md
 │       ├── Video
-│       │   ├── Misc.md
-│       │   └── YouTube (Subscriptions).md
+│       │   └── Misc.md
 │       └── Web
 │           ├── Cloud Drives.md
 │           └── Services
 │               └── Misc.md
 └── README.md
 
-55 directories, 136 files
+54 directories, 133 files
 ```
