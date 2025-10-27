@@ -101,7 +101,7 @@ alias qq-log-xorg1='lnav /var/log/Xorg.1.log'
 alias qq-network-pktstat='sudo pktstat -n -w 1'
 alias qq-network-ifconfig='watch -n 1 ifconfig'
 alias qq-network-netstat='watch -n 1 netstat -antp && watch -n 1 netstat -t && netstat -lpn'
-alias qq-network-ip-external='curl https://ipinfo.io/ip && echo "" && echo ""' # wget -qO- ifconfig.co # ifconfig.me
+alias qq-network-ip-external='curl https://ipinfo.io && echo "" && echo ""' # wget -qO- ifconfig.co # ifconfig.me
 alias qq-network-dns-local='resolvectl status'
 alias qq-network-dns-info='nslookup -type=any'
 alias qq-network-dns-debug='nslookup -debug'
