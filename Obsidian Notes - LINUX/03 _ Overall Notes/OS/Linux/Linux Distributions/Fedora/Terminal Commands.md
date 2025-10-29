@@ -12,4 +12,6 @@ dnf repolist (Lists the repository ID, name, and number of packages it provides 
 dnf info inxi
 dnf history list (To display a list of all transactions)
 
+sestatus (SELinux status tool)
+
 kmodgenca -- Build CA/Keypair to sign modules
