@@ -147,7 +147,6 @@ ___
 ## Tools
 
 ```
-flatpak install flathub me.proton.Pass -y
 flatpak install flathub org.keepassxc.KeePassXC -y
 flatpak install flathub dev.geopjr.Collision -y
 flatpak install flathub io.github.zefr0x.hashes -y
@@ -158,6 +157,7 @@ flatpak install flathub com.belmoussaoui.Decoder -y
 flatpak install flathub com.github.ADBeveridge.Raider -y
 flatpak install flathub io.github.fizzyizzy05.binary -y
 flatpak install flathub io.github.peazip.PeaZip -y
+flatpak install flathub me.proton.Pass -y
 ```
 
 ___
