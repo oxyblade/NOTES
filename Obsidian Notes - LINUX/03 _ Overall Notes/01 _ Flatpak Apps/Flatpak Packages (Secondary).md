@@ -158,4 +158,5 @@ flatpak install flathub org.gnome.clocks -y
 flatpak install flathub org.gnome.gThumb -y
 flatpak install flathub org.gnome.Boxes -y
 flatpak install flathub org.gnome.Epiphany -y
+flatpak install flathub org.gnome.Decibels -y
 ```
