@@ -57,7 +57,7 @@ flatpak install flathub fr.handbrake.ghb -y
 flatpak install flathub io.github.wartybix.Constrict -y
 ```
 
-## Audio
+## Sound
 ```
 flatpak install flathub org.musicbrainz.Picard -y
 flatpak install flathub com.sayonara_player.Sayonara -y

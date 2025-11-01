@@ -98,7 +98,7 @@ flatpak install flathub io.gitlab.gregorni.Letterpress -y
 ```
 
 ___
-## Audio
+## Sound
 
 ```
 flatpak install flathub org.mixxx.Mixxx -y
