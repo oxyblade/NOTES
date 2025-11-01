@@ -1,5 +1,5 @@
 ## GNOME Dash
-Terminal, Nautilus, HiFile, Firefox, PhpStorm, Software, Rhythmbox
+Terminal, Nautilus, HiFile, Firefox, PhpStorm, Software, System Monitor, Rhythmbox
 
 ```
 flatpak install flathub com.brave.Browser -y
