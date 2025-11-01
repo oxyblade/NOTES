@@ -159,4 +159,6 @@ flatpak install flathub org.gnome.gThumb -y
 flatpak install flathub org.gnome.Boxes -y
 flatpak install flathub org.gnome.Epiphany -y
 flatpak install flathub org.gnome.Decibels -y
+flatpak install flathub org.gnome.Showtime -y
+flatpak install flathub org.gnome.Papers -y
 ```

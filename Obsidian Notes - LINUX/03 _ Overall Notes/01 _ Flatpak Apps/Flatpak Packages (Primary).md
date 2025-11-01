@@ -1,5 +1,5 @@
 ## GNOME Dash
-Terminal, Nautilus, HiFile, Firefox, PhpStorm, Software, System Monitor, Rhythmbox
+Terminal, Nautilus, HiFile, Firefox, PhpStorm, Software, Rhythmbox
 
 ```
 flatpak install flathub com.brave.Browser -y
@@ -110,7 +110,6 @@ ___
 ## Video
 
 ```
-flatpak install flathub org.gnome.Showtime -y
 flatpak install flathub org.kde.haruna -y
 flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer -y
 flatpak install flathub no.mifi.losslesscut -y
@@ -120,8 +119,8 @@ flatpak install flathub org.openshot.OpenShot -y
 flatpak install flathub com.obsproject.Studio -y
 flatpak install flathub com.github.vkohaupt.vokoscreenNG -y
 flatpak install flathub com.uploadedlobster.peek -y
-flatpak install flathub dev.fredol.open-tv -y
 flatpak install flathub io.github.yuki_iptv.yuki-iptv -y
+flatpak install flathub dev.fredol.open-tv -y
 ```
 
 ___
@@ -131,7 +130,6 @@ LibreOffice Impress
 ```
 flatpak install flathub org.onlyoffice.desktopeditors -y
 flatpak install flathub net.codeindustry.MasterPDFEditor -y
-flatpak install flathub org.gnome.Papers -y
 flatpak install flathub com.toolstack.Folio -y
 flatpak install flathub org.gnome.World.Iotas -y
 flatpak install flathub org.gnome.design.Lorem -y
