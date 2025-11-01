@@ -59,7 +59,6 @@ flatpak install flathub io.github.wartybix.Constrict -y
 
 ## Audio
 ```
-flatpak install flathub org.gnome.Rhythmbox3 -y
 flatpak install flathub org.musicbrainz.Picard -y
 flatpak install flathub com.sayonara_player.Sayonara -y
 flatpak install flathub net.puddletag.puddletag -y

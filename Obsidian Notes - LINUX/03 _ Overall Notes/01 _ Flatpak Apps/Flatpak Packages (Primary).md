@@ -6,6 +6,7 @@ flatpak install flathub com.brave.Browser -y
 flatpak install flathub com.google.Chrome -y
 flatpak install flathub org.filezillaproject.Filezilla -y
 flatpak install flathub md.obsidian.Obsidian -y
+flatpak install flathub org.gnome.Rhythmbox3 -y
 ```
 
 ___
@@ -214,7 +215,7 @@ flatpak install flathub org.kde.kmahjongg -y
 ___
 ## Flatseal - Global options
 
---- Filesystem Permissions ---
+--- Filesystem (Permissions) ---
 /mnt/HDD_1
 /mnt/USB_HDD_1
 /mnt/USB_HDD_2
