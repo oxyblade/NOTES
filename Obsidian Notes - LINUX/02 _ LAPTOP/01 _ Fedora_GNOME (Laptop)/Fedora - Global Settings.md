@@ -1,31 +1,8 @@
-
-
-## GNOME Settings (dconf-editor)
-
-Terminal:  
-dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-ac-timeout - '0'  
-dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-ac-type - 'nothing'  
-dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-battery-timeout - '0'  
-dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-battery-type - 'nothing'
-
 ## Additional settings (OPTIONAL)
 
 sudo nano /etc/environment  
 ####### Totem Video Player Error: failed to initialize opengl with gtk  
 GDK_GL=gles
-
-___
-
-## MISC
---- Nautilus DEFAULT file manager ---
-To set Nautilus file manager as the DEFAULT file manager type:
-xdg-mime default org.gnome.Nautilus.desktop inode/directory
-
---- GNOME Settings ---
-dconf-editor /org/gnome/mutter/center-new-windows - 'True'
-
---- GSConnect ---
-Firewall: Rules -> Rules -> Add a rule -> Simple -> Name (GSConnect) -> Port (1716 , 1739)
 
 ___
 
