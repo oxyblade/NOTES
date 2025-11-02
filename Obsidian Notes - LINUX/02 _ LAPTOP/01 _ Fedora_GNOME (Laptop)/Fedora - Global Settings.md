@@ -1,16 +1,3 @@
-## Overall Settings
-Terminal: Custom font, Window Size: (Monospace 10, 140 x 33)
-Terminal: Change Shortcuts
-Text Editor: Custom font: Monospace, 11
-
-## Linux BOOT Options
-[ GENERAL Options ]
-sudo nano /etc/default/grub
-
-GRUB_TIMEOUT=3 (OR 1)
-GRUB_CMDLINE_LINUX="rhgb loglevel=3"
-sudo grub2-mkconfig --output=/boot/grub2/grub.cfg
-
 ## FS FLAGS (OPTIONAL)
 **BTRFS (NVME & SSD):**
 compress=zstd:1,defaults,noatime,discard=async

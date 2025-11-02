@@ -1,31 +1,34 @@
-## Overall Settings
-Terminal: Custom font, Window Size: (Monospace 11, 140 x 35) (10, 145 x 35)
-Terminal: Change Shortcuts
-Text Editor: Custom font: Monospace, 11
-
-## Linux BOOT Options
-[ GENERAL Options ]
+### *Linux BOOT Options*
+```
 sudo nano /etc/default/grub
-
+```
 GRUB_TIMEOUT=3 (OR 1)
 GRUB_CMDLINE_LINUX_DEFAULT="rhgb loglevel=3"
+```
 sudo grub2-mkconfig --output=/boot/grub2/grub.cfg
+```
 
-## RAM, SSD, HDD OPTIMIZATION (OPTIONAL)
+### *RAM, SSD, HDD OPTIMIZATION (OPTIONAL)*
+```
 sudo nano /etc/sysctl.d/99-sysctl.conf
-sudo nano /etc/sysctl.conf (Alternative)
+```
+```
+sudo nano /etc/sysctl.conf
+```
 vm.swappiness=5
-
-[ OR ]
 
 vm.vfs_cache_pressure=1000
 vm.dirty_background_ratio=50
 vm.dirty_ratio=80
 kernel.watchdog_thresh=30
 
+Read values from file:
+```
+sysctl -p
+```
+```
 man sysctl.conf
-sysctl -p (Read values from file)
-
+```
 ## FS FLAGS (OPTIONAL)
 **BTRFS (NVME & SSD):**
 subvol=root,compress=zstd:1
