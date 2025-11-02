@@ -31,6 +31,7 @@ sysctl -p
 ```
 man sysctl.conf
 ```
+
 ### *FS FLAGS (OPTIONAL)*
 
 **BTRFS (NVME & SSD):**
@@ -113,6 +114,27 @@ CHECK FIX:
 cat /sys/module/snd_hda_intel/parameters/power_save
 ```
 power_save 0
+
+### *Disable Suspend when Lid Is Closed (LAPTOP)*
+
+```
+cd /etc/systemd/
+sudo mkdir logind.conf.d
+sudo cp /usr/lib/systemd/logind.conf /etc/systemd/logind.conf.d/logind.conf
+cd logind.conf.d/
+sudo nano /etc/systemd/logind.conf.d/logind.conf
+```
+
+*Uncomment lines:*
+HandleLidSwitch=ignore
+HandleLidSwitchDocked=ignore
+LidSwitchIgnoreInhibited=yes
+
+*Description:*
+HandleLidSwitch=ignore to do nothing
+HandleLidSwitch=poweroff to shutdown computer when lid is closed
+HandleLidSwitch=hibernate to hibernate computer when lid is closed
+
 
 ## Stop, Disable & Mask systemd Services (OPTIONAL)
 ```

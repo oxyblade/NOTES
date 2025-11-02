@@ -1,34 +1,4 @@
-## SOUNDCARD - DISABLE AUTO SUSPEND (Powersave)
---- Method 1 (MAIN) ---
-sudo nano /etc/modprobe.d/audio_disable_powersave_snd_hda_intel.conf
-At the end of the file add the following line:
-options snd_hda_intel power_save=0 power_save_controller=N
 
-[ OR ]
-
-options snd_usb_audio power_save=0
-reboot
-
---- CHECK FIX ---
-cat /sys/module/snd_hda_intel/parameters/power_save
-power_save 0
-
-## Disable Suspend when Lid Is Closed on Laptops
-cd /etc/systemd/
-sudo mkdir logind.conf.d
-sudo cp /usr/lib/systemd/logind.conf /etc/systemd/logind.conf.d/logind.conf
-cd logind.conf.d/
-sudo nano /etc/systemd/logind.conf.d/logind.conf
-
-Uncomment lines:
-HandleLidSwitch=ignore
-HandleLidSwitchDocked=ignore
-LidSwitchIgnoreInhibited=yes
-
-Description:
-HandleLidSwitch=ignore to do nothing
-HandleLidSwitch=poweroff to shutdown computer when lid is closed
-HandleLidSwitch=hibernate to hibernate computer when lid is closed
 
 ## GNOME Settings (dconf-editor)
 
