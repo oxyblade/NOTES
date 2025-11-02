@@ -61,6 +61,37 @@ LABEL=USB_HDD_1 /mnt/USB_HDD_1 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noati
 LABEL=USB_HDD_2 /mnt/USB_HDD_2 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
 LABEL=USB_HDD_3 /mnt/USB_HDD_3 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
 ```
+
+### *LOGS OPTIMIZATION (OPTIONAL)*
+```
+sudo nano /etc/logrotate.d/bootlog
+```
+{
+    missingok
+    weekly
+    maxsize 500M *(OPTIONAL)*
+    copytruncate
+    rotate 7
+    notifempty
+}
+
+*sudo nano /etc/logrotate.conf (OPTIONAL)*
+
+**journalctl (EXT4):**
+```
+sudo nano /etc/systemd/journald.conf
+```
+SystemMaxUse=500M
+
+```
+sudo journalctl --disk-usage
+```
+```
+sudo journalctl --verify
+```
+```
+sudo journalctl --vacuum-size=100M
+```
 ## SOUNDCARD - DISABLE SUSPEND / Powersave (OPTIONAL)
 --- Method 1 (MAIN) ---
 sudo nano /etc/modprobe.d/audio_disable_powersave_snd_hda_intel.conf
@@ -75,28 +106,6 @@ reboot
 --- CHECK FIX ---
 cat /sys/module/snd_hda_intel/parameters/power_save
 power_save 0
-
-## LOGS OPTIMIZATION (OPTIONAL)
---- bootlog (syslog) ---
-sudo nano /etc/logrotate.d/bootlog
-{
-    missingok
-    weekly
-    maxsize 500M -> OPTIONAL
-    copytruncate
-    rotate 7
-    notifempty
-}
-
-sudo nano /etc/logrotate.conf
-
---- journalctl (EXT4) ---
-sudo nano /etc/systemd/journald.conf
-SystemMaxUse=500M
-
-sudo journalctl --disk-usage
-sudo journalctl --vacuum-size=100M
-sudo journalctl --verify
 
 ## Stop, Disable & Mask systemd Services (OPTIONAL)
 ```

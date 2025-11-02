@@ -1,25 +1,3 @@
-## LOGS OPTIMIZATION
---- bootlog (syslog) ---
-sudo nano /etc/logrotate.d/bootlog
-{
-    missingok
-    weekly
-    maxsize 500M -> OPTIONAL
-    copytruncate
-    rotate 7
-    notifempty
-}
-
-sudo nano /etc/logrotate.conf (OPTIONAL Settings)
-
---- journalctl (EXT4) (OPTIONAL) ---
-sudo nano /etc/systemd/journald.conf
-SystemMaxUse=500M
-
-sudo journalctl --disk-usage
-sudo journalctl --vacuum-size=100M
-sudo journalctl --verify
-
 ## SOUNDCARD - DISABLE AUTO SUSPEND (Powersave)
 --- Method 1 (MAIN) ---
 sudo nano /etc/modprobe.d/audio_disable_powersave_snd_hda_intel.conf
