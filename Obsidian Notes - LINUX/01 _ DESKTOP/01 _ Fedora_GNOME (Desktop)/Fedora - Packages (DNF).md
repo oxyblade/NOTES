@@ -68,7 +68,7 @@ groups andrew
 systemctl status libvirtd.service
 ```
 
-Permission denied: Open disk image from USB / External devices
+Permission denied: Open disk image from USB / External devices:
 ```
 sudo nano /etc/libvirt/qemu.conf
 ```
@@ -98,20 +98,18 @@ pip install pdf-watermark
 python3 /home/andrew/.local/lib/python3.14/site-packages/pdf_watermark/watermark.py insert -o 0.1 -ha center -ts 100 . "Confidential"
 
 ____
-
 ## *FAVORITE PACKAGES*
 sbctl - Secure Boot Manager (Manjaro Linux)
 usb-creator - Create bootable USB from a LiveCD or disc image of Ubuntu
-stacer-bin - Linux system optimizer and monitoring [pamac]
+stacer-bin - Linux system optimizer and monitoring *(pamac)*
 gpick - Color picker
 xfburn - Burning CDs and DVDs
 glances - Curses-based monitoring tool
 plank - Elegant, simple, clean DOCK
 aircrack-ng - Wireless WEP/WPA cracking utilities
-preload - Makes applications run faster by prefetching binaries and shared objects [pamac]
+preload - Makes applications run faster by prefetching binaries and shared objects *(pamac)*
 
 ___
-
 ## *Misc Packages (OPTIONAL)*
 nvme-cli smartmontools lsof neofetch traceroute whois net-tools gpick gnome-system-tools bpytop btop
 hwinfo dmidecode cpuid systemd-coredump gdb hardinfo fping
@@ -127,7 +125,6 @@ sudo nvme smart-log /dev/nvme0
 sudo smartctl -iA /dev/nvme0
 
 ____
-
 ## *Misc Data*
 
 --- QT ---
