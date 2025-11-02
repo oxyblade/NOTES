@@ -1,4 +1,5 @@
 ### *Linux BOOT Options (OPTIONAL)*
+
 ```
 sudo nano /etc/default/grub
 ```
@@ -9,6 +10,7 @@ sudo grub2-mkconfig --output=/boot/grub2/grub.cfg
 ```
 
 ### *RAM, SSD, HDD OPTIMIZATION (OPTIONAL)*
+
 ```
 sudo nano /etc/sysctl.d/99-sysctl.conf
 ```
@@ -30,6 +32,7 @@ sysctl -p
 man sysctl.conf
 ```
 ### *FS FLAGS (OPTIONAL)*
+
 **BTRFS (NVME & SSD):**
 subvol=root,compress=zstd:1
 subvol=home,compress=zstd:1
@@ -63,6 +66,7 @@ LABEL=USB_HDD_3 /mnt/USB_HDD_3 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noati
 ```
 
 ### *LOGS OPTIMIZATION (OPTIONAL)*
+
 ```
 sudo nano /etc/logrotate.d/bootlog
 ```
@@ -92,19 +96,22 @@ sudo journalctl --verify
 ```
 sudo journalctl --vacuum-size=100M
 ```
-## SOUNDCARD - DISABLE SUSPEND / Powersave (OPTIONAL)
---- Method 1 (MAIN) ---
+
+### *SOUNDCARD - DISABLE SUSPEND / Powersave (OPTIONAL)*
+
+**Method 1**
+```
 sudo nano /etc/modprobe.d/audio_disable_powersave_snd_hda_intel.conf
+```
 Add the following line:
 options snd_hda_intel power_save=0 power_save_controller=N
+options snd_usb_audio power_save=0 *(OPTIONAL)*
+*reboot*
 
-[ OR ]
-
-options snd_usb_audio power_save=0
-reboot
-
---- CHECK FIX ---
+CHECK FIX:
+```
 cat /sys/module/snd_hda_intel/parameters/power_save
+```
 power_save 0
 
 ## Stop, Disable & Mask systemd Services (OPTIONAL)
