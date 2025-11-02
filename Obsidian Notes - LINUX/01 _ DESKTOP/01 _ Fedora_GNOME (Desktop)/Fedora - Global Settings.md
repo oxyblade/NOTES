@@ -125,7 +125,7 @@ cd logind.conf.d/
 sudo nano /etc/systemd/logind.conf.d/logind.conf
 ```
 
-*Uncomment lines:*
+**Uncomment lines:**
 HandleLidSwitch=ignore
 HandleLidSwitchDocked=ignore
 LidSwitchIgnoreInhibited=yes
