@@ -1,18 +1,33 @@
 ## *PRIMARY PACKAGES*
 
-**GUI Packages:**
+**GUI Packages (DESKTOP):**
 ```
 sudo dnf install gnome-tweaks gnome-themes-extra gnome-extensions-app file-roller gnome-firmware firewall-config seahorse dconf-editor gparted
 ```
 
-**Utils Packages:**
+**GUI Packages (LAPTOP):**
+```
+sudo dnf install gnome-tweaks gnome-themes-extra gnome-extensions-app file-roller gnome-firmware firewall-config seahorse dconf-editor gparted brasero
+```
+
+**Utils Packages (DESKTOP):**
 ```
 sudo dnf install inxi fastfetch cpufetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop lsb_release yaru-icon-theme bat lsd
 ```
 
-**Misc Packages:**
+**Utils Packages (LAPTOP):**
 ```
-sudo dnf install nvidia-smi composer libxcrypt-compat gtk2 libnsl autoconf meson unrar p7zip python3-pip
+sudo dnf install inxi fastfetch cpufetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop lsb_release yaru-icon-theme bat lsd igt-gpu-tools
+```
+
+**Misc Packages (DESKTOP):**
+```
+sudo dnf install composer libxcrypt-compat gtk2 libnsl autoconf meson unrar p7zip python3-pip nvidia-smi
+```
+
+**Misc Packages (LAPTOP):**
+```
+sudo dnf install composer libxcrypt-compat gtk2 libnsl autoconf meson unrar p7zip python3-pip
 ```
 
 **PHP (Local Server):**
@@ -28,8 +43,12 @@ php -m
 sudo dnf install cmake gcc-c++ gcc make
 ```
 
+**CD / DVD / Blu-ray Burning Applications (LAPTOP):**
+k3b — CD/DVD/Blu-ray burning application (sudo chmod 4755 /usr/bin/wodim)
+xfburn — CD burning tool
+
 > *DNF Packages (OPTIONAL):*
-> nvidia-xconfig egl-utils apache mtr wireguard-tools adw-gtk3-theme cabextract xorg-x11-font-utils fontconfig
+> nvidia-smi nvidia-xconfig egl-utils apache mtr wireguard-tools adw-gtk3-theme cabextract xorg-x11-font-utils fontconfig
 
 _____
 

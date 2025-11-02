@@ -4,31 +4,25 @@
 
 GUI Packages:
 ```
-sudo dnf install gnome-tweaks gnome-themes-extra gnome-extensions-app file-roller gnome-firmware firewall-config seahorse dconf-editor gparted brasero
+
 ```
 
 Utils Packages:
 ```
-sudo dnf install inxi fastfetch cpufetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop igt-gpu-tools sslscan dnsmap dnsenum sysstat nvtop htop atop btop lsb_release yaru-icon-theme bat lsd
+
 ```
 
 Misc Packages:
 ```
-sudo dnf install composer libxcrypt-compat gtk2 libnsl meson unrar p7zip
+
 ```
 
 CD / DVD / Blu-ray Burning Applications:
 k3b — CD/DVD/Blu-ray burning application (sudo chmod 4755 /usr/bin/wodim)
 xfburn — CD burning tool
 
---- PHP: Local Server ---
-sudo dnf install php
-sudo dnf install php-apache php-cgi php-gd php-embed php-imagick php-redis php-snmp
-php -v
-php -m
 
---- OPTIONAL packages (DNF) ---
-nvidia-smi nvidia-xconfig egl-utils apache mtr wireguard-tools adw-gtk3-theme cabextract xorg-x11-font-utils fontconfig
+
 
 ___
 
