@@ -1,4 +1,4 @@
-### *Linux BOOT Options*
+### *Linux BOOT Options (OPTIONAL)*
 ```
 sudo nano /etc/default/grub
 ```
@@ -29,20 +29,25 @@ sysctl -p
 ```
 man sysctl.conf
 ```
-## FS FLAGS (OPTIONAL)
+### *FS FLAGS (OPTIONAL)*
 **BTRFS (NVME & SSD):**
 subvol=root,compress=zstd:1
 subvol=home,compress=zstd:1
 OPTIONAL: defaults,noatime,discard=async
 
 **BTRFS (HDD):**
-nosuid,nodev,nofail,x-gvfs-show,compress=zstd:1 [ + USB ]
-OPTIONAL: defaults,noatime
+nosuid,nodev,nofail,x-gvfs-show,compress=zstd:1 (+USB )
+*OPTIONAL:* defaults,noatime
 
 **EXT4 (HDD & SSD):**
 defaults,noatime,barrier=0
 
-**FSTAB (/etc/fstab):**
+**FSTAB:**
+```
+sudo nano /etc/fstab
+```
+
+*DESKTOP*
 ```
 LABEL=HDD_1 /mnt/HDD_1 btrfs nosuid,nodev,nofail,x-gvfs-show,compress=zstd:1 0 0
 LABEL=USB_HDD_1 /mnt/USB_HDD_1 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
@@ -50,6 +55,12 @@ LABEL=USB_HDD_2 /mnt/USB_HDD_2 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noati
 LABEL=USB_HDD_3 /mnt/USB_HDD_3 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
 ```
 
+*LAPTOP*
+```
+LABEL=USB_HDD_1 /mnt/USB_HDD_1 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
+LABEL=USB_HDD_2 /mnt/USB_HDD_2 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
+LABEL=USB_HDD_3 /mnt/USB_HDD_3 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
+```
 ## SOUNDCARD - DISABLE SUSPEND / Powersave (OPTIONAL)
 --- Method 1 (MAIN) ---
 sudo nano /etc/modprobe.d/audio_disable_powersave_snd_hda_intel.conf

@@ -1,21 +1,3 @@
-## FS FLAGS (OPTIONAL)
-**BTRFS (NVME & SSD):**
-compress=zstd:1,defaults,noatime,discard=async
-
-**BTRFS (HDD):**
-compress=zstd:1,defaults,noatime
-compress=zstd:1,x-gvfs-show,defaults,noatime [ USB ]
-
-**EXT4 (HDD & SSD):**
-defaults,noatime,barrier=0
-
-**FSTAB (/etc/fstab):**
-```
-LABEL=USB_HDD_1 /mnt/USB_HDD_1 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
-LABEL=USB_HDD_2 /mnt/USB_HDD_2 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
-LABEL=USB_HDD_3 /mnt/USB_HDD_3 ext4 nosuid,nodev,nofail,noauto,x-gvfs-show,noatime,barrier=0 0 0
-```
-
 ## LOGS OPTIMIZATION
 --- bootlog (syslog) ---
 sudo nano /etc/logrotate.d/bootlog
@@ -52,23 +34,6 @@ reboot
 --- CHECK FIX ---
 cat /sys/module/snd_hda_intel/parameters/power_save
 power_save 0
-
-## RAM, SSD, HDD OPTIMIZATION
-sudo nano /etc/sysctl.d/99-sysctl.conf
-sudo nano /etc/sysctl.conf (Alternative)
-vm.swappiness=5
-
-[ OR ]
-
-sudo echo -e "vm.swappiness=5" | sudo tee -a /etc/sysctl.conf
-sudo echo -e "vm.vfs_cache_pressure=1000" | sudo tee -a /etc/sysctl.conf
-
-sudo echo -e "vm.dirty_background_ratio = 50" | sudo tee -a /etc/sysctl.conf
-sudo echo -e "vm.dirty_ratio = 80" | sudo tee -a /etc/sysctl.conf
-sudo echo -e "kernel.watchdog_thresh=30" | sudo tee -a /etc/sysctl.conf
-
-man sysctl.conf
-sysctl -p (Read values from file)
 
 ## Disable Suspend when Lid Is Closed on Laptops
 cd /etc/systemd/
