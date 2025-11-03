@@ -48,6 +48,7 @@ alias qq-sensors-smart-nvme='sudo smartctl -a /dev/nvme0 && echo "" && echo "" &
 alias qq-sensors-smart-sda='sudo smartctl -a /dev/sda'
 alias qq-sensors-smart-sdb='sudo smartctl -a /dev/sdb'
 alias qq-sensors-smart-sdc='sudo smartctl -a /dev/sdc'
+alias qq-sensors-smart-sdd='sudo smartctl -a /dev/sdd'
 alias qq-tool-files-du-1='du -sh * | sort -h'
 alias qq-tool-files-du-2='du -h | sort -h'
 alias qq-tool-files-gdu-root='gdu /'
