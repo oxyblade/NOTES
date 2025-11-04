@@ -1,34 +1,36 @@
 ## *PRIMARY PACKAGES*
 
-**GUI Packages (DESKTOP):**
-```
-sudo dnf install gnome-tweaks gnome-themes-extra gnome-extensions-app file-roller gnome-firmware firewall-config seahorse dconf-editor gparted
-```
+> ### ***DESKTOP***
+> **GUI Packages:**
+> ```
+> sudo dnf install gnome-tweaks gnome-themes-extra gnome-extensions-app file-roller gnome-firmware firewall-config seahorse dconf-editor gparted
+> ```
+> 
+> **Utils Packages:**
+> ```
+> sudo dnf install inxi fastfetch cpufetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop lsb_release yaru-icon-theme bat lsd
+> ```
+> 
+> **Misc Packages:**
+> ```
+> sudo dnf install composer libxcrypt-compat gtk2 libnsl autoconf meson unrar p7zip python3-pip nvidia-smi
+> ```
 
-**GUI Packages (LAPTOP):**
-```
-sudo dnf install gnome-tweaks gnome-themes-extra gnome-extensions-app file-roller gnome-firmware firewall-config seahorse dconf-editor gparted brasero
-```
-
-**Utils Packages (DESKTOP):**
-```
-sudo dnf install inxi fastfetch cpufetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop lsb_release yaru-icon-theme bat lsd
-```
-
-**Utils Packages (LAPTOP):**
-```
-sudo dnf install inxi fastfetch cpufetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop lsb_release yaru-icon-theme bat lsd igt-gpu-tools
-```
-
-**Misc Packages (DESKTOP):**
-```
-sudo dnf install composer libxcrypt-compat gtk2 libnsl autoconf meson unrar p7zip python3-pip nvidia-smi
-```
-
-**Misc Packages (LAPTOP):**
-```
-sudo dnf install composer libxcrypt-compat gtk2 libnsl autoconf meson unrar p7zip python3-pip
-```
+> ### ***LAPTOP***
+> **GUI Packages**
+> ```
+> sudo dnf install gnome-tweaks gnome-themes-extra gnome-extensions-app file-roller gnome-firmware firewall-config seahorse dconf-editor gparted brasero
+> ```
+> 
+> **Utils Packages:**
+> ```
+> sudo dnf install inxi fastfetch cpufetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop lsb_release yaru-icon-theme bat lsd igt-gpu-tools
+> ```
+> 
+> **Misc Packages:**
+> ```
+> sudo dnf install composer libxcrypt-compat gtk2 libnsl autoconf meson unrar p7zip python3-pip
+> ```
 
 **PHP (Local Server):**
 ```
@@ -92,7 +94,7 @@ systemctl status libvirtd.service
 
 ___
 
-Python packages:
+**Python packages:**
 
 pip install pdf-watermark
 python3 /home/andrew/.local/lib/python3.14/site-packages/pdf_watermark/watermark.py insert -o 0.1 -ha center -ts 100 . "Confidential"

@@ -165,7 +165,7 @@ sudo systemctl mask nvidia-powerd.service
 systemctl list-unit-files --state=masked
 ```
 
-### *GNOME Settings (dconf-editor)*
+### *GNOME Settings (dconf-editor) (OPTIONAL)*
 
 *Terminal:*
 dconf-editor /org/gnome/settings-daemon/plugins/power/sleep-inactive-ac-timeout - '0'
