@@ -100,20 +100,40 @@ sudo journalctl --vacuum-size=100M
 
 ### *SOUNDCARD - DISABLE SUSPEND / Powersave (OPTIONAL)*
 
-**Method 1**
-```
+> **WirePlumber configuration**
+> ```
+> sudo nano /etc/wireplumber/wireplumber.conf.d/disable-idle-timeout.conf
+> ```
+> Paste the following text into the file:
+> ```
+> monitor.alsa.rules = [ { matches = [ { ## Matches all sources. * node.name = "~alsa_input.*" } { ## Matches all sinks. * node.name = "~alsa_output.*" } ] actions = { update-props = { session.suspend-timeout-seconds = 0 } } } ]
+> ```
+> Save the file and exit the editor.
+> Restart the WirePlumber service:
+> ```
+> systemctl --user restart wireplumber.service
+> ```
+> Or restart the system for the changes to take full effect.
+
+> **PipeWire configuration** (for older Fedora versions)
+> ```
+> sudo nano /etc/pulse/default.pa
+> ```
+> Find the line and comment it out by adding a # at the beginning of the line: *load-module module-suspend-on-idle*
+> Save the file and reload PulseAudio or reboot:
+> ```
+> pulseaudio -k
+> pulseaudio -D
+> ```
+
+** Legacy Method**
 sudo nano /etc/modprobe.d/audio_disable_powersave_snd_hda_intel.conf
-```
 Add the following line:
 options snd_hda_intel power_save=0 power_save_controller=N
 options snd_usb_audio power_save=0 *(OPTIONAL)*
 *reboot*
-
 CHECK FIX:
-```
-cat /sys/module/snd_hda_intel/parameters/power_save
-```
-power_save 0
+cat /sys/module/snd_hda_intel/parameters/power_save (Result: power_save 0)
 
 ### *Disable Suspend when Lid Is Closed (LAPTOP)*
 
