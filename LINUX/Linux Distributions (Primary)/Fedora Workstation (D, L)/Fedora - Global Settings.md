@@ -127,9 +127,10 @@ sudo journalctl --vacuum-size=100M
 > ```
 
 ** Legacy Method**
+cat /proc/asound/modules
 sudo nano /etc/modprobe.d/audio_disable_powersave_snd_hda_intel.conf
 Add the following line:
-options snd_hda_intel power_save=0 power_save_controller=N
+options snd_hda_intel power_save=0 (power_save_controller=N — *OPTIONAL*)
 options snd_usb_audio power_save=0 *(OPTIONAL)*
 *reboot*
 CHECK FIX:
