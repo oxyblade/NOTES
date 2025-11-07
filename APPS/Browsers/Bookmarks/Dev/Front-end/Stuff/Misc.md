@@ -1,0 +1,11 @@
+https://loading.io/css
+https://connoratherton.com/loaders
+https://elad2412.github.io/the-new-css-reset/
+https://tobiasahlin.com/spinkit/
+https://projects.lukehaas.me/css-loaders/
+https://cssload.net/
+https://www.w3schools.com/charsets/ref_html_entities_4.asp
+https://meyerweb.com/eric/tools/css/reset/
+https://uiverse.io/all
+https://html5boilerplate.com/
+https://loading.io/

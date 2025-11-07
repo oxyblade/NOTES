@@ -1,0 +1,9 @@
+https://firebase.google.com/docs/cli#sign-in-test-cli
+https://firebase.google.com/docs/hosting/quickstart
+https://firebase.google.com/docs/web/setup#default-hosting-site
+https://httpd.apache.org/docs/
+https://nginx.org/ru/docs/
+https://docs.nginx.com/nginx/
+https://www.nginx.com/resources/wiki/
+https://redmine.lighttpd.net/projects/lighttpd/wiki
+https://www.jenkins.io/doc/
