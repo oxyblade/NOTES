@@ -1,6 +1,6 @@
 ## GNOME Dash
-Terminal, Nautilus, HiFile, Firefox, PhpStorm, Software, Rhythmbox
 
+Terminal, Nautilus, HiFile, Firefox, PhpStorm, Software, Rhythmbox
 ```
 flatpak install flathub com.brave.Browser -y
 flatpak install flathub com.google.Chrome -y
@@ -11,8 +11,8 @@ flatpak install flathub org.gnome.Rhythmbox3 -y
 
 ___
 ## Activities Overview
-Double Commander, Virtual Machine Manager
 
+Double Commander, Virtual Machine Manager
 ```
 flatpak install flathub org.telegram.desktop -y
 flatpak install io.github.mimbrero.WhatsAppDesktop -y
@@ -33,8 +33,8 @@ flatpak install flathub app.drey.Dialect -y
 
 ___
 ## Web
-Tor Browser, Windscribe VPN
 
+Tor Browser, Windscribe VPN
 ```
 flatpak install flathub com.opera.Opera -y
 flatpak install flathub com.vivaldi.Vivaldi -y
@@ -56,8 +56,8 @@ flatpak install flathub me.proton.Mail -y
 
 ___
 ## Dev
-Sublime Text, JetBrains Apps
 
+Sublime Text, JetBrains Apps
 ```
 flatpak install flathub io.dbeaver.DBeaverCommunity -y
 flatpak install flathub com.visualstudio.code -y
@@ -109,6 +109,7 @@ flatpak install flathub de.haeckerfelix.Shortwave -y
 ___
 ## Video
 
+IPTVnator
 ```
 flatpak install flathub org.kde.haruna -y
 flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer -y
@@ -125,8 +126,8 @@ flatpak install flathub dev.fredol.open-tv -y
 
 ___
 ## Office
-LibreOffice Impress
 
+LibreOffice Impress
 ```
 flatpak install flathub org.onlyoffice.desktopeditors -y
 flatpak install flathub net.codeindustry.MasterPDFEditor -y
@@ -170,12 +171,12 @@ flatpak install flathub io.github.flattool.Ignition -y
 flatpak install flathub net.nokyan.Resources -y
 flatpak install flathub io.missioncenter.MissionCenter -y
 ```
-
 System Monitor, Disk Usage Analyzer, Disks, Logs
+
 ___
 ## Network
-Sniffnet
 
+Sniffnet
 ```
 flatpak install flathub io.github.bytezz.IPLookup -y
 flatpak install flathub org.nmap.Zenmap -y
