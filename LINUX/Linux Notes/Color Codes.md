@@ -1,4 +1,4 @@
-## Background (Dark):
+## *Background (Dark):*
 1A1A1A	- Background (Primary 1)
 111111	- Background (Primary 2)
 1C1C1C	- Background
