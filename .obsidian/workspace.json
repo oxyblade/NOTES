@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "548570c0daa2fcc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f41ebdaa84294cc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a1caa1de4de9175",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05447c5180f54954",
+    "type": "split",
+    "children": [
+      {
+        "id": "87ed6f05ccbb997f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e0cbe3f4fe8bef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7a2daa90615ec6ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a488e17466aed31d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "right": {
+    "id": "e67f40783a228222",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d09ee4ce3975c8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "707707843815703c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "b2e70e59115dc796",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cacb964848c0f4e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "da8937b51a5f0d67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bf4fb3b09ca8f5e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0a1caa1de4de9175",
+  "lastOpenFiles": [
+    "WINDOWS/Windows 11.md",
+    "WINDOWS/Windows 11.md",
+    "LINUX/Linux Notes/CPU Vulnerability.md",
+    "LINUX/Linux Notes/Color Codes.md",
+    "LINUX/02 _ LAPTOP/02 _ Manjaro_GNOME (Laptop)/Misc/Nvidia GPU (Optimus Manager - Switching GPUs).md",
+    "Untitled.base",
+    "PERSONAL/Notes.md",
+    "PERSONAL/Medicine.md",
+    "LINUX/Linux Distributions (Primary)/Fedora Workstation (D, L)/Fedora - Global Settings.md",
+    "LINUX/Linux Distributions (Primary)/Fedora Workstation (D, L)/Fedora - Aliases.md",
+    "LINUX/Linux Distributions (Primary)/Fedora Workstation (D, L)/Fedora - Packages (DNF).md",
+    "README.md",
+    "LINUX/Linux Distributions (Secondary)/Fedora/Terminal Commands.md",
+    "LINUX/Linux Distributions (Secondary)/Fedora/Laptop suspend or hibernate after closing lid.md",
+    "LINUX/Linux Distributions (Secondary)/Debian/Notes.md",
+    "LINUX/Linux Notes/Misc/SysRq key.md",
+    "LINUX/Linux Notes/Misc/AudioCard & Microphone Improvements.md",
+    "LINUX/Linux Notes/Misc/GRUB.md",
+    "LINUX/Linux Notes/Misc/gtk (Legacy).md",
+    "LINUX/Linux Notes/Misc/tracker_miner_fs.md",
+    "LINUX/Linux Notes/Misc/Install multiple DE.md",
+    "LINUX/Linux Notes/Misc/Linux Virtual memory (Options).md",
+    "LINUX/Linux Notes/Misc/sssd failure (System Security Services Daemon).md",
+    "LINUX/Linux Notes/Misc/System Settings.md",
+    "LINUX/Linux Notes/Misc/Environments.md",
+    "LINUX/Linux Notes/Misc/NVIDIA/Nvidia - Discrete GPU (Laptop).md",
+    "LINUX/Linux Notes/Servers/NPM Packages (Primary).md",
+    "LINUX/Linux Notes/VM",
+    "APPS/Browsers/Firefox",
+    "APPS/Browsers/Chrome",
+    "APPS/Browsers",
+    "APPS",
+    "LINUX/Linux Apps",
+    "LINUX/Linux Distributions (Primary)",
+    "LINUX/Linux Distributions (Primary)/Fedora Workstation (D, L)/Info/Laptop",
+    "LINUX/Linux Distributions (Primary)/Fedora Workstation (D, L)/Info/Desktop",
+    "Untitled.canvas"
+  ]
+}
