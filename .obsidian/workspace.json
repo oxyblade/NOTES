@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f41ebdaa84294cc9",
+        "id": "576fdfee777b5af1",
         "type": "tabs",
         "children": [
           {
-            "id": "0a1caa1de4de9175",
+            "id": "837341d13430837a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a1caa1de4de9175",
+  "active": "837341d13430837a",
   "lastOpenFiles": [
     "WINDOWS/Windows 11.md",
     "WINDOWS/Windows 11.md",
