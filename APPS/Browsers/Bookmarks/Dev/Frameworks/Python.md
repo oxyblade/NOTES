@@ -1,9 +1,0 @@
-https://www.brython.info/
-https://cherrypy.org/
-https://www.djangoproject.com/
-https://fastapi.tiangolo.com/
-http://flask.pocoo.org/
-https://locust.io/
-https://pyscript.net/
-https://pytorch.org/
-https://scrapy.org/

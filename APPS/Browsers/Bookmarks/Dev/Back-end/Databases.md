@@ -1,9 +1,0 @@
-https://www.mysql.com/
-https://mariadb.org/
-https://www.postgresql.org/
-https://www.mongodb.com/
-https://sqlite.org/index.html
-http://nosql-database.org/
-https://firebirdsql.org/
-https://redis.io/
-https://memcached.org/
