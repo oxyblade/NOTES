@@ -1,5 +1,0 @@
-```css
-* {
-	outline: none;
-}
-```
