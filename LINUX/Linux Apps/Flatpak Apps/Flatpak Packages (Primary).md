@@ -109,7 +109,6 @@ flatpak install flathub de.haeckerfelix.Shortwave -y
 ___
 ## Video
 
-IPTVnator
 ```
 flatpak install flathub org.kde.haruna -y
 flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer -y
