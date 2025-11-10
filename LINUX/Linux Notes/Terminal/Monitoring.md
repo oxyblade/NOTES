@@ -23,13 +23,11 @@ xrestop Монитор потребления ресурсов X-сервера 
 dstat Мониторинг процессора, дисковой нагрузки, сетевой нагрузки, памяти и т.п.
 systemctl list-units -t service Запущенные сервисы (текущие)
 
-ls -l /proc/9600/exe (9600 — process ID)
+ls -l /proc/9600/exe (9600 — process ID, Check path of process)
 ps auxwww | grep 'Z' Zombie processes
 ps aux | awk '{ print $8 " " $2 }' | grep -w Z Zombie processes
 ps afuwwx | less +u -p'^(\S+\s+){7}Z.*' Zombie processes
 ps -eo pmem,ppid,comm | sort -k 1 -r | head -21 | tail -20
-
-ll /proc/2043805/exe Check path of process
 
 watch grep MHz /proc/cpuinfo Частота ядер процессора в реальном времени
 grep MHz /proc/cpuinfo Частота ядер процессора
