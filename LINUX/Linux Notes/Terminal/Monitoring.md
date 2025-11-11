@@ -77,6 +77,17 @@ ___
 nvidia-smi
 ```
 
+View the current performance state of a GPU
 ```
 watch -n 1 nvidia-smi -q -d PERFORMANCE
+```
+
+To set a preferred power management mode
+```
+nvidia-smi -pm 1
+```
+
+To force maximum performance mode
+```
+nvidia-smi -acp 0
 ```
