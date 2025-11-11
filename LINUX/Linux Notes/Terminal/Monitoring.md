@@ -85,10 +85,10 @@ watch -n 1 nvidia-smi -q -d POWER
 
 To set a preferred power management mode
 ```
-nvidia-smi -pm 1
+sudo nvidia-smi -pm 1
 ```
 
 To force maximum performance mode *(OPTIONAL)*
 ```
-nvidia-smi -acp 0
+sudo nvidia-smi -acp 0
 ```
