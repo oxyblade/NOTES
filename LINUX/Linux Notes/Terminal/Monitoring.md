@@ -83,7 +83,7 @@ watch -n 1 nvidia-smi -q -d PERFORMANCE
 watch -n 1 nvidia-smi -q -d POWER
 ```
 
-To set a preferred power management mode
+To set a preferred power management mode *(Optional: sudo nvidia-smi -pm ENABLED)*
 ```
 sudo nvidia-smi -pm 1
 ```
@@ -92,3 +92,32 @@ To force maximum performance mode *(OPTIONAL)*
 ```
 sudo nvidia-smi -acp 0
 ```
+
+Set power limit
+```
+sudo nvidia-smi -pl 30
+```
+
+> To create the script run the command: `nano ~/nvidia-performance.sh`. Here is the exact script that I wrote:
+> 
+> `#!/bin/bash`
+> `# Enable persistence mode`
+> `sudo nvidia-smi -pm 1`
+> `# Set power limit to 30 Watts`
+> `sudo nvidia-smi -pl 30`
+> 
+>  File permission:
+> `sudo chmod +x nvidia-performance.sh`
+> 
+> Now that we have a shell script created and have given it the execute permission we need to make it run every time the system boots. To do this, run the command:
+> ```
+> crontab -e
+> ```
+> 
+> and add the line:
+> ```
+> @reboot sh /home/andrew/nvidia-performance.sh
+> ```
+> 
+> Save the file. Next, to confirm the crontab job was added you can run the command `crontab -l` and it will list all the currently saved crontab jobs.
+> 
