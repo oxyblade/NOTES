@@ -71,3 +71,12 @@ atopsar -r /var/log/atop/atop_20250824 -G (Report about top-3 processes consumin
 
 ___
 
+### nvidia-smi
+
+```
+nvidia-smi
+```
+
+```
+watch -n 1 nvidia-smi -q -d PERFORMANCE
+```
