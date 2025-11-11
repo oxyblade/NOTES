@@ -77,9 +77,10 @@ ___
 nvidia-smi
 ```
 
-View the current performance state of a GPU
+View the current performance state, power limit of the GPU
 ```
 watch -n 1 nvidia-smi -q -d PERFORMANCE
+watch -n 1 nvidia-smi -q -d POWER
 ```
 
 To set a preferred power management mode
