@@ -19,6 +19,7 @@ https://wooordhunt.ru/
 https://www.wordreference.com/
 https://www.calc.ru/
 https://www.cymath.com/
+https://lyngsat.com/ (LyngSat - TV Satellites)
 
 ### Accounts & Support
 
