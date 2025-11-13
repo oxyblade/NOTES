@@ -55,6 +55,7 @@ flatpak install flathub dev.fredol.open-tv -y
 flatpak install flathub io.github.jliljebl.Flowblade -y
 flatpak install flathub fr.handbrake.ghb -y
 flatpak install flathub io.github.wartybix.Constrict -y
+flatpak install flathub dev.fredol.open-tv -y
 ```
 
 ## Sound
