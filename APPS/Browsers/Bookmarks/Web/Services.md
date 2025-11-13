@@ -20,6 +20,7 @@ https://www.wordreference.com/
 https://www.calc.ru/
 https://www.cymath.com/
 https://lyngsat.com/ (LyngSat - TV Satellites)
+https://ollama.com (AI Ollama)
 
 ### Accounts & Support
 
