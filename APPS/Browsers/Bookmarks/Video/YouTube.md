@@ -26,7 +26,7 @@ https://www.youtube.com/@Rus_in_Ukr/videos
 
 https://www.youtube.com/@SergeyLubarsky/videos
 
-### *Video (Bloggers)*
+### *Bloggers*
 https://www.youtube.com/@kosoe_puzo/streams
 https://www.youtube.com/@xandercage5966/streams
 https://www.youtube.com/@Mayskiy/videos
