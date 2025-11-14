@@ -2,11 +2,11 @@ https://kinogo.biz
 
 ### *CURRENT*
 
-Синистер
-— Хост;
-— Скинамаринк;
-— Шесть демонов Эмили Роуз;
-— Дом ада;
+https://kinogo.biz/21846-ooo-dom-ada.html
+https://kinogo.biz/26321-ooo-dom-ada-2-otel-abaddon.html
+https://kinogo.biz/36915-ooo-dom-ada-3-ozero-ognja.html
+https://kinogo.biz/82075-ooo-dom-ada-nachalo-osobnjak-karmajkla.html
+https://kinogo.biz/120576-dom-ada-rodoslovnaja.html
 — Оно приходит за тобой;
 — Пустошь тьмы и зла.
 
