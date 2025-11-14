@@ -8,7 +8,7 @@
 > 
 > **Utils Packages:**
 > ```
-> sudo dnf install inxi fastfetch cpufetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop lsb_release yaru-icon-theme bat lsd
+> sudo dnf install inxi fastfetch cpufetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop lsb_release yaru-icon-theme bat lsd hwinfo
 > ```
 > 
 > **Misc Packages:**
@@ -24,7 +24,7 @@
 > 
 > **Utils Packages:**
 > ```
-> sudo dnf install inxi fastfetch cpufetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop lsb_release yaru-icon-theme bat lsd igt-gpu-tools
+> sudo dnf install inxi fastfetch cpufetch duf lnav lshw speedtest-cli whatweb nethogs nload iotop mc pv pwgen nmon bmon nmap iperf whowatch iftop sysstat sslscan dnsmap dnsenum gdu nvtop htop atop btop lsb_release yaru-icon-theme bat lsd hwinfo igt-gpu-tools
 > ```
 > 
 > **Misc Packages:**
