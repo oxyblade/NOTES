@@ -1,9 +1,8 @@
 https://kinogo.biz
 
 ### *CURRENT*
-https://kinogo.biz/28514-povorot-ne-tuda.html 15
 
-Синистер;
+Синистер
 — Хост;
 — Скинамаринк;
 — Шесть демонов Эмили Роуз;
@@ -40,6 +39,7 @@ https://kinogo.biz/121556-inkarnacija.html
 https://kinogo.biz/121606-ozero-kostej.html
 https://kinogo.ec/121733-alter.html
 https://kinogo.biz/119785-avgust.html
+https://kinogo.biz/120692-na-trope-vojny.html
 
 ### *Actors*
 https://kinogo.biz/directors/106831-nikita-mihalkov.html
@@ -54,7 +54,9 @@ https://kinogo.biz/actors/287-devid-sushe.html
 https://kinogo.biz/actors/29566-ben-foster.html
 https://kinogo.biz/actors/19379-vel-kilmer.html
 
+___
 ### *SERIES*
+
 https://kinogo.biz/115673-lihie.html (2 Сезон) 4 - 23
 https://kinogo.biz/82194-204534-slovo-pacana-serial-1-sezon-rus.html (2 сезон)
 https://kinogo.biz/10023-ivanovy-ivanovy-serial-i4.html (9 Сезон)
