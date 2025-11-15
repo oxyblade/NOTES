@@ -2,20 +2,12 @@ https://kinogo.biz
 
 ### *CURRENT*
 
-https://kinogo.biz/21846-ooo-dom-ada.html
-https://kinogo.biz/26321-ooo-dom-ada-2-otel-abaddon.html
-https://kinogo.biz/36915-ooo-dom-ada-3-ozero-ognja.html
-https://kinogo.biz/82075-ooo-dom-ada-nachalo-osobnjak-karmajkla.html
-https://kinogo.biz/120576-dom-ada-rodoslovnaja.html
-— Оно приходит за тобой;
-— Пустошь тьмы и зла.
-
-2015 — «Ведьма»;
-2018 — «Аннигиляция»;
-2019 — «Маяк»;
-2021 — «Титан»;
-2022 — «Преступления будущего»;
-2023 — «Бесконечный бассейн»;
+2015 — «Ведьма»
+2018 — «Аннигиляция»
+2019 — «Маяк»
+2021 — «Титан»
+2022 — «Преступления будущего»
+2023 — «Бесконечный бассейн»
 
 https://kinogo.biz/120280-dispetcher.html
 https://kinogo.biz/121469-zakljatie-4-poslednij-obrjad.html
