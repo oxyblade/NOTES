@@ -78,44 +78,25 @@ ___
 │       │   │       ├── Live Chat, Messenger, Calls.md
 │       │   │       └── Misc.md
 │       │   ├── Video
+│       │   │   ├── Cinema.md
 │       │   │   ├── Misc.md
-│       │   │   └── YouTube (Subscriptions).md
+│       │   │   └── YouTube.md
 │       │   └── Web
 │       │       ├── Cloud Drives.md
-│       │       └── Services
-│       │           └── Misc.md
+│       │       ├── Misc.md
+│       │       └── Services.md
 │       ├── Chrome
 │       │   └── Chrome - Flags.md
 │       └── Firefox
 │           └── Firefox - Config.md
 ├── .gitignore
 ├── LINUX
-│   ├── 01 _ DESKTOP
-│   │   ├── 02 _ Manjaro_GNOME (Desktop)
-│   │   │   ├── Manjaro - Aliases (Desktop).md
-│   │   │   ├── Manjaro - Global Settings.md
-│   │   │   └── Manjaro - Packages (Pacman).md
-│   │   └── 03 _ Ubuntu_GNOME (Desktop)
-│   │       ├── Ubuntu - Aliases (Desktop).md
-│   │       ├── Ubuntu - Global Settings.md
-│   │       └── Ubuntu - Packages (APT).md
-│   ├── 02 _ LAPTOP
-│   │   ├── 02 _ Manjaro_GNOME (Laptop)
-│   │   │   ├── Manjaro - Aliases (Desktop).md
-│   │   │   ├── Manjaro - Global Settings.md
-│   │   │   ├── Manjaro - Packages (Pacman).md
-│   │   │   └── Misc
-│   │   │       └── Nvidia GPU (Optimus Manager - Switching GPUs).md
-│   │   └── 03 _ Fedora_KDE (Laptop)
-│   │       ├── Fedora - Aliases (Laptop).md
-│   │       ├── Fedora - Global Settings.md
-│   │       └── Fedora - Packages (DNF).md
 │   ├── Linux Apps
 │   │   └── Flatpak Apps
 │   │       ├── Flatpak Packages (Primary).md
 │   │       └── Flatpak Packages (Secondary).md
 │   ├── Linux Distributions (Primary)
-│   │   └── Fedora Workstation (D, L)
+│   │   └── Fedora Workstation
 │   │       ├── Fedora - Aliases.md
 │   │       ├── Fedora - Global Settings.md
 │   │       ├── Fedora - Packages (DNF).md
@@ -140,57 +121,78 @@ ___
 │   │   ├── Packages (Favorites).md
 │   │   └── Ubuntu
 │   │       └── Notes.md
-│   └── Linux Notes
-│       ├── Apps Settings (Additional).md
-│       ├── Color Codes.md
-│       ├── CPU Vulnerability.md
-│       ├── Dev
-│       │   ├── Bash (Shell).md
-│       │   ├── Git.md
-│       │   └── Services, Data, API, Keys.md
-│       ├── Misc
-│       │   ├── AudioCard & Microphone Improvements.md
-│       │   ├── Environments.md
-│       │   ├── GRUB.md
-│       │   ├── gtk (Legacy).md
-│       │   ├── Install multiple DE.md
-│       │   ├── Linux Virtual memory (Options).md
-│       │   ├── NVIDIA
-│       │   │   ├── Nvidia - Discrete GPU (Laptop).md
-│       │   │   ├── Nvidia - ERROR nvidia-drm Failed to grab modeset ownership.md
-│       │   │   ├── Nvidia - Fan Control.md
-│       │   │   └── Nvidia - ForceCompositionPipeline.md
-│       │   ├── SysRq key.md
-│       │   └── tracker_miner_fs.md
-│       ├── Network
-│       │   ├── DNS Servers.md
-│       │   └── IP & MAC Addresses (Personal).md
-│       ├── Servers
-│       │   ├── Composer.md
-│       │   ├── Local Server (localhost).md
-│       │   ├── MySQL.md
-│       │   ├── NodeJS.md
-│       │   ├── NPM Packages (Primary).md
-│       │   ├── PHP.md
-│       │   └── SSH (Main).md
-│       ├── Terminal
-│       │   ├── Apps.md
-│       │   ├── Files.md
-│       │   ├── Hardware.md
-│       │   ├── HDD, SSD, NVMe.md
-│       │   ├── Monitoring.md
-│       │   ├── Network.md
-│       │   ├── Packages.md
-│       │   └── Web.md
-│       ├── VM
-│       │   ├── Gnome Boxes.md
-│       │   ├── VirtualBox.md
-│       │   └── Virtual Machine Manager.md
-│       └── Web
-│           └── E-mail.md
+│   ├── Linux Notes
+│   │   ├── Apps Settings (Additional).md
+│   │   ├── Color Codes.md
+│   │   ├── CPU Vulnerability.md
+│   │   ├── Dev
+│   │   │   ├── Bash (Shell).md
+│   │   │   ├── Git.md
+│   │   │   └── Services, Data, API, Keys.md
+│   │   ├── Misc
+│   │   │   ├── AudioCard & Microphone Improvements.md
+│   │   │   ├── Environments.md
+│   │   │   ├── GRUB.md
+│   │   │   ├── gtk (Legacy).md
+│   │   │   ├── Install multiple DE.md
+│   │   │   ├── Linux Virtual memory (Options).md
+│   │   │   ├── NVIDIA
+│   │   │   │   ├── Nvidia - Discrete GPU (Laptop).md
+│   │   │   │   ├── Nvidia - ERROR nvidia-drm Failed to grab modeset ownership.md
+│   │   │   │   ├── Nvidia - Fan Control.md
+│   │   │   │   └── Nvidia - ForceCompositionPipeline.md
+│   │   │   ├── SysRq key.md
+│   │   │   └── tracker_miner_fs.md
+│   │   ├── Network
+│   │   │   ├── DNS Servers.md
+│   │   │   └── IP & MAC Addresses (Personal).md
+│   │   ├── Servers
+│   │   │   ├── Composer.md
+│   │   │   ├── Local Server (localhost).md
+│   │   │   ├── MySQL.md
+│   │   │   ├── NodeJS.md
+│   │   │   ├── NPM Packages (Primary).md
+│   │   │   ├── PHP.md
+│   │   │   └── SSH (Main).md
+│   │   ├── Terminal
+│   │   │   ├── Apps.md
+│   │   │   ├── Files.md
+│   │   │   ├── Hardware.md
+│   │   │   ├── HDD, SSD, NVMe.md
+│   │   │   ├── Monitoring.md
+│   │   │   ├── Network.md
+│   │   │   ├── Packages.md
+│   │   │   └── Web.md
+│   │   ├── VM
+│   │   │   ├── Gnome Boxes.md
+│   │   │   ├── VirtualBox.md
+│   │   │   └── Virtual Machine Manager.md
+│   │   └── Web
+│   │       └── E-mail.md
+│   └── Misc
+│       ├── DESKTOP
+│       │   ├── 02 _ Manjaro_GNOME (Desktop)
+│       │   │   ├── Manjaro - Aliases (Desktop).md
+│       │   │   ├── Manjaro - Global Settings.md
+│       │   │   └── Manjaro - Packages (Pacman).md
+│       │   └── 03 _ Ubuntu_GNOME (Desktop)
+│       │       ├── Ubuntu - Aliases (Desktop).md
+│       │       ├── Ubuntu - Global Settings.md
+│       │       └── Ubuntu - Packages (APT).md
+│       └── LAPTOP
+│           ├── 02 _ Manjaro_GNOME (Laptop)
+│           │   ├── Manjaro - Aliases (Desktop).md
+│           │   ├── Manjaro - Global Settings.md
+│           │   ├── Manjaro - Packages (Pacman).md
+│           │   └── Misc
+│           │       └── Nvidia GPU (Optimus Manager - Switching GPUs).md
+│           └── 03 _ Fedora_KDE (Laptop)
+│               ├── Fedora - Aliases (Laptop).md
+│               ├── Fedora - Global Settings.md
+│               └── Fedora - Packages (DNF).md
 ├── PERSONAL
 │   ├── Medicine.md
-│   ├── Notes (Personal).md
+│   ├── Notes.md
 │   ├── Services
 │   │   ├── ByFly DNS.md
 │   │   ├── Garant.md
@@ -202,5 +204,5 @@ ___
 └── WINDOWS
     └── Windows 11.md
 
-59 directories, 136 files
+59 directories, 138 files
 ```
