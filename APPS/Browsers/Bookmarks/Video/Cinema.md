@@ -23,6 +23,7 @@ https://kinogo.biz/122605-tochka-zamerzanija.html
 https://kinogo.biz/121204-istlevshee.html
 Франкенштейн 2025
 https://kinogo.biz/118645-chernyj-telefon-2.html
+https://kinogo.biz/119360-bitva-za-bitvoj.html
 
 ### *Premiere*
 https://kinogo.biz/118628-krjuk.html
