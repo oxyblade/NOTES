@@ -50,6 +50,6 @@ https://kinogo.biz/actors/19379-vel-kilmer.html
 ___
 ### *SERIES*
 
-https://kinogo.biz/115673-lihie.html (2 Сезон) 4 - 50
+https://kinogo.biz/115673-lihie.html (2 Сезон) 5 - 23
 https://kinogo.biz/82194-204534-slovo-pacana-serial-1-sezon-rus.html (2 сезон)
 https://kinogo.biz/10023-ivanovy-ivanovy-serial-i4.html (9 Сезон)
