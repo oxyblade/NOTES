@@ -1,5 +1,5 @@
 ### *Favorites*
-https://www.youtube.com/@OlegZhdanov/videos > (11.2025) 15
+https://www.youtube.com/@OlegZhdanov/videos > (11.2025) 18
 https://www.youtube.com/@MackNack/videos
 https://www.youtube.com/@sheitelman/videos
 https://www.youtube.com/@VolodymyrZolkin/videos
