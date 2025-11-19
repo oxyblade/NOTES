@@ -1,4 +1,4 @@
-https://www.youtube.com/@rodionfslive8550/videos Классификация линуксоидов
+https://www.youtube.com/@rodionfslive8550/videos Обновил Linux Mint до 22.2 Zara > 
 https://vkvideo.ru/@vumtutvideo/all
 https://rutube.ru/channel/4687937/videos
 https://www.youtube.com/@обычныйпользователь/videos
