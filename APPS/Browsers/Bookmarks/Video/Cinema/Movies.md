@@ -1,5 +1,6 @@
 https://kinogo.biz
 
+___
 ### *CURRENT*
 
 2015 — «Ведьма»
@@ -25,6 +26,7 @@ https://kinogo.biz/121204-istlevshee.html
 https://kinogo.biz/118645-chernyj-telefon-2.html
 https://kinogo.biz/119360-bitva-za-bitvoj.html
 
+___
 ### *Premiere*
 https://kinogo.biz/118628-krjuk.html
 https://kinogo.ec/121341-rapsodija-mertvyh.html
@@ -34,6 +36,7 @@ https://kinogo.ec/121733-alter.html
 https://kinogo.biz/119785-avgust.html
 https://kinogo.biz/120692-na-trope-vojny.html
 
+___
 ### *Actors*
 https://kinogo.biz/directors/106831-nikita-mihalkov.html
 https://kinogo.biz/actors/4426-aleksandr-baluev.html
@@ -46,10 +49,3 @@ https://kinogo.biz/actors/910-nestor-karbonell.html
 https://kinogo.biz/actors/287-devid-sushe.html
 https://kinogo.biz/actors/29566-ben-foster.html
 https://kinogo.biz/actors/19379-vel-kilmer.html
-
-___
-### *SERIES*
-
-https://kinogo.biz/115673-lihie.html (2 Сезон) 6 - 34
-https://kinogo.biz/82194-204534-slovo-pacana-serial-1-sezon-rus.html (2 сезон)
-https://kinogo.biz/10023-ivanovy-ivanovy-serial-i4.html (9 Сезон)
