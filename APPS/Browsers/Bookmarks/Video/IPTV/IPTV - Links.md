@@ -1,4 +1,11 @@
 https://github.com/iptv-org/iptv
-https://github.com/Free-TV/IPTV
-https://github.com/ipstreet312/freeiptv
+https://iptv-org.github.io/iptv/index.m3u
+https://iptv-org.github.io/iptv/languages/rus.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
+https://github.com/IPTVSHARED/VeronaTV/blob/main/VeronaTV.m3u
+https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
+https://polzafre.short.gy/tv
+https://smolnp.github.io/IPTVru/IPTVru.m3u
+https://pastebin.com/raw/Lm41DLMs
 https://iptvcat.com/home_21
