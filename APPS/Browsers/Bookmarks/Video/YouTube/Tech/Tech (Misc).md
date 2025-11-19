@@ -25,3 +25,4 @@ https://www.youtube.com/@SvyatikBak/videos
 https://www.youtube.com/@kompfishki/videos
 https://www.youtube.com/@senior_of_cs/videos
 https://www.youtube.com/@TechTalk_NotDead/videos
+https://www.youtube.com/@satellitantenna/videos Satellite Antenna
