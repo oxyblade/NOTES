@@ -1,7 +1,7 @@
 https://www.youtube.com/@BachiloDmitry/videos Дмитрий Бачило
 https://www.youtube.com/@AlphaShutnik/videos Ремонтяш
 https://www.youtube.com/@Ремонтяшлайв/videos Ремонтяш лайв
-https://www.youtube.com/c/MaddyMURK/videos
+https://www.youtube.com/MaddyMURK/videos
 https://www.youtube.com/@murkpower/videos
 https://www.youtube.com/@monobogdan/videos
 https://www.youtube.com/@DaniilGerasimov/videos
@@ -17,16 +17,16 @@ https://www.youtube.com/@SergeVilianov/videos
 
 https://www.youtube.com/@OLDROBOT/videos
 https://www.youtube.com/@tsifraby/videos
-https://www.youtube.com/c/BRIGman/videos
-https://www.youtube.com/c/TehnoBelka/videos
-https://www.youtube.com/c/eraminel/videos
-https://www.youtube.com/c/WelsonPlay/videos
-https://www.youtube.com/c/ARSIKtech/videos
-https://www.youtube.com/c/PulsePC/videos
+https://www.youtube.com/BRIGman/videos
+https://www.youtube.com/TehnoBelka/videos
+https://www.youtube.com/eraminel/videos
+https://www.youtube.com/WelsonPlay/videos
+https://www.youtube.com/ARSIKtech/videos
+https://www.youtube.com/PulsePC/videos
 https://www.youtube.com/@dimbro3100/videos
-https://www.youtube.com/c/prohitec/videos
-https://www.youtube.com/c/homepcremont/videos
-https://www.youtube.com/c/Device24/videos
+https://www.youtube.com/prohitec/videos
+https://www.youtube.com/homepcremont/videos
+https://www.youtube.com/Device24/videos
 https://www.youtube.com/@PCExpert186/videos
 https://www.youtube.com/@Nitroxsenys/videos
 https://www.youtube.com/@Dakar/videos
