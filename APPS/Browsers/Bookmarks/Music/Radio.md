@@ -1,0 +1,13 @@
+https://ah.fm/radiochannel/live/
+https://etn.fm/
+https://sectorradio.ru/
+https://open.spotify.com/
+https://www.di.fm/channels/popular
+https://www.radiorecord.ru/
+https://www.radio.net/genre
+https://www.internet-radio.com
+https://goldfm.lt//live/
+https://bbcworldservicenews.radio.net/
+https://www.svoboda.org/live/audio/81
+https://govoritmoskva.ru/broadcasts/live/
+https://www.tvr.by/radio/
