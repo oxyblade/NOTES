@@ -3,10 +3,7 @@ https://kinogo.biz
 ___
 ### *CURRENT*
 
-https://kinogo.biz/19109-vedma.html 
-2018 — «Аннигиляция»
-2019 — «Маяк»
-2021 — «Титан»
+https://kinogo.biz/52629-titan-t1.html 
 2022 — «Преступления будущего»
 2023 — «Бесконечный бассейн»
 
