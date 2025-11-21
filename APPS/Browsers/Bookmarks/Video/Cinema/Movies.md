@@ -3,7 +3,7 @@ https://kinogo.biz
 ___
 ### *CURRENT*
 
-2015 — «Ведьма»
+https://kinogo.biz/19109-vedma.html 
 2018 — «Аннигиляция»
 2019 — «Маяк»
 2021 — «Титан»
@@ -25,6 +25,7 @@ https://kinogo.biz/121204-istlevshee.html
 Франкенштейн 2025
 https://kinogo.biz/118645-chernyj-telefon-2.html
 https://kinogo.biz/119360-bitva-za-bitvoj.html
+https://kinogo.biz/119718-illjuzija-obmana-3.html
 
 ___
 ### *Premiere*
@@ -35,6 +36,7 @@ https://kinogo.biz/121606-ozero-kostej.html
 https://kinogo.ec/121733-alter.html
 https://kinogo.biz/119785-avgust.html
 https://kinogo.biz/120692-na-trope-vojny.html
+https://kinogo.biz/120046-dostat-nozhi-prosnis-mertvec.html
 
 ___
 ### *Actors*
