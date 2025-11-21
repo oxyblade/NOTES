@@ -1,6 +1,6 @@
-https://www.youtube.com/@kosoe_puzo/streams
-https://www.youtube.com/@xandercage5966/streams
-https://www.youtube.com/@Mayskiy/videos
+https://www.youtube.com/@kosoe_puzo/streams Мишевый Плюшка
+https://www.youtube.com/@xandercage5966/streams Xander Cage Tarot
+https://www.youtube.com/@Mayskiy/videos яМайский
 https://www.youtube.com/@СтаниславАндреевич-ы7ъ/videos
 https://www.youtube.com/@Каратель/videos
 https://www.youtube.com/@tolyansarchive/videos
