@@ -2,11 +2,6 @@ https://kinogo.biz
 
 ___
 ### *CURRENT*
-
-https://kinogo.biz/52629-titan-t1.html 
-2022 — «Преступления будущего»
-2023 — «Бесконечный бассейн»
-
 https://kinogo.biz/120280-dispetcher.html
 https://kinogo.biz/121469-zakljatie-4-poslednij-obrjad.html
 https://kinogo.biz/13527-priglashenie.html
