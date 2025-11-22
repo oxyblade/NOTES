@@ -304,6 +304,15 @@ https://extensions.libreoffice.org/en/extensions/show/languagetool LanguageTool 
 https://languagetool.org/download/
 https://www.spice-space.org/ SPICE protocol
 
+### *Test & Debug*
+https://www.geekbench.com/ Geekbench
+https://www.basemark.com/benchmarks/basemark-gpu/ Basemark GPU
+https://benchmark.unigine.com/superposition Superposition benchmark
+https://benchmark.unigine.com/heaven Heaven benchmark
+https://benchmark.unigine.com/valley Valley benchmark
+https://www.charlesproxy.com/ Charles Proxy
+https://proxyman.io/ Proxyman
+
 ### *Misc*
 https://mesamatrix.net/ Mesa Matrix
 https://linux-hardware.org/?view=trends Hardware Trends
