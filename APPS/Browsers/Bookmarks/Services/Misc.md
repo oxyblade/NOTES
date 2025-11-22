@@ -29,7 +29,7 @@ http://www.byfly.by/ ByFly
 https://garant.by/ 
 http://byfly.by/news/16-12-2019-vnimaniyu-abonentov-dostupa-v-set-internet
 http://byfly.by/newsletter/novosti-byfly
-https://www.beltelecom.by/private/telephony/ustanovka-i-polzovanie-telefonomАбонентская плата в месяц: 3,88 (пункт 2.1.1)
+https://www.beltelecom.by/private/telephony/ustanovka-i-polzovanie-telefonomАбонентская плата в месяц: 5,1 (пункт 2.1.1)
 http://yasna.by/ ОАО ГОТТЦ Гарант
 
 https://обращения.бел/login Система обращений
