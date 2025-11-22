@@ -218,6 +218,7 @@ ___
 /mnt/USB_HDD_3
 
 /run/media/andrew
+~/Documents
 ~/Downloads
 ~/Pictures
 
