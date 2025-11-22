@@ -2,8 +2,6 @@ https://kinogo.biz
 
 ___
 ### *CURRENT*
-https://kinogo.biz/120280-dispetcher.html 46
-https://kinogo.biz/121469-zakljatie-4-poslednij-obrjad.html
 https://kinogo.biz/13527-priglashenie.html
 https://kinogo.biz/86196-priglashenie.html
 https://kinogo.biz/97708-priglashenie.html
