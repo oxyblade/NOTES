@@ -280,6 +280,30 @@ https://github.com/bkw777/mainline
 https://code.launchpad.net/~cappelikan/+archive/ubuntu/ppa
 https://github.com/s0md3v/XSStrike
 
+
+### *AppImage, Binaries, DEB*
+https://github.com/dundee/gdu/releases/
+https://www.hifile.app/
+https://icq.com/desktop/ru#linux
+https://nodejs.org/en/download/
+https://www.onlyoffice.com/desktop.aspx
+https://www.sublimetext.com/download
+https://www.viber.com/en/download/
+https://code.visualstudio.com/#alt-downloads
+https://www.apachefriends.org/index.html
+https://www.mediahuman.com/download3.html
+
+### *Drivers, Plugins, Extensions*
+https://developers.hp.com/hp-linux-imaging-and-printing/gethplip HP Developers Portal | Version: 3.23.12
+https://developers.hp.com/hp-linux-imaging-and-printing/plugins HP Developers Portal | Plugins
+https://www.openprinting.org/download/printdriver/auxfiles/HP/plugins/ Index of /download/printdriver/auxfiles/HP/plugins
+https://openprinting.org/printer/HP/HP-LaserJet Printer: HP LaserJet | OpenPrinting - The Linux Foundation
+https://openprinting.org/download/printdriver/auxfiles/HP/plugins/ HP plugins
+https://wiki.documentfoundation.org/Language/Support Language/Support - The Document Foundation Wiki
+https://extensions.libreoffice.org/en/extensions/show/languagetool LanguageTool » Extensions
+https://languagetool.org/download/
+https://www.spice-space.org/ SPICE protocol
+
 ### *Misc*
 https://mesamatrix.net/ Mesa Matrix
 https://linux-hardware.org/?view=trends Hardware Trends
@@ -303,3 +327,4 @@ https://www.viva64.com/en/pvs-studio-download/
 https://www.quest.com/
 https://stockfishchess.org/
 https://ftp.mozilla.org/pub/firefox/releases/ Firefox Archive (FTP)
+
