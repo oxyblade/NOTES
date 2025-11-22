@@ -34,7 +34,7 @@ http://yasna.by/ ОАО ГОТТЦ Гарант
 
 https://обращения.бел/login Система обращений
 https://tabletka.by/ Ttabletka.by
-https://apte4ka.by/ Аптечка
+https://apte4ka.by/ Аптечка (Заказать лекарства в аптеке)
 https://talon.by/login Талон.бай
 https://apteka.103.by/ Поиск лекарств
 https://zippybus.com/grodno/
