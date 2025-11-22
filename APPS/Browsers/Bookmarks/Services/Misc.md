@@ -74,3 +74,118 @@ https://www.usegalileo.ai/
 https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest
 https://beta.dreamstudio.ai/dream
 https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=8HJN2TE3vh-J
+
+*Torrents*
+https://rutracker.org/forum/index.php RuTracker.org
+https://nnmclub.to/ NNM-Club
+https://rutor.info/ RuTor
+http://rutracker.ru/
+https://uniondht.org/
+https://gtorrent.club/
+https://rarbg.tw/
+https://rargb.to/
+
+*Upload Files*
+https://www.zippyshare.day/ ZippyShare
+https://krakenfiles.com/
+https://www.file.io/
+https://send.cm/
+https://dropmefiles.com/
+https://my-files.su/
+https://wetransfer.com/
+https://fex.net/
+https://files.fm/
+https://gofile.io/uploadFiles
+https://anonfiles.com/
+https://dailyuploads.net/
+https://www.sendspace.com/
+https://nelion.me/
+http://uploadboy.com/
+http://fayloobmennik.cloud/
+https://pixeldrain.com/
+https://ss.ubunix.pro/
+
+*Upload Images*
+https://prnt.sc/ PRNT.SC
+https://snipboard.io/
+https://imgbb.com/
+https://pasteboard.co/
+https://postimages.org/
+http://imgsharing.ru/
+
+*Upload Video*
+https://streamvi.com/ Streamvi
+
+*Audio*
+https://soundcloud.com/
+https://audiomass.co/
+https://audiotrimmer.com/
+
+*Video*
+https://www.unscreen.com/ Remove Video Background – Unscreen
+https://coverr.co/
+https://mixkit.co/free-stock-video/
+
+*Audio & Video Downloaders*
+https://mixclouddownloader.net/
+https://en2.onlinevideoconverter.pro/182Pm/
+https://y2mate.com/
+https://en.savefrom.net/
+https://keepv.id/
+https://www.savethevideo.com/
+
+*Mail*
+https://mail.protonmail.com/login
+https://mailfence.com/
+https://tutanota.com/
+https://posteo.de/en
+https://mailbox.org/en/
+https://10minutemail.net/
+https://10minutemail.com/
+https://temp-mail.org/en/ Temp Mail
+https://mail.tm/en/
+https://tempmaili.com/
+https://tempmailedu.com/en
+https://dismailbox.com/10minutemail/
+
+*Accounts & Support*
+https://analytics.google.com/ Google Analytics
+https://metrica.yandex.com/dashboard?group=dekaminute&period=today&id=70953814 Yandex.Metrica
+https://tagmanager.google.com/#/home Google Tag Manager
+https://www.google.com/webmasters/tools/home?hl=ru Google WebMaster
+https://search.google.com/search-console/welcome
+https://console.developers.google.com/
+https://myaccount.google.com/lesssecureapps
+https://support.google.com/recaptcha/
+https://www.google.com/recaptcha/about/
+https://www.google.com/webmasters/tools/robots-testing-tool
+https://yandex.com/map-constructor/ Yandex Map Constructor
+https://webmaster.yandex.ru/ Yandex WebMaster
+https://webmaster.yandex.ru/tools/robotstxt/ Yandex Robots Testing Tool
+https://dash.cloudflare.com/login
+https://formdesigner.ru/
+
+https://myaccount.google.com/
+https://www.google.com/adsense/new/u/0/pub-8227734908480337/onboarding
+https://support.google.com/
+https://myaccount.google.com/find-your-phone
+https://login.live.com/login.srf
+https://alimebot.aliexpress.com/intl/index.htm?from=IZb2pvy39I
+https://profile.gigabyte.com/EditProfile.aspx
+https://esupport.gigabyte.com/Login/Index?ReturnUrl=%2f
+https://esupport.gigabyte.com/#list
+
+*Misc*
+https://file-examples.com/
+https://ascii.today/
+https://demo.bpmn.io/new
+https://tools.web-max.ca/encode_decode.php
+https://expired.ru/
+https://explainshell.com/
+https://www.toptal.com/developers/gitignore/
+https://www.gpsvisualizer.com/
+https://mydrop.io/
+https://psdtoweb.de/index.php
+https://www.worldtimebuddy.com/
+https://bridges.torproject.org/
+https://monkeytype.com/
