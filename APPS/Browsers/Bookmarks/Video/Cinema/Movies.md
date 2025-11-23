@@ -16,6 +16,7 @@ https://kinogo.biz/121204-istlevshee.html
 https://kinogo.biz/118645-chernyj-telefon-2.html
 https://kinogo.biz/119360-bitva-za-bitvoj.html
 https://kinogo.biz/119718-illjuzija-obmana-3.html
+https://kinogo.biz/121038-beguschij-chelovek.html
 
 ___
 ### *Premiere*
