@@ -1,4 +1,4 @@
-https://www.youtube.com/@rodionfslive8550/videos # Prepper Disk 512 GB Survival content 4
+https://www.youtube.com/@rodionfslive8550/videos # Linux Mint Debian Edition
 https://vkvideo.ru/@vumtutvideo/all
 https://rutube.ru/channel/4687937/videos
 https://www.youtube.com/@обычныйпользователь/videos
