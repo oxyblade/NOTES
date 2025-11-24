@@ -2,9 +2,6 @@ https://kinogo.biz
 
 ___
 ### *CURRENT*
-https://kinogo.biz/86196-priglashenie.html
-https://kinogo.biz/97708-priglashenie.html
-https://kinogo.biz/101475-priglashenie.html
 https://kinogo.biz/117817-priglashenie.html
 https://kinogo.biz/122756-grjaznaja-igra.html
 https://kinogo.biz/118657-ritual.html
