@@ -1,7 +1,5 @@
 https://www.youtube.com/@rodionfslive8550/videos
-https://vkvideo.ru/@vumtutvideo/all
-https://rutube.ru/channel/4687937/videos
-https://www.youtube.com/@обычныйпользователь/videos
+https://www.youtube.com/@обычныйпользователь/videos # Cosmic desktop beta 17
 https://www.youtube.com/@GamerStationOnLinux/streams
 https://vkvideo.ru/@public175815157/all
 https://www.youtube.com/@zproger/videos
