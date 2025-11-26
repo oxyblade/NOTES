@@ -30,6 +30,9 @@ PolzaFre (TG)
 https://PolzaFre.short.gy/tv
 https://raw.githubusercontent.com/polzafre/PolzaIPTV/refs/heads/main/Polza-IPTV.m3u
 
+SuzuS Free TV (Full)
+https://raw.githubusercontent.com/suzukantv/IPTV/refs/heads/main/SuzuSCloudFreeGedemTvNET.m3u
+
 ___
 
 IPTVru
