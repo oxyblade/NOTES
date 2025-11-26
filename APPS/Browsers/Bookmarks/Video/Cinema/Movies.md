@@ -7,7 +7,7 @@ https://kinogo.biz/118657-ritual.html
 https://kinogo.biz/120624-poterjannyj-avtobus.html
 https://kinogo.biz/122605-tochka-zamerzanija.html
 https://kinogo.biz/121204-istlevshee.html
-Франкенштейн 2025
+https://kinogo.biz/121087-frankenshtejn.html
 https://kinogo.biz/118645-chernyj-telefon-2.html
 https://kinogo.biz/119360-bitva-za-bitvoj.html
 https://kinogo.biz/119718-illjuzija-obmana-3.html
