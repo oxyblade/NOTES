@@ -1,5 +1,5 @@
 https://www.youtube.com/@rodionfslive8550/videos
-https://www.youtube.com/@обычныйпользователь/videos # Пара слов о Proxmox VE 10
+https://www.youtube.com/@обычныйпользователь/videos # Опыт использования Ubuntu #1
 https://www.youtube.com/@GamerStationOnLinux/streams
 https://vkvideo.ru/@public175815157/all
 https://www.youtube.com/@zproger/videos
