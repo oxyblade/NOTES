@@ -2,7 +2,7 @@ https://kinogo.biz
 
 ___
 ### *CURRENT*
-https://kinogo.biz/122756-grjaznaja-igra.html 21
+https://kinogo.biz/122756-grjaznaja-igra.html 52
 https://kinogo.biz/118657-ritual.html
 https://kinogo.biz/120624-poterjannyj-avtobus.html
 https://kinogo.biz/122605-tochka-zamerzanija.html
