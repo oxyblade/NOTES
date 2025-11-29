@@ -22,6 +22,7 @@ https://kinogo.ec/121733-alter.html
 https://kinogo.biz/119785-avgust.html
 https://kinogo.biz/120692-na-trope-vojny.html
 https://kinogo.biz/120046-dostat-nozhi-prosnis-mertvec.html
+https://kinogo.biz/119912-holod.html
 
 ___
 ### *Actors*
