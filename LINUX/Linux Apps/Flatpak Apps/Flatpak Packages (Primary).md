@@ -182,6 +182,7 @@ flatpak install flathub io.github.lo2dev.Echo -y
 flatpak install flathub xyz.ketok.Speedtest -y
 flatpak install flathub uk.org.greenend.chiark.sgtatham.putty -y
 flatpak install flathub io.github.vmkspv.netsleuth -y
+flatpak install flathub io.github.BuddySirJava.SSH-Studio -y
 ```
 
 ___
