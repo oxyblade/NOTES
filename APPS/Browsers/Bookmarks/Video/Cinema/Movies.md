@@ -2,7 +2,6 @@ https://kinogo.biz
 
 ___
 ### *CURRENT*
-https://kinogo.biz/118657-ritual.html 36
 https://kinogo.biz/120624-poterjannyj-avtobus.html
 https://kinogo.biz/122605-tochka-zamerzanija.html
 https://kinogo.biz/121204-istlevshee.html
