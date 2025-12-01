@@ -2,7 +2,7 @@ https://kinogo.biz
 
 ___
 ### *CURRENT*
-https://kinogo.biz/120624-poterjannyj-avtobus.html 21:50
+https://kinogo.biz/120624-poterjannyj-avtobus.html 43
 https://kinogo.biz/122605-tochka-zamerzanija.html
 https://kinogo.biz/121204-istlevshee.html
 https://kinogo.biz/121087-frankenshtejn.html
