@@ -1,4 +1,9 @@
-https://kinogo.biz
+[Ужасы](https://kinogo.biz/uzhasy/)
+[Боевики](https://kinogo.biz/boevik/)
+[Триллеры](https://kinogo.biz/triller/)
+[Приключения](https://kinogo.biz/prikluchenia/)
+[Криминал](https://kinogo.biz/kriminal/)
+[Детективы](https://kinogo.biz/detektiv/)
 
 ___
 ### *CURRENT*
