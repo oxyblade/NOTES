@@ -1,6 +1,7 @@
 ### IPTV Providers
 
-melord.net , ilook.tv , i-look.tv , rulook.tv , tvlider.net , vipdrive.net , jinopro.net , iseetv.net , ottlook.tv , zedom.net
+Melord.net, Tvlider.net, I-look.tv, Vipdrive.net, Jinopro.net, Iseetv.net, Ottlook.tv, Rulook.tv, Zedom.net, Ilook.tv (blocked)
+Iedem.tv, iedem.tv, I-edem.tv
 
 antifriz.tv , cbilling.eu , sh365.org (SharavozTV) , viplime.fun
 
