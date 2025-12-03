@@ -1,13 +1,15 @@
 ### IPTV Providers
 
+#### *ILookTV (Paid)*
 Melord.net, Tvlider.net, I-look.tv, Vipdrive.net, Jinopro.net, Iseetv.net, Ottlook.tv, Rulook.tv, Zedom.net, Ilook.tv (blocked)
 Iedem.tv, iedem.tv, I-edem.tv
 
+#### *Misc*
 antifriz.tv , cbilling.eu , sh365.org (SharavozTV) , viplime.fun
 
 ___
 
-### IPTV - Playlists
+### IPTV - Playlists (Free)
 
 IPTV - GitHub (iptv-org, Full)
 https://iptv-org.github.io/iptv/index.m3u
