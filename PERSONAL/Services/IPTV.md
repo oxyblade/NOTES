@@ -5,7 +5,7 @@ Melord.net, Tvlider.net, I-look.tv, Vipdrive.net, Jinopro.net, Iseetv.net, Ottlo
 Iedem.tv, iedem.tv, I-edem.tv
 
 #### *Misc*
-antifriz.tv , cbilling.eu , sh365.org (SharavozTV) , viplime.fun
+antifriz.tv, cbilling.eu, sh365.org (SharavozTV), viplime.fun
 
 ___
 ### IPTV - Playlists (Free)
