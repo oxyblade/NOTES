@@ -7,7 +7,6 @@
 
 ___
 ### *CURRENT*
-https://kinogo.biz/122605-tochka-zamerzanija.html 26
 https://kinogo.biz/121204-istlevshee.html
 https://kinogo.biz/121087-frankenshtejn.html
 https://kinogo.biz/118645-chernyj-telefon-2.html
