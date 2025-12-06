@@ -7,7 +7,6 @@
 
 ___
 ### *CURRENT*
-https://kinogo.biz/121204-istlevshee.html 44
 https://kinogo.biz/121087-frankenshtejn.html
 https://kinogo.biz/118645-chernyj-telefon-2.html
 https://kinogo.biz/119360-bitva-za-bitvoj.html

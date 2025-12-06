@@ -11,7 +11,7 @@ https://www.youtube.com/@slavakomissarenko/videos > Спасибо, у меня 
 
 ___
 
-https://www.youtube.com/@vyzhivalovo/videos ВЫЖИВАЛОВО > [Вещества для выживания в дикой](https://www.youtube.com/watch?v=s_QUaKVFn6A "Вещества для выживания в дикой природе, и их практическое применение")
+https://www.youtube.com/@vyzhivalovo/videos ВЫЖИВАЛОВО > 
 https://www.youtube.com/@Zabroshenaya_Pribaltika/videos Заброшенная Прибалтика
 https://www.youtube.com/@pokinutijmir/videos Покинутый Мир
 https://www.youtube.com/@zlobyasha/videos Злобяша
