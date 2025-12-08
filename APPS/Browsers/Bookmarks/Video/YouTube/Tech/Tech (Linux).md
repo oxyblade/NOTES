@@ -2,13 +2,13 @@ https://www.youtube.com/@rodionfslive8550/videos
 https://www.youtube.com/@обычныйпользователь/videos
 https://www.youtube.com/@GamerStationOnLinux/streams
 https://vkvideo.ru/@public175815157/all
-https://www.youtube.com/@zproger/videos # ТОП 10 ЛУЧШИХ способов мониторинга Linux
+https://www.youtube.com/@zproger/videos
 https://www.youtube.com/@klichalex_Linux-eto_prosto/videos
-https://rutube.ru/channel/23628980/videos/
+https://rutube.ru/channel/23628980/videos
 https://www.youtube.com/@plafonlinux/videos
 https://www.youtube.com/@kodprog/videos
-https://rutube.ru/u/kodprog/videos/
-https://www.youtube.com/@dikamenLi/videos
+https://rutube.ru/u/kodprog/videos
+https://www.youtube.com/@dikamenLi/videos <<<
 
 https://www.youtube.com/@linuxshef/videos
 https://www.youtube.com/@funnysystemadministrationb3645/videos
