@@ -8,7 +8,7 @@ https://rutube.ru/channel/23628980/videos
 https://www.youtube.com/@plafonlinux/videos
 https://www.youtube.com/@kodprog/videos
 https://rutube.ru/u/kodprog/videos
-https://www.youtube.com/@dikamenLi/videos <<<
+https://www.youtube.com/@dikamenLi/videos # Zorin OS 18 Обзор 4
 
 https://www.youtube.com/@linuxshef/videos
 https://www.youtube.com/@funnysystemadministrationb3645/videos
