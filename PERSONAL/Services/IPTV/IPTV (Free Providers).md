@@ -27,8 +27,8 @@ https://raw.githubusercontent.com/polzafre/PolzaIPTV/refs/heads/main/Polza-IPTV.
 
 ___
 
-IPTVru
+IPTV - IPTVru
 https://smolnp.github.io/IPTVru/IPTVru.m3u
 
-Ngenix.net (WINK)
+IPTV - Ngenix.net (WINK)
 https://pastebin.com/raw/Lm41DLMs
