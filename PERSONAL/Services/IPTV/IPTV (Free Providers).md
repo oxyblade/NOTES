@@ -3,6 +3,9 @@
 IPTV - GitHub (iptv-org, Full)
 https://iptv-org.github.io/iptv/index.m3u
 
+SuzuS Free TV (Full)
+https://raw.githubusercontent.com/suzukantv/IPTV/refs/heads/main/SuzuSCloudFreeGedemTvNET.m3u
+
 IPTV - GitHub (iptv-org, Ru)
 https://iptv-org.github.io/iptv/languages/rus.m3u
 
@@ -21,9 +24,6 @@ https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXA
 PolzaFre (TG)
 https://PolzaFre.short.gy/tv
 https://raw.githubusercontent.com/polzafre/PolzaIPTV/refs/heads/main/Polza-IPTV.m3u
-
-SuzuS Free TV (Full)
-https://raw.githubusercontent.com/suzukantv/IPTV/refs/heads/main/SuzuSCloudFreeGedemTvNET.m3u
 
 ___
 
