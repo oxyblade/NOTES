@@ -28,3 +28,5 @@ https://tvoetv.io ТВОЄ ТВ (UA)
 https://1ott.net , https://my.1ott.net/register.php?lang=ru 1ott
 https://ttvrun.one Торрент-ТВ
 https://1cent.tv 1cent
+
+https://zeos.online ZEOS.online (Кардшаринг сервер (Спутниковое телевидение))
