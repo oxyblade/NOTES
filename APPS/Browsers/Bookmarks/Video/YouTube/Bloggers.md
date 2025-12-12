@@ -25,7 +25,7 @@ https://www.youtube.com/@slavakomissarenko/videos > Спасибо, у меня 
 
 ___
 
-https://www.youtube.com/@vyzhivalovo/videos ВЫЖИВАЛОВО > # Обзор - сравнение и дегустация двух
+https://www.youtube.com/@vyzhivalovo/videos ВЫЖИВАЛОВО > # Обзор - сравнение и дегустация двух 20
 https://www.youtube.com/@Zabroshenaya_Pribaltika/videos Заброшенная Прибалтика
 https://www.youtube.com/@pokinutijmir/videos Покинутый Мир
 https://www.youtube.com/@zlobyasha/videos Злобяша
