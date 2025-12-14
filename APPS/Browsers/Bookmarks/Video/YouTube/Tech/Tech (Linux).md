@@ -12,7 +12,7 @@ https://www.youtube.com/@dikamenLi/videos
 
 https://www.youtube.com/@linuxshef/videos
 https://www.youtube.com/@funnysystemadministrationb3645/videos
-https://www.youtube.com/@Aleksey_Konovalov/videos # HDD/SSD с Авито. Стоит ли? 24
+https://www.youtube.com/@Aleksey_Konovalov/videos # Apple выпустила обновление безопасности для macOS Sonoma 14.8.3
 https://www.youtube.com/@andreymlv/videos
 https://www.youtube.com/@starslinux/videos
 https://www.youtube.com/@линуксначайнике/videos
