@@ -105,6 +105,14 @@ https://t.me/ja_netfilter_channel (Telegram channel for ja-netfilter, crack for 
 Please plug in BATTERY and its remaining capacity should be more than 20%!!! System doesn t permit flashing BIOS. Please press any key after plug in BATTERY!''
 Type on keyboard -> risky
 
+***Разминка глаз, восстановление зрения: понадобится 2–3 минуты, три раза в день:***
+— Смотрим вверх–вниз 10–15 раз.
+— Потом вправо–влево 10–15 раз.
+— Проводим взглядом диагональ: из правого верхнего угла в левый нижний и обратно.
+— «Рисуем» глазами большой прямоугольник — по и против часовой стрелки.
+— Циферблат: водим взглядом по кругу в обе стороны.
+— Змейка: плавное движение волной слева направо и обратно.
+
 ***VK***
 [vk.com/oxy_blade](http://vk.com/oxy_blade)
 (oxy_blade)
