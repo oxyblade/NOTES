@@ -1,5 +1,5 @@
 https://www.youtube.com/@BachiloDmitry/videos Дмитрий Бачило
-https://www.youtube.com/@AlphaShutnik/videos Ремонтяш
+https://www.youtube.com/@AlphaShutnik/videos Ремонтяш > # ТАКИХ ИГРОВЫХ ПК больше не делают
 https://www.youtube.com/@Ремонтяшлайв/videos Ремонтяш лайв
 https://www.youtube.com/MaddyMURK/videos
 https://www.youtube.com/@murkpower/videos
