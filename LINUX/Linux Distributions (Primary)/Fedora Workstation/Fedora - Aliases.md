@@ -202,6 +202,28 @@ alias qq-git-oxyblade_github_io-push='cd /mnt/HDD_1/03_JetBrainsProjects/oxyblad
 alias qq-work-script-php-domains-ssl='php "/mnt/HDD_1/02_Docs/WORK/003 - Stuff/Scripts/script-php-domains-ssl/script-php-domains-ssl.php"'
 alias qq-work-script-php-domains-ping='php "/mnt/HDD_1/02_Docs/WORK/003 - Stuff/Scripts/script-php-domains-ping/script-php-domains-ping.php"'
 alias qq-work-script-php-domains-unavailable='php "/mnt/HDD_1/02_Docs/WORK/003 - Stuff/Scripts/script-php-domains-unavailable/script-php-domains-unavailable.php"'
+
+## Work — SSH Terminal
+alias qq-work-ssh-timeweb='sshpass -p V8fEAB#5qCMu42v ssh co50535@92.53.96.11'
+alias qq-work-ssh-178.250.157.27='sshpass -p 3jmYN4oyxZs3 ssh root@178.250.157.27'
+alias qq-work-ssh-37.46.134.220='sshpass -p gP9bL2gM4vhY ssh root@37.46.134.220'
+alias qq-work-ssh-37.46.134.228='sshpass -p 53Jmzn37Dc6a ssh root@37.46.134.228'
+alias qq-work-ssh-62.109.12.211='sshpass -p eeRu6xaileeceth ssh root@62.109.12.211'
+alias qq-work-ssh-62.109.17.18='sshpass -p pW7lU4kS2lqU ssh root@62.109.17.18'
+alias qq-work-ssh-62.109.23.48='sshpass -p 4dSQz2dGE05x ssh root@62.109.23.48'
+alias qq-work-ssh-62.109.26.181='sshpass -p wrmYWHRdKs8oR3WK ssh root@62.109.26.181'
+alias qq-work-ssh-62.109.27.82='sshpass -p H3215195zcsq ssh root@62.109.27.82'
+alias qq-work-ssh-62.109.7.184='sshpass -p YJ5Rn9SK5CE1 ssh root@62.109.7.184'
+alias qq-work-ssh-78.24.221.130='sshpass -p 50394fl0E6Z2 ssh root@78.24.221.130'
+alias qq-work-ssh-80.87.202.253='sshpass -p KCim9695uo08 ssh root@80.87.202.253'
+alias qq-work-ssh-82.146.41.130='sshpass -p TjBIhBWsHlCIOmrJ ssh root@82.146.41.130'
+alias qq-work-ssh-82.146.46.218='sshpass -p uQ0iH2aI1mxS ssh root@82.146.46.218'
+alias qq-work-ssh-82.146.47.221='sshpass -p cQ9hP2wF4efA ssh root@82.146.47.221'
+alias qq-work-ssh-82.146.48.212='sshpass -p QJrMm6IG6hA0 ssh root@82.146.48.212'
+alias qq-work-ssh-82.202.173.61='sshpass -p yTs3Xnpa9yEfSmHR ssh root@82.202.173.61'
+alias qq-work-ssh-83.220.170.48='sshpass -p kx9SW30mkd3t ssh root@83.220.170.48'
+alias qq-work-ssh-91.107.122.98='sshpass -p tY0aP0yJ6yvA ssh root@91.107.122.98'
+alias qq-work-ssh-94.250.250.206='sshpass -p pG2oH3hI3zgT ssh root@94.250.250.206'
 ```
 
 ___
@@ -429,6 +451,27 @@ alias qq-git-oxyblade_github_io-push='cd ~/STORAGE_ASUS/03_JetBrainsProjects/oxy
 alias qq-work-script-php-domains-ping='php "~/STORAGE_ASUS/02_Docs/WORK/003 - Stuff/Scripts/script-php-domains-ping/script-php-domains-ping.php"'
 alias qq-work-script-php-domains-ssl='php "~/STORAGE_ASUS/02_Docs/WORK/003 - Stuff/Scripts/script-php-domains-ssl/script-php-domains-ssl.php"'
 alias qq-work-script-php-domains-unavailable='php "~/STORAGE_ASUS/02_Docs/WORK/003 - Stuff/Scripts/script-php-domains-unavailable/script-php-domains-unavailable.php"'
+## Work — SSH Terminal
+alias qq-work-ssh-timeweb='sshpass -p V8fEAB#5qCMu42v ssh co50535@92.53.96.11'
+alias qq-work-ssh-178.250.157.27='sshpass -p 3jmYN4oyxZs3 ssh root@178.250.157.27'
+alias qq-work-ssh-37.46.134.220='sshpass -p gP9bL2gM4vhY ssh root@37.46.134.220'
+alias qq-work-ssh-37.46.134.228='sshpass -p 53Jmzn37Dc6a ssh root@37.46.134.228'
+alias qq-work-ssh-62.109.12.211='sshpass -p eeRu6xaileeceth ssh root@62.109.12.211'
+alias qq-work-ssh-62.109.17.18='sshpass -p pW7lU4kS2lqU ssh root@62.109.17.18'
+alias qq-work-ssh-62.109.23.48='sshpass -p 4dSQz2dGE05x ssh root@62.109.23.48'
+alias qq-work-ssh-62.109.26.181='sshpass -p wrmYWHRdKs8oR3WK ssh root@62.109.26.181'
+alias qq-work-ssh-62.109.27.82='sshpass -p H3215195zcsq ssh root@62.109.27.82'
+alias qq-work-ssh-62.109.7.184='sshpass -p YJ5Rn9SK5CE1 ssh root@62.109.7.184'
+alias qq-work-ssh-78.24.221.130='sshpass -p 50394fl0E6Z2 ssh root@78.24.221.130'
+alias qq-work-ssh-80.87.202.253='sshpass -p KCim9695uo08 ssh root@80.87.202.253'
+alias qq-work-ssh-82.146.41.130='sshpass -p TjBIhBWsHlCIOmrJ ssh root@82.146.41.130'
+alias qq-work-ssh-82.146.46.218='sshpass -p uQ0iH2aI1mxS ssh root@82.146.46.218'
+alias qq-work-ssh-82.146.47.221='sshpass -p cQ9hP2wF4efA ssh root@82.146.47.221'
+alias qq-work-ssh-82.146.48.212='sshpass -p QJrMm6IG6hA0 ssh root@82.146.48.212'
+alias qq-work-ssh-82.202.173.61='sshpass -p yTs3Xnpa9yEfSmHR ssh root@82.202.173.61'
+alias qq-work-ssh-83.220.170.48='sshpass -p kx9SW30mkd3t ssh root@83.220.170.48'
+alias qq-work-ssh-91.107.122.98='sshpass -p tY0aP0yJ6yvA ssh root@91.107.122.98'
+alias qq-work-ssh-94.250.250.206='sshpass -p pG2oH3hI3zgT ssh root@94.250.250.206'
 ```
 
 ___
