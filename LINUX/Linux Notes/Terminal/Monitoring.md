@@ -57,8 +57,8 @@ sudo nano /etc/default/atop
 ```
 
 LOGOPTS="-R"
-LOGINTERVAL=60
-LOGGENERATIONS=14
+LOGINTERVAL=60 (600)
+LOGGENERATIONS=14 (28)
 LOGPATH=/var/log/atop
 
 ```

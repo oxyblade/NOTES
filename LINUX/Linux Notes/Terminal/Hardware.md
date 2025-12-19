@@ -1,5 +1,8 @@
 sudo bootctl - Check & Control EFI firmware boot settings and manage boot loader
+
 dmesg Список устройств системы
+dmesg -T
+
 inxi -F - Hardware Info
 sudo lshw Информация об аппаратном обеспечении в Linux (Terminal)
 lshw-gtk Информация об аппаратном обеспечении в Linux (GUI)
