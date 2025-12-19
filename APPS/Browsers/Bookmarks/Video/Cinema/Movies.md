@@ -7,7 +7,7 @@
 
 ___
 ### *CURRENT*
-https://kinogo.biz/121038-beguschij-chelovek.html 1
+https://kinogo.biz/121038-beguschij-chelovek.html 20
 https://kinogo.biz/119292-hischnye-tvari.html
 
 ___
