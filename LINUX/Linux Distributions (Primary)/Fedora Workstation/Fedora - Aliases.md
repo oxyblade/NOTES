@@ -451,6 +451,7 @@ alias qq-git-oxyblade_github_io-push='cd ~/STORAGE_ASUS/03_JetBrainsProjects/oxy
 alias qq-work-script-php-domains-ping='php "~/STORAGE_ASUS/02_Docs/WORK/003 - Stuff/Scripts/script-php-domains-ping/script-php-domains-ping.php"'
 alias qq-work-script-php-domains-ssl='php "~/STORAGE_ASUS/02_Docs/WORK/003 - Stuff/Scripts/script-php-domains-ssl/script-php-domains-ssl.php"'
 alias qq-work-script-php-domains-unavailable='php "~/STORAGE_ASUS/02_Docs/WORK/003 - Stuff/Scripts/script-php-domains-unavailable/script-php-domains-unavailable.php"'
+
 ## Work — SSH Terminal
 alias qq-work-ssh-timeweb='sshpass -p V8fEAB#5qCMu42v ssh co50535@92.53.96.11'
 alias qq-work-ssh-178.250.157.27='sshpass -p 3jmYN4oyxZs3 ssh root@178.250.157.27'
