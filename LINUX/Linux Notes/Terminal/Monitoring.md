@@ -24,6 +24,7 @@ dstat Мониторинг процессора, дисковой нагрузк
 systemctl list-units -t service Запущенные сервисы (текущие)
 
 ls -l /proc/9600/exe (9600 — process ID, Check path of process)
+lsof -p 1111,2222 | grep cwd
 ps auxwww | grep 'Z' Zombie processes
 ps aux | awk '{ print $8 " " $2 }' | grep -w Z Zombie processes
 ps afuwwx | less +u -p'^(\S+\s+){7}Z.*' Zombie processes
