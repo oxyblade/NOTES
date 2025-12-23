@@ -10,6 +10,7 @@ ___
 https://kinogo.biz/121038-beguschij-chelovek.html 203
 https://kinogo.biz/119292-hischnye-tvari.html
 https://kinogo.biz/16528-dalshe-po-koridoru.html
+https://kinogo.biz/119785-avgust.html
 
 ___
 ### *Premiere*
@@ -18,7 +19,6 @@ https://kinogo.ec/121341-rapsodija-mertvyh.html
 https://kinogo.biz/121556-inkarnacija.html
 https://kinogo.biz/121606-ozero-kostej.html
 https://kinogo.ec/121733-alter.html
-https://kinogo.biz/119785-avgust.html
 https://kinogo.biz/120692-na-trope-vojny.html
 https://kinogo.biz/120046-dostat-nozhi-prosnis-mertvec.html
 https://kinogo.biz/119912-holod.html
