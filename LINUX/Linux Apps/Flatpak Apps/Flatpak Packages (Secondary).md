@@ -30,7 +30,6 @@ flatpak install flathub org.gnome.Builder -y
 
 ## Graphics
 ```
-flatpak install flathub com.github.maoschanz.drawing -y
 flatpak install flathub org.darktable.Darktable -y
 flatpak install flathub com.rawtherapee.RawTherapee -y
 flatpak install flathub org.kde.kolourpaint -y

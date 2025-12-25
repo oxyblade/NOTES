@@ -78,8 +78,9 @@ ___
 
 ```
 flatpak install flathub com.boxy_svg.BoxySVG -y
-flatpak install flathub org.kde.pix -y
+flatpak install flathub com.github.maoschanz.drawing -y
 flatpak install flathub org.gnome.gThumb -y
+flatpak install flathub org.kde.pix -y
 flatpak install flathub org.nomacs.ImageLounge -y
 flatpak install flathub com.github.huluti.Curtail -y
 flatpak install flathub org.kde.optiimage -y
