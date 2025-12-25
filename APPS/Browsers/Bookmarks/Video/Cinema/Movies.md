@@ -7,8 +7,7 @@
 
 ___
 ### *CURRENT*
-https://kinogo.biz/121038-beguschij-chelovek.html 203
-https://kinogo.biz/119292-hischnye-tvari.html
+https://kinogo.biz/119292-hischnye-tvari.html 
 https://kinogo.biz/16528-dalshe-po-koridoru.html
 https://kinogo.biz/119785-avgust.html
 
