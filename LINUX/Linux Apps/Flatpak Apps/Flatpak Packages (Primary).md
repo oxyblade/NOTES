@@ -112,6 +112,7 @@ ___
 
 ```
 flatpak install flathub org.kde.haruna -y
+flatpak install flathub org.videolan.VLC -y
 flatpak install flathub org.gnome.gitlab.YaLTeR.VideoTrimmer -y
 flatpak install flathub no.mifi.losslesscut -y
 flatpak install flathub org.shotcut.Shotcut -y
