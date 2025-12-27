@@ -2,10 +2,14 @@ https://kinogo.biz/
 https://kinogo.fm/
 https://movielab.one
 https://hd-rezka.one/
+https://hdrezka.ag/ (VPN)
+https://hdrezka-home.tv
 https://hdrezka.it/
 https://hdrezka.fm/
+https://rezka.art/
 https://hd.filmix.fun/
 https://filmix.biz/
+https://filmix.my/
 https://kinokrad.cc/
 https://baskino.se/
 http://www.tvigle.ru/
