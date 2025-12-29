@@ -7,7 +7,7 @@
 
 ___
 ### *CURRENT*
-https://kinogo.biz/119785-avgust.html 34
+https://kinogo.biz/119785-avgust.html 105
 
 ___
 ### *Premiere*
