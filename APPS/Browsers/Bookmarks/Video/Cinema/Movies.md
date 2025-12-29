@@ -7,8 +7,7 @@
 
 ___
 ### *CURRENT*
-https://kinogo.biz/16528-dalshe-po-koridoru.html 122
-https://kinogo.biz/119785-avgust.html
+https://kinogo.biz/119785-avgust.html 34
 
 ___
 ### *Premiere*
