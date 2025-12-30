@@ -1,7 +1,7 @@
-https://www.youtube.com/@BachiloDmitry/videos Дмитрий Бачило
-https://www.youtube.com/@AlphaShutnik/videos Ремонтяш > # Игровой ПК из М.Видео 18
-https://www.youtube.com/@Ремонтяшлайв/videos Ремонтяш лайв
-https://www.youtube.com/MaddyMURK/videos
+[Дмитрий Бачило](https://www.youtube.com/@BachiloDmitry/videos) > # VLOG Компьютерного музея
+[Ремонтяш](https://www.youtube.com/@AlphaShutnik/videos) > +++ Игровой ПК из М.Видео 18
+[Ремонтяш лайв](https://www.youtube.com/@Ремонтяшлайв/videos)
+[Maddy MURK](https://www.youtube.com/MaddyMURK/videos)
 https://www.youtube.com/@murkpower/videos
 https://www.youtube.com/@monobogdan/videos
 https://www.youtube.com/@DaniilGerasimov/videos
