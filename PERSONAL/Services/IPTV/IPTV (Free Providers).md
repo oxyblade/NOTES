@@ -21,9 +21,8 @@ https://raw.githubusercontent.com/IPTVSHARED/VeronaTV/refs/heads/main/VeronaTV.m
 IPTV - LoganetXAll (pikabu.ru)
 https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u
 
-IPTV - PolzaFre (TG)
-https://PolzaFre.short.gy/tv
-https://raw.githubusercontent.com/polzafre/PolzaIPTV/refs/heads/main/Polza-IPTV.m3u
+IPTV - Voxlist (TG)
+https://raw.githubusercontent.com/Voxlist/voxlist/refs/heads/main/voxlist.m3u
 
 ___
 
