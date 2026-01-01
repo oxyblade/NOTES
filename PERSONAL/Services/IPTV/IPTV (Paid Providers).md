@@ -2,6 +2,17 @@
 [Melord.net](https://Melord.net), [Tvlider.net](https://Tvlider.net), [I-look.tv](https://I-look.tv), [Vipdrive.net](https://Vipdrive.net), [Jinopro.net](https://Jinopro.net), [Iseetv.net](https://Iseetv.net), [Ottlook.tv](https://Ottlook.tv), [Rulook.tv](https://Rulook.tv), [Zedom.net](https://Zedom.net), [Ilook.tv](https://Ilook.tv) (blocked)
 [Iedem.tv](https://Iedem.tv), [I-edem.tv](https://i-edem.tv)
 
+YOSSO TV (Paid)
+https://t.me/+WMtP6YuTOglmMTUy
+
+Vivamax (Paid)
+https://t.me/vivamax_portal_bot
+https://t.me/vivamax_chat
+https://t.me/vivamax_portal
+
+BitTV (Paid)
+https://bittv.ltd
+
 ___
 #### *Misc*
 
