@@ -5,13 +5,13 @@
 YOSSO TV (Paid)
 https://t.me/+WMtP6YuTOglmMTUy
 
+BitTV (Paid)
+https://bittv.ltd
+
 Vivamax (Paid)
 https://t.me/vivamax_portal_bot
 https://t.me/vivamax_chat
 https://t.me/vivamax_portal
-
-BitTV (Paid)
-https://bittv.ltd
 
 ___
 #### *Misc*
