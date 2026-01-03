@@ -7,7 +7,6 @@
 
 ___
 ### *CURRENT*
-https://kinogo.biz/119785-avgust.html 135
 https://kinogo.biz/118628-krjuk.html
 https://kinogo.biz/121606-ozero-kostej.html
 https://kinogo.biz/120046-dostat-nozhi-prosnis-mertvec.html
