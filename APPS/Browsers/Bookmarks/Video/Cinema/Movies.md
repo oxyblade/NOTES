@@ -8,22 +8,22 @@
 ___
 ### *CURRENT*
 https://kinogo.biz/119785-avgust.html 135
+https://kinogo.biz/118628-krjuk.html
+https://kinogo.biz/121606-ozero-kostej.html
+https://kinogo.biz/120046-dostat-nozhi-prosnis-mertvec.html
+https://kinogo.ec/121733-alter.html
 Озеро Мунго
 Ведьма из Блэр: Курсовая с того света
 Плёнки из Поукипзи
 «Идентификация» (2003)
 «Хижина в лесу» (2012)
+https://kinogo.biz/123664-bessmertnyj-krovavaja-doroga-domoj.html
 
 ___
 ### *Premiere*
-https://kinogo.biz/118628-krjuk.html
 https://kinogo.ec/121341-rapsodija-mertvyh.html
 https://kinogo.biz/121556-inkarnacija.html
-https://kinogo.biz/121606-ozero-kostej.html
-https://kinogo.ec/121733-alter.html
 https://kinogo.biz/120692-na-trope-vojny.html
-https://kinogo.biz/120046-dostat-nozhi-prosnis-mertvec.html
-https://kinogo.biz/119912-holod.html
 
 ___
 ### *Actors*
