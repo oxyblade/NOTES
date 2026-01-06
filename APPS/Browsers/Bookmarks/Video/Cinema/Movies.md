@@ -17,6 +17,10 @@ https://kinogo.ec/121733-alter.html
 «Идентификация» (2003)
 «Хижина в лесу» (2012)
 https://kinogo.biz/123664-bessmertnyj-krovavaja-doroga-domoj.html
+https://kinogo.biz/29513-the-cropsey-incident.html
+https://kinogo.biz/19135-nochnoj-koshmar.html
+https://kinogo.biz/18196-samozvanec.html
+https://kinogo.biz/84139-samozvanec.html
 
 ___
 ### *Premiere*
