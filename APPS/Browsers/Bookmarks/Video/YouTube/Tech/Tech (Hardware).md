@@ -5,7 +5,7 @@
 [MURK POWER](https://www.youtube.com/@murkpower/videos)
 [monobogdan](https://www.youtube.com/@monobogdan/videos)
 [HAPPYPC](https://www.youtube.com/@hpcblg/videos)
-[HAPPYPC Daniil Gerasimov](https://www.youtube.com/@DaniilGerasimov/videos)
+[HappyPC Daniil Gerasimov](https://www.youtube.com/@DaniilGerasimov/videos)
 [HappyPC Питер](https://www.youtube.com/@happypcspb/videos)
 [HappyPC Воронеж](https://www.youtube.com/@Happypcvrn/videos)
 [HappyPC Калининград](https://www.youtube.com/@HappyPCkld/videos)
