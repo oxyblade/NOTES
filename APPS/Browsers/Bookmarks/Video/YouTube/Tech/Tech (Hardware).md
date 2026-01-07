@@ -9,7 +9,7 @@
 [HappyPC Питер](https://www.youtube.com/@happypcspb/videos)
 [HappyPC Воронеж](https://www.youtube.com/@Happypcvrn/videos)
 [HappyPC Калининград](https://www.youtube.com/@HappyPCkld/videos)
-https://www.youtube.com/@happypcbuildpc/videos
+[HappyPC - ПРО СБОРКИ и ЖЕЛЕЗО](https://www.youtube.com/@happypcbuildpc/videos)
 https://www.youtube.com/@4pc/streams
 https://www.youtube.com/@TurboPC_750/streams
 https://www.youtube.com/@mka/videos
