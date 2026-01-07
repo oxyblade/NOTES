@@ -2,13 +2,13 @@
 [Ремонтяш](https://www.youtube.com/@AlphaShutnik/videos) > +++ Игровой ПК из М.Видео 18
 [Ремонтяш лайв](https://www.youtube.com/@Ремонтяшлайв/videos)
 [Maddy MURK](https://www.youtube.com/MaddyMURK/videos)
-https://www.youtube.com/@murkpower/videos
-https://www.youtube.com/@monobogdan/videos
-https://www.youtube.com/@DaniilGerasimov/videos
+[MURK POWER](https://www.youtube.com/@murkpower/videos)
+[monobogdan](https://www.youtube.com/@monobogdan/videos)
+[Daniil Gerasimov](https://www.youtube.com/@DaniilGerasimov/videos)
 https://www.youtube.com/@happypcblg/videos
 [HappyPC Питер](https://www.youtube.com/@happypcspb/videos)
-https://www.youtube.com/@Happypcvrn/videos
-https://www.youtube.com/@HappyPCkld/videos
+[HappyPC Воронеж](https://www.youtube.com/@Happypcvrn/videos)
+[HappyPC Калининград](https://www.youtube.com/@HappyPCkld/videos)
 https://www.youtube.com/@happypcbuildpc/videos
 https://www.youtube.com/@4pc/streams
 https://www.youtube.com/@TurboPC_750/streams
