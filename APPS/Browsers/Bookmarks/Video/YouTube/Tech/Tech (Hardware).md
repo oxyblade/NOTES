@@ -6,7 +6,7 @@ https://www.youtube.com/@murkpower/videos
 https://www.youtube.com/@monobogdan/videos
 https://www.youtube.com/@DaniilGerasimov/videos
 https://www.youtube.com/@happypcblg/videos
-https://www.youtube.com/@happypcspb/videos
+[HappyPC Питер](https://www.youtube.com/@happypcspb/videos)
 https://www.youtube.com/@Happypcvrn/videos
 https://www.youtube.com/@HappyPCkld/videos
 https://www.youtube.com/@happypcbuildpc/videos
