@@ -19,13 +19,14 @@ ___
 https://sharavoz.tv SharavozTV
 https://sh365.org SharavozTV
 https://antifriz.tv ANTIFRIZ TV
+https://rutv.vip RU TV VIP
+https://filmax-tv.ru Filmax TV
 https://topiptv.ink TOPIPTV
 https://smotrivip.com CBILLING
 https://cbilling.eu CBilling
 https://tv.team/?lang=ru TV TEAM
 https://shara-tv.org SHARA-TV
 https://tvizi.net TVIZI
-https://filmax-tv.ru Filmax TV
 https://lightott.su Light IPTV
 https://crdtv.cc CRDTV
 https://kineskop.club/?change_lang=ru Kineskop.club
