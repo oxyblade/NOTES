@@ -1,4 +1,4 @@
-`journalctl | grep -i oom`
+`journalctl | grep -inE oom`
 `journalctl --since "10:00"` (today at a specific time)
 `journalctl --since "2025-12-18"` (specific date, time defaults to 00:00:00)
 `journalctl --since "2025-12-18 10:00:00"` (specific date and time)
