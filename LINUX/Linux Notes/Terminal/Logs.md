@@ -1,3 +1,4 @@
+`journalctl | grep -inE 'Out of memory'`
 `journalctl | grep -inE oom`
 `journalctl --since "10:00"` (today at a specific time)
 `journalctl --since "2025-12-18"` (specific date, time defaults to 00:00:00)
