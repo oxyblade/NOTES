@@ -122,7 +122,6 @@ flatpak install flathub com.obsproject.Studio -y
 flatpak install flathub com.github.vkohaupt.vokoscreenNG -y
 flatpak install flathub com.uploadedlobster.peek -y
 flatpak install flathub io.github.yuki_iptv.yuki-iptv -y
-flatpak install flathub io.github.falldaemon.engplayer -y
 ```
 
 ___
