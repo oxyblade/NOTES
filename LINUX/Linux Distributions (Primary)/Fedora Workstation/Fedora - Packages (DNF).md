@@ -1,8 +1,8 @@
 ## *PRIMARY PACKAGES*
 
 > ### ***GLOBAL***
-> ***Installing Free and Nonfree Repositories***
-> Software app: Disabled by Default
+> ***Installing Free and Nonfree Repositories:***
+> Software app (Disabled by Default)
 > ```
 > https://rpmfusion.org/Configuration
 > ```
