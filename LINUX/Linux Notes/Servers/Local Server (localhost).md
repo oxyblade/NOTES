@@ -1,3 +1,5 @@
+> systemctl status apache2.service
+> systemctl status mysql.service
 > systemctl restart apache2.service
 > systemctl restart mysql.service
 ### *APACHE*
