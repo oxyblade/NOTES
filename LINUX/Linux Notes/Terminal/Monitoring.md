@@ -1,13 +1,14 @@
 ### systemctl
+systemctl list-units --type=service --state=running
 systemctl list-unit-files --state=enabled
+systemctl list-units --type=target
+
 systemctl --state=failed
 systemctl --state=masked
 systemctl --state=not-found
 systemctl --state=active
 systemctl --state=inactive
 systemctl list-timers
-systemctl list-units --type=target
-systemctl list-units --type=service
 systemctl show remote-fs.target
 systemctl cat remote-fs.target
 systemctl status/(re)start/stop/enable/disable/mask/is-failed dbus.service
@@ -48,7 +49,6 @@ top или top -SH Процессы системы в реальном врем�
 nmon Системный мониторинг
 xrestop Монитор потребления ресурсов X-сервера разными приложениями
 dstat Мониторинг процессора, дисковой нагрузки, сетевой нагрузки, памяти и т.п.
-systemctl list-units -t service Запущенные сервисы (текущие)
 
 ___
 ### atop
