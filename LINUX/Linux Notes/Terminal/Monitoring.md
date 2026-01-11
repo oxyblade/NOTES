@@ -2,7 +2,6 @@
 systemctl list-units --type=service --state=running
 systemctl list-unit-files --state=enabled
 systemctl list-units --type=target
-
 systemctl --state=failed
 systemctl --state=masked
 systemctl --state=not-found
