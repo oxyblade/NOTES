@@ -1,5 +1,5 @@
-> Install Linux, Apache, MySQL, PHP (LAMP)
-> sudo apt-get install lamp-server^
+> systemctl restart apache2.service
+> systemctl restart mysql.service
 ### *APACHE*
 sudo apt-get update
 sudo apt-get install apache2
@@ -58,6 +58,7 @@ sudo mysql_secure_installation
 sudo systemctl status mysql.service
 sudo systemctl start mysql.service
 sudo systemctl stop mysql.service
+sudo systemctl restart mysql.service
 
 sudo ufw allow mysql ( Allow remote access )
 sudo systemctl enable mysql.service ( Launch at reboot )
