@@ -1,3 +1,4 @@
+### systemctl
 systemctl list-unit-files --state=enabled
 systemctl --state=failed
 systemctl --state=masked
@@ -15,14 +16,8 @@ systemctl list-dependencies graphical.target
 systemctl status
 systemctl show
 
-psensor - tray utility
-htop Процессы системы в реальном времени
-top или top -SH Процессы системы в реальном времени
-nmon Системный мониторинг
-xrestop Монитор потребления ресурсов X-сервера разными приложениями
-dstat Мониторинг процессора, дисковой нагрузки, сетевой нагрузки, памяти и т.п.
-systemctl list-units -t service Запущенные сервисы (текущие)
-
+___
+### Processes & Services
 ls -l /proc/9600/exe (9600 — process ID, Check path of process)
 lsof -p 1111,2222 | grep cwd
 ps auxwww | grep 'Z' Zombie processes
@@ -30,6 +25,8 @@ ps aux | awk '{ print $8 " " $2 }' | grep -w Z Zombie processes
 ps afuwwx | less +u -p'^(\S+\s+){7}Z.*' Zombie processes
 ps -eo pmem,ppid,comm | sort -k 1 -r | head -21 | tail -20
 
+___
+### Hardware
 watch grep MHz /proc/cpuinfo Частота ядер процессора в реальном времени
 grep MHz /proc/cpuinfo Частота ядер процессора
 cpufreq-info Набор утилит для масштабирования частоты процессора
@@ -44,7 +41,16 @@ sudo powertop Мониторинг потребления мощности (эл
 sudo smartctl -a /dev/sda S.M.A.R.T. дисков
 
 ___
+### Packages & Utils
+psensor - tray utility
+htop Процессы системы в реальном времени
+top или top -SH Процессы системы в реальном времени
+nmon Системный мониторинг
+xrestop Монитор потребления ресурсов X-сервера разными приложениями
+dstat Мониторинг процессора, дисковой нагрузки, сетевой нагрузки, памяти и т.п.
+systemctl list-units -t service Запущенные сервисы (текущие)
 
+___
 ### atop
 Мониторинг производительности
 
