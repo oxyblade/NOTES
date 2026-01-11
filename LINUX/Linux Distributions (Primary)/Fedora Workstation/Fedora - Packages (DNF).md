@@ -1,10 +1,11 @@
 ## *PRIMARY PACKAGES*
 
-### Installing Free and Nonfree Repositories
-Software app: ***Disabled by Default***
-```
-https://rpmfusion.org/Configuration
-```
+> ### ***GLOBAL***
+> ***Installing Free and Nonfree Repositories***
+> Software app: Disabled by Default
+> ```
+> https://rpmfusion.org/Configuration
+> ```
 
 > ### ***DESKTOP***
 > **GUI Packages:**
