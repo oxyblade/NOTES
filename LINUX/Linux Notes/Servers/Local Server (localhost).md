@@ -1,5 +1,4 @@
-> systemctl status apache2.service | grep -inE 'Active:'
-> systemctl status mysql.service | grep -inE 'Active:'
+> systemctl status apache2.service | grep -inE 'Active:' && systemctl status mysql.service | grep -inE 'Active:'
 > systemctl restart apache2.service
 > systemctl restart mysql.service
 ### *APACHE*
