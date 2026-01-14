@@ -1,4 +1,4 @@
-https://www.youtube.com/@rodionfslive8550/videos <<< # HP ProBook 450 G2 с помойки
+https://www.youtube.com/@rodionfslive8550/videos > # HP ProBook 450 G2 с помойки 
 https://www.youtube.com/@обычныйпользователь/videos
 https://www.youtube.com/@GamerStationOnLinux/streams
 https://vkvideo.ru/@public175815157/all
