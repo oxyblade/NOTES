@@ -71,9 +71,15 @@ LOGPATH=/var/log/atop
 sudo systemctl restart atop && systemctl status atop
 ```
 
-atopsar -r /var/log/atop/atop_20250824
-atopsar -r /var/log/atop/atop_20250824 -O (Report about top-3 processes consuming most CPU (processor) capacity)
-atopsar -r /var/log/atop/atop_20250824 -G (Report about top-3 processes consuming most RAM (memory))
+```
+atopsar -r /var/log/atop/atop_20260114
+```
+```
+atopsar -r /var/log/atop/atop_20260114 -O
+```
+```
+atopsar -r /var/log/atop/atop_20260114 -G
+```
 
 ___
 
