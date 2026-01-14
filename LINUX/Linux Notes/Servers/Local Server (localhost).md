@@ -10,6 +10,19 @@
 > ```
 > systemctl restart apache2.service && systemctl restart mysql.service
 > ```
+
+> ```
+> systemctl status apache2.service | grep -inE 'Active:' && systemctl status mariadb.service | grep -inE 'Active:'
+> ```
+> ```
+> systemctl restart apache2.service
+> ```
+> ```
+> systemctl restart mariadb.service
+> ```
+> ```
+> systemctl restart apache2.service && systemctl restart mariadb.service
+> ```
 ### *APACHE*
 sudo apt-get update
 sudo apt-get install apache2
