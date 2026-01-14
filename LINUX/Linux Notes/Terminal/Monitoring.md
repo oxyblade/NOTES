@@ -61,15 +61,14 @@ systemctl enable atop && systemctl status atop
 ```
 sudo nano /etc/default/atop
 ```
+```
+sudo systemctl restart atop && systemctl status atop
+```
 
 LOGOPTS="-R"
 LOGINTERVAL=60 (600)
 LOGGENERATIONS=14 (28)
 LOGPATH=/var/log/atop
-
-```
-sudo systemctl restart atop && systemctl status atop
-```
 
 ```
 atopsar -r /var/log/atop/atop_20260114
