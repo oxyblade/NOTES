@@ -1,10 +1,22 @@
-`journalctl | grep -inE 'Out of memory'`
-`journalctl | grep -inE oom`
-`journalctl --since "10:00"` (today at a specific time)
-`journalctl --since "2025-12-18"` (specific date, time defaults to 00:00:00)
-`journalctl --since "2025-12-18 10:00:00"` (specific date and time)
-`journalctl -u mysql --since "2025-12-18 03:00" --until "2025-12-18 06:00"`
+```
+journalctl | grep -inE 'Out of memory'
+```
+```
+journalctl | grep -inE oom
+```
+```
+journalctl --since "00:00" | grep -inE 'Out of memory'
+```
+```
+journalctl --since "2026-01-15"
+```
+```
+journalctl --since "2026-01-15 10:00:00"
+```
+```
+journalctl -u mysql --since "2026-01-15 03:00" --until "2026-01-15 06:00"
+```
 
-`less /var/log/dnf.log`
-`tail -f -n100 /var/log/dnf.log`
-`tail -f -n1000 /var/log/dnf.log`
+less /var/log/dnf.log
+tail -f -n100 /var/log/dnf.log
+tail -f -n1000 /var/log/dnf.log
