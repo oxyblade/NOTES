@@ -2,7 +2,7 @@
 journalctl | grep -inE 'Out of memory'
 ```
 ```
-journalctl | grep -inE oom
+journalctl | grep -inE 'oom'
 ```
 ```
 journalctl --since "00:00" | grep -inE 'Out of memory'
