@@ -16,6 +16,11 @@ systemctl list-dependencies graphical.target
 systemctl status
 systemctl show
 
+systemctl list-units --type=service
+dmesg -T
+free -m
+df -h
+
 ___
 ### Processes & Services
 ls -l /proc/9600/exe (9600 — process ID, Check path of process)
