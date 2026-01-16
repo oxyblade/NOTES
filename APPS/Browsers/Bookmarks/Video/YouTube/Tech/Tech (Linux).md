@@ -1,4 +1,4 @@
-https://www.youtube.com/@rodionfslive8550/videos > Новогодняя болтология под ETS2
+https://www.youtube.com/@rodionfslive8550/videos > Новогодняя болтология под ETS2 6
 https://www.youtube.com/@обычныйпользователь/videos
 https://www.youtube.com/@GamerStationOnLinux/streams
 https://vkvideo.ru/@public175815157/all
