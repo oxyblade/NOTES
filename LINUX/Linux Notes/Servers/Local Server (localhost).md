@@ -5,6 +5,9 @@
 > systemctl restart apache2.service
 > ```
 > ```
+> systemctl restart apache2-isp@php74.service
+> ```
+> ```
 > systemctl restart mysql.service
 > ```
 > ```
