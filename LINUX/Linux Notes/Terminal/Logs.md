@@ -52,7 +52,7 @@ less /var/www/httpd-logs/otlichnici.ru.error.log
 grep "$(date '+%d/%b/%Y')" /var/www/httpd-logs/otlichnici.ru.access.log | awk '{print $1}' | sort | uniq -c | sort -nr | head -10
 ```
 
-*Bot's log:*
+*Top-20 Bot's log:*
 ```
 grep -oiE '"[^"]+"' "/var/www/httpd-logs/otlichnici.ru.access.log" | grep -oiE '\b[a-zA-Z0-9./;+_-]*bot[a-zA-Z0-9./;+_-]*\b' | sort | uniq -c | sort -nr | head -n20
 ```
