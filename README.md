@@ -1,6 +1,6 @@
 ___
 ## *NOTES*
-Hardware, Software, Dev
+Hardware, Software, Dev.
 
 ___
 
