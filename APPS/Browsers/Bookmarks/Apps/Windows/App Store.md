@@ -1,0 +1,11 @@
+https://www.fosshub.com/
+https://samlab.ws/
+https://1progs.pro/
+https://filehippo.com/
+https://www.freewarefiles.com/
+https://www.majorgeeks.com/
+https://www.filehorse.com/
+https://www.bytesin.com/
+https://www.free-codecs.com/
+https://www.softpedia.com/
+https://www.soft32.com/

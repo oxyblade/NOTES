@@ -1,0 +1,12 @@
+https://www.rarlab.com/download.htm
+https://www.hifile.app/download
+https://www.ghisler.com/download.htm
+https://www.bittorrent.com/products/win/bittorrent-classic-free/
+https://imageglass.org/release/imageglass-kobe-8-5-1-22-34
+https://www.sumatrapdfreader.org/download-free-pdf-viewer
+https://www.xpdfreader.com/
+http://instant-eyedropper.com/
+https://www.mediahuman.com/audio-converter/
+https://westbyte.com/dm/index.phtml?page=download&tmp=1&lng=Russian
+https://mediaarea.net/en/MediaInfo/Download/Windows
+https://ftp.mozilla.org/pub/firefox/releases/

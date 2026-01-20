@@ -1,0 +1,10 @@
+https://browserify.org/
+https://browsersync.io/
+https://brunch.io/
+https://gruntjs.com/
+https://gulpjs.com/
+https://parceljs.org/
+https://vitejs.dev/
+https://webpack.js.org/
+https://webpack.github.io/
+https://yeoman.io/
