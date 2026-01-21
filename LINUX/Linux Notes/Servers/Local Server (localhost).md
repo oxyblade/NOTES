@@ -79,6 +79,18 @@ LimitRequestLine 1000000
 LimitRequestFieldSize 1000000
 
 ___
+
+### nginx
+
+***Block Bots***
+/etc/nginx/vhosts-includes/bad_bot.conf
+/etc/nginx/vhosts-includes/bad_bot.conf
+/etc/nginx/vhosts-includes/badbot.conf
+nano /etc/nginx/vhosts-includes/badbot.conf
+systemctl restart nginx.service
+systemctl status nginx.service
+
+___
 ### *MySQL*
 sudo apt-get update
 sudo apt-get install mysql-server mysql-client
