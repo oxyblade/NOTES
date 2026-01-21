@@ -81,7 +81,6 @@ LimitRequestFieldSize 1000000
 ___
 
 ### nginx
-
 ***Block Bots***
 /etc/nginx/vhosts-includes/bad_bot.conf
 /etc/nginx/vhosts-includes/bad_bot.conf
@@ -89,6 +88,9 @@ ___
 nano /etc/nginx/vhosts-includes/badbot.conf
 systemctl restart nginx.service
 systemctl status nginx.service
+nginx -t (test the configuration file: nginx checks the configuration for correct syntax, and then tries to open files referred in the configuration)
+nginx -T (same as `-t`, but additionally dump configuration files to standard output)
+nginx -T | grep include
 
 ___
 ### *MySQL*
