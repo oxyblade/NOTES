@@ -82,7 +82,7 @@ ___
 
 ### nginx
 ***Block Bots***
-/etc/nginx/vhosts-includes/bad_bot.conf (/etc/nginx/vhosts-includes/badbot.conf)
+/etc/nginx/vhosts-includes/bad_bot.conf (OR /etc/nginx/vhosts-includes/badbot.conf)
 nano /etc/nginx/vhosts-includes/badbot.conf
 systemctl restart nginx.service
 systemctl status nginx.service
