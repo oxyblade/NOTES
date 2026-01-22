@@ -20,7 +20,7 @@
 > 
 > **Misc Packages:**
 > ```
-> sudo dnf install composer libxcrypt-compat gtk2 libnsl autoconf meson unrar p7zip python3-pip nvidia-smi
+> sudo dnf install composer libxcrypt-compat libnsl autoconf meson unrar p7zip python3-pip nvidia-smi
 > ```
 
 > ### ***LAPTOP***
@@ -36,7 +36,7 @@
 > 
 > **Misc Packages:**
 > ```
-> sudo dnf install composer libxcrypt-compat gtk2 libnsl autoconf meson unrar p7zip python3-pip
+> sudo dnf install composer libxcrypt-compat libnsl autoconf meson unrar p7zip python3-pip
 > ```
 
 **PHP (Local Server):**
@@ -120,7 +120,7 @@ preload - Makes applications run faster by prefetching binaries and shared objec
 
 ___
 ## *Misc Packages (OPTIONAL)*
-nvme-cli smartmontools lsof neofetch traceroute whois net-tools gpick gnome-system-tools bpytop btop
+nvme-cli smartmontools lsof neofetch traceroute whois net-tools gpick gnome-system-tools bpytop gtk2
 hwinfo dmidecode cpuid systemd-coredump gdb hardinfo fping
 ghex jpegoptim gtkhash dialog ffmpeg
 wig testssl.sh dmitry httpie
