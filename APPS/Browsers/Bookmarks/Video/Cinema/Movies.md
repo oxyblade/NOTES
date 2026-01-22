@@ -7,7 +7,7 @@
 
 ___
 ### *CURRENT*
-[«Хижина в лесу» (2012)](https://kinogo.biz/20571-hizhina-v-lesu.html) 15
+[«Хижина в лесу» (2012)](https://kinogo.biz/20571-hizhina-v-lesu.html) 114
 https://kinogo.biz/123664-bessmertnyj-krovavaja-doroga-domoj.html
 https://kinogo.biz/29513-the-cropsey-incident.html
 https://kinogo.biz/19135-nochnoj-koshmar.html
