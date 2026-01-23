@@ -10,7 +10,7 @@ journalctl | grep -inE 'oom'
 journalctl --since "00:00" | grep -inE 'Out of memory'
 ```
 ```
-journalctl --since "00:00" | grep -inE 'ssh'
+journalctl --since "00:00" | grep -inE 'ssh | Failed password'
 ```
 ```
 journalctl --since "2026-01-15"
