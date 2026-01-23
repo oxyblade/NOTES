@@ -7,7 +7,7 @@
 
 ___
 ### *CURRENT*
-https://kinogo.biz/123664-bessmertnyj-krovavaja-doroga-domoj.html 29
+https://kinogo.biz/123664-bessmertnyj-krovavaja-doroga-domoj.html 45
 https://kinogo.biz/29513-the-cropsey-incident.html
 https://kinogo.biz/19135-nochnoj-koshmar.html
 https://kinogo.biz/18196-samozvanec.html
