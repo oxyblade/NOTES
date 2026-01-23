@@ -149,7 +149,7 @@ post_max_size = 128M - 256M (768M - 1024M - 4096456M) [post_max_size >= upload_m
 upload_max_filesize = 128M - 256M (512M - 750M - 1024M - 40964564M)
 max_execution_time = 6000 (30 - 120 - 300 - 6000 - 3000000)
 max_input_vars = 100000 (1000 - 5000 - 100000)
-max_input_time = -1 (-1 - 60 - 1000 - 60000000000000)
+max_input_time = -1 (-1 - 60 - 600 - 1000 - 60000000000000)
 ####### max_file_uploads = 200
 
 expose_php = Off            # Identify PHP Info
