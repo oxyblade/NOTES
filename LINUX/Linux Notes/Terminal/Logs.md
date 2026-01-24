@@ -21,6 +21,9 @@ journalctl --since "2026-01-15 10:00:00"
 ```
 journalctl -u mysql --since "2026-01-15 03:00" --until "2026-01-15 06:00"
 ```
+```
+cat /var/log/auth.log | grep -inE 'ssh | Failed password'
+```
 
 ___
 
