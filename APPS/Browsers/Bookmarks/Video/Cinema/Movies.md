@@ -15,6 +15,10 @@ https://kinogo.biz/84139-samozvanec.html
 [Лакомый кусок](https://kinogo.ec/124537-lakomyj-kusok.html)
 https://kinogo.biz/123378-troll-2.html
 https://kinogo.biz/124407-tigr.html
+https://kinogo.biz/14902-ditja-tmy.html
+https://kinogo.biz/16144-ditja-tmy.html
+https://kinogo.biz/55805-ditja-tmy-jekzorcizm.html
+https://kinogo.biz/54769-ditja-tmy-pervaja-zhertva.html
 
 ___
 ### *Premiere*
