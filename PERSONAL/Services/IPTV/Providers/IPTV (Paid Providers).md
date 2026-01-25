@@ -5,13 +5,20 @@
 YOSSO TV (Paid)
 https://t.me/+WMtP6YuTOglmMTUy
 
-BitTV (Paid)
-https://bittv.ltd
-
 Vivamax (Paid)
 https://t.me/vivamax_portal_bot
 https://t.me/vivamax_chat
 https://t.me/vivamax_portal
+
+BitTV (Paid)
+https://bittv.ltd
+
+Uspeh TV
+https://t.me/uspehtv_discussion
+Основная группа: https://t.me/tvuspeh
+Важные новости: t.me/infochannel_u
+Фин отдел: @uspeh_finance
+Управление плейлистом: @ush_assistant_bot
 
 ___
 #### *Misc*
