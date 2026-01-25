@@ -23,6 +23,7 @@ https://t.me/uspehtv_discussion
 ___
 #### *Misc*
 
+https://venera.tv Venera TV
 https://sharavoz.tv SharavozTV
 https://sh365.org SharavozTV
 https://antifriz.tv ANTIFRIZ TV
