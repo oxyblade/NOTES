@@ -15,6 +15,7 @@ https://kinogo.biz/14902-ditja-tmy.html
 https://kinogo.biz/16144-ditja-tmy.html
 https://kinogo.biz/55805-ditja-tmy-jekzorcizm.html
 https://kinogo.biz/54769-ditja-tmy-pervaja-zhertva.html
+[Возвращение в Сайлент Хилл](https://kinogo.biz/124518-vozvraschenie-v-sajlent-hill.html)
 
 ___
 ### *Premiere*
