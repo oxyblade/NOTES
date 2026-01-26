@@ -7,7 +7,6 @@
 
 ___
 ### *CURRENT*
-https://kinogo.biz/84139-samozvanec.html 108
 [Лакомый кусок](https://kinogo.ec/124537-lakomyj-kusok.html)
 https://kinogo.biz/123378-troll-2.html
 https://kinogo.biz/124407-tigr.html
