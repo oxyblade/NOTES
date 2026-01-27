@@ -1,16 +1,16 @@
 ### *General commands*
 
 ```
-journalctl | grep -inE 'Out of memory'
+journalctl | grep -inE 'Out of memory' | wc -l
 ```
 ```
-journalctl | grep -inE 'oom'
+journalctl | grep -inE 'oom' | wc -l
 ```
 ```
-journalctl --since "00:00" | grep -inE 'Out of memory'
+journalctl --since "00:00" | grep -inE 'Out of memory' | wc -l
 ```
 ```
-journalctl --since "00:00" | grep -inE 'ssh | Failed password'
+journalctl --since "00:00" | grep -inE 'ssh | Failed password' | wc -l
 ```
 ```
 journalctl --since "2026-01-15"
@@ -30,19 +30,19 @@ ___
 ### *otlichnici.ru (Example)*
 
 ```
-cat /var/www/httpd-logs/otlichnici.ru.error.log | grep -inE 'Out of memory'
+cat /var/www/httpd-logs/*.error.log | grep -inE 'Out of memory'
 ```
 ```
 cat /var/www/httpd-logs/otlichnici.ru.error.log | grep -inE 'Out of memory' | wc -l
 ```
 ```
-cat /var/www/httpd-logs/otlichnici.ru.access.log | grep -inE 'bot/'
+cat /var/www/httpd-logs/*.access.log | grep -inE 'bot/'
 ```
 ```
 cat /var/www/httpd-logs/otlichnici.ru.access.log | grep -inE 'bot/' | wc -l
 ```
 ```
-cat /var/www/httpd-logs/otlichnici.ru.access.log | grep -inE 'wp-cron.php'
+cat /var/www/httpd-logs/*.access.log | grep -inE 'wp-cron.php'
 ```
 ```
 cat /var/www/httpd-logs/otlichnici.ru.access.log | grep -inE 'wp-cron.php' | wc -l
