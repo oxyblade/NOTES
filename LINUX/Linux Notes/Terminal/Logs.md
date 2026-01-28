@@ -10,7 +10,7 @@ journalctl | grep -inE 'oom' | wc -l
 journalctl --since "00:00" | grep -inE 'Out of memory' | wc -l
 ```
 ```
-journalctl --since "00:00" | grep -inE 'ssh | Failed password' | wc -l
+journalctl --since "00:00" | grep -inE 'Failed password' | wc -l
 ```
 ```
 journalctl --since "2026-01-15"
@@ -22,7 +22,7 @@ journalctl --since "2026-01-15 10:00:00"
 journalctl -u mysql --since "2026-01-15 03:00" --until "2026-01-15 06:00"
 ```
 ```
-cat /var/log/auth.log | grep -inE 'ssh | Failed password'
+cat /var/log/auth.log | grep -inE 'Failed password'
 ```
 
 ___
