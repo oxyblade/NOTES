@@ -30,13 +30,13 @@ ___
 ### *otlichnici.ru (Example)*
 
 ```
-cat /var/www/httpd-logs/*.error.log | grep -inE 'Out of memory'
+cat /var/www/httpd-logs/*.error.log | grep -inE 'Out of memory' | wc -l
 ```
 ```
-cat /var/www/httpd-logs/*.access.log | grep -inE 'bot/'
+cat /var/www/httpd-logs/*.access.log | grep -inE 'bot/' | wc -l
 ```
 ```
-cat /var/www/httpd-logs/*.access.log | grep -inE 'wp-cron.php'
+cat /var/www/httpd-logs/*.access.log | grep -inE 'wp-cron.php' | wc -l
 ```
 
 ```
