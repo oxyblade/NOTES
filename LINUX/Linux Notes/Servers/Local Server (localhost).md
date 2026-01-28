@@ -2,6 +2,9 @@
 > systemctl status apache2.service | grep -inE 'Active:' && systemctl status mysql.service | grep -inE 'Active:'
 > ```
 > ```
+> systemctl status apache2-isp@php74.service | grep -inE 'Active:'
+> ```
+> ```
 > systemctl status apache2.service | grep -inE 'Active:' && systemctl status apache2-isp@php74.service | grep -inE 'Active:' && systemctl status mysql.service | grep -inE 'Active:'
 > ```
 > ```
